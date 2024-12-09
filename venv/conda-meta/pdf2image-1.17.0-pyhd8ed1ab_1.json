@@ -1,0 +1,174 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "pillow",
+    "poppler",
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sahil\\.conda\\pkgs\\pdf2image-1.17.0-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/INSTALLER",
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/LICENSE",
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/METADATA",
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/RECORD",
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/REQUESTED",
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/WHEEL",
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/direct_url.json",
+    "Lib/site-packages/pdf2image-1.17.0.dist-info/top_level.txt",
+    "Lib/site-packages/pdf2image/__init__.py",
+    "Lib/site-packages/pdf2image/exceptions.py",
+    "Lib/site-packages/pdf2image/generators.py",
+    "Lib/site-packages/pdf2image/parsers.py",
+    "Lib/site-packages/pdf2image/pdf2image.py",
+    "Lib/site-packages/pdf2image/py.typed",
+    "Lib/site-packages/pdf2image/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/pdf2image/__pycache__/exceptions.cpython-310.pyc",
+    "Lib/site-packages/pdf2image/__pycache__/generators.cpython-310.pyc",
+    "Lib/site-packages/pdf2image/__pycache__/parsers.cpython-310.pyc",
+    "Lib/site-packages/pdf2image/__pycache__/pdf2image.cpython-310.pyc"
+  ],
+  "fn": "pdf2image-1.17.0-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Sahil\\.conda\\pkgs\\pdf2image-1.17.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "1a5dbc1be5b125b16a23d20a99526fb2",
+  "name": "pdf2image",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Sahil\\.conda\\pkgs\\pdf2image-1.17.0-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6451a49275ddf393b9e113e70cdc358db35e4356c97fd9688183e49bc8e24409",
+        "sha256_in_prefix": "6451a49275ddf393b9e113e70cdc358db35e4356c97fd9688183e49bc8e24409",
+        "size_in_bytes": 1071
+      },
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ca97f29947051c250769e0195cd976c8ce00e1474fab428848f9b3fea302dc11",
+        "sha256_in_prefix": "ca97f29947051c250769e0195cd976c8ce00e1474fab428848f9b3fea302dc11",
+        "size_in_bytes": 6160
+      },
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1ca0075f207de487d40ba402992c547a0eff04cfded1e01b48d91c0e188a6c98",
+        "sha256_in_prefix": "1ca0075f207de487d40ba402992c547a0eff04cfded1e01b48d91c0e188a6c98",
+        "size_in_bytes": 1406
+      },
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "sha256_in_prefix": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "eba21c051de6df23911dbf6ec48e3faf657720f64c05a62fccac9e5501cfd3fe",
+        "sha256_in_prefix": "eba21c051de6df23911dbf6ec48e3faf657720f64c05a62fccac9e5501cfd3fe",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/pdf2image-1.17.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "354dd1ddb6f2398b0a2041d60e203118f9470c6b439e557a27e6656ccf1549f4",
+        "sha256_in_prefix": "354dd1ddb6f2398b0a2041d60e203118f9470c6b439e557a27e6656ccf1549f4",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/pdf2image/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e9cb5816a14f26c5aa316ee9c04cff7e22d7ccf1eda744cddfbd4e3da7b1e639",
+        "sha256_in_prefix": "e9cb5816a14f26c5aa316ee9c04cff7e22d7ccf1eda744cddfbd4e3da7b1e639",
+        "size_in_bytes": 298
+      },
+      {
+        "_path": "site-packages/pdf2image/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "bdcc6c70a14192a6f189a894b5821f2599047373d152450afcdcc6c3d3ae2254",
+        "sha256_in_prefix": "bdcc6c70a14192a6f189a894b5821f2599047373d152450afcdcc6c3d3ae2254",
+        "size_in_bytes": 623
+      },
+      {
+        "_path": "site-packages/pdf2image/generators.py",
+        "path_type": "hardlink",
+        "sha256": "b69fcb1af35a02e8fd7bcfe5a4b843585d823ac016b4db6add1e094c2c489a92",
+        "sha256_in_prefix": "b69fcb1af35a02e8fd7bcfe5a4b843585d823ac016b4db6add1e094c2c489a92",
+        "size_in_bytes": 917
+      },
+      {
+        "_path": "site-packages/pdf2image/parsers.py",
+        "path_type": "hardlink",
+        "sha256": "d2b0c25ca247daea31817c811bc4c60ae8538c25fe9b33a8ecba4896a31726ae",
+        "sha256_in_prefix": "d2b0c25ca247daea31817c811bc4c60ae8538c25fe9b33a8ecba4896a31726ae",
+        "size_in_bytes": 2609
+      },
+      {
+        "_path": "site-packages/pdf2image/pdf2image.py",
+        "path_type": "hardlink",
+        "sha256": "3118a70fcc5375b312909808537db2fb1683c81bba4e8eb84696f182e669dd8f",
+        "sha256_in_prefix": "3118a70fcc5375b312909808537db2fb1683c81bba4e8eb84696f182e669dd8f",
+        "size_in_bytes": 24642
+      },
+      {
+        "_path": "site-packages/pdf2image/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pdf2image/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pdf2image/__pycache__/exceptions.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pdf2image/__pycache__/generators.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pdf2image/__pycache__/parsers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pdf2image/__pycache__/pdf2image.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pdf2image",
+  "sha256": "dd15dbffbee56ffa5f7c737b9d89e7b9f31c333f28a771774103f2107dedb9e6",
+  "size": 16393,
+  "subdir": "noarch",
+  "timestamp": 1733174230000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pdf2image-1.17.0-pyhd8ed1ab_1.conda",
+  "version": "1.17.0"
+}

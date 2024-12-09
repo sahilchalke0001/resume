@@ -1,0 +1,51 @@
+{
+  "build": "h1383e82_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "msys2-conda-epoch <0.0a0"
+  ],
+  "depends": [
+    "libwinpthread >=12.0.0.r4.gg4f2fc60ca"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sahil\\.conda\\pkgs\\libgomp-14.2.0-h1383e82_1",
+  "files": [
+    "Library/bin/libgomp-1.dll",
+    "Library/share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION.gomp_copy"
+  ],
+  "fn": "libgomp-14.2.0-h1383e82_1.conda",
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "link": {
+    "source": "C:\\Users\\Sahil\\.conda\\pkgs\\libgomp-14.2.0-h1383e82_1",
+    "type": 1
+  },
+  "md5": "9e2d4d1214df6f21cba12f6eff4972f9",
+  "name": "libgomp",
+  "package_tarball_full_path": "C:\\Users\\Sahil\\.conda\\pkgs\\libgomp-14.2.0-h1383e82_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libgomp-1.dll",
+        "path_type": "hardlink",
+        "sha256": "a947e61238d10b0e4b2e85faedeb4a40890c71cba5ca3423cb7f77d28d7530a1",
+        "sha256_in_prefix": "a947e61238d10b0e4b2e85faedeb4a40890c71cba5ca3423cb7f77d28d7530a1",
+        "size_in_bytes": 1458349
+      },
+      {
+        "_path": "Library/share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION.gomp_copy",
+        "path_type": "hardlink",
+        "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "sha256_in_prefix": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "size_in_bytes": 3324
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d8739b834608f35775209b032f0c2be752ef187863c7ec847afcebe2f681be4e",
+  "size": 524249,
+  "subdir": "win-64",
+  "timestamp": 1729089441000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libgomp-14.2.0-h1383e82_1.conda",
+  "version": "14.2.0"
+}

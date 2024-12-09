@@ -1,0 +1,10 @@
+prefix=C:/Users/Sahil/Desktop/resume/venv/Library
+exec_prefix=C:/Users/Sahil/Desktop/resume/venv/Library
+libdir=C:/Users/Sahil/Desktop/resume/venv/Library/lib
+includedir=C:/Users/Sahil/Desktop/resume/venv/Library/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.0.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}
