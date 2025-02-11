@@ -1,17 +1,32 @@
 from flask import Flask, render_template, request, jsonify
+# Flask: Used to create a web server.
+# render_template: Renders HTML templates.
+# request: Handles user inputs (job description, file uploads).
+# jsonify: Converts Python objects into JSON responses.
+
 from dotenv import load_dotenv
 import base64
+# base64: Encodes and decodes binary files (images).
+
 import os
 import io
+# io: Handles file processing in memory.
+
 from PIL import Image
+# PIL (Pillow): Processes images (converting PDFs to images).
+
 import pdf2image
+# pdf2image: Converts PDFs into images for AI processing.
+    
 import google.generativeai as genai
+# google.generativeai: Google Gemini AI API for resume evaluation.
 
 # Load environment variables
 load_dotenv()
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
+# Initialize Flask App
 app = Flask(__name__)
 
 # Function to interact with Gemini API
@@ -39,7 +54,7 @@ def input_pdf_setup(uploaded_file):
                 "data": base64.b64encode(img_byte_arr).decode()  # Encode to base64
             }
         ]
-        return pdf_parts
+        return pdf_parts# Return processed PDF as an image
     else:
         raise FileNotFoundError("No file uploaded")
 
