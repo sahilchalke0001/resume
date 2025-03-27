@@ -1,28 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ATS Resume Expert</title>
-
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    
+
     <style>
+            footer {
+            background-color: #dc3545; /* Bootstrap Danger Red */
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            margin-top: 30px;
+            border-top: 5px solid #6c757d;
+        }
+        .footer-content {
+            max-width: 700px;
+            margin: 0 auto;
+            font-size: 0.9rem;
+        }
+        .footer-content p {
+            margin: 5px 0;
+            line-height: 1.5;
+        }
+        .footer-content a {
+            color: #ffc107; /* Bootstrap Warning Yellow */
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .footer-content a:hover {
+            text-decoration: underline;
+        }
+        .social-icons {
+            margin-top: 10px;
+        }
+        .social-icons a {
+            margin: 0 8px;
+            color: #ffc107; /* Consistent color for icons */
+        }
         .btn-primary {
             --bs-btn-color: #fff;
-            --bs-btn-bg: #dc3545; 
-            --bs-btn-border-color: #dc3545; 
+            --bs-btn-bg: #dc3545;
+            --bs-btn-border-color: #dc3545;
             --bs-btn-hover-color: #fff;
-            --bs-btn-hover-bg: #c82333; 
-            --bs-btn-hover-border-color: #bd2130; 
-            --bs-btn-focus-shadow-rgb: 220, 53, 69; 
+            --bs-btn-hover-bg: #c82333;
+            --bs-btn-hover-border-color: #bd2130;
+            --bs-btn-focus-shadow-rgb: 220, 53, 69;
             --bs-btn-active-color: #fff;
-            --bs-btn-active-bg: #bd2130; 
-            --bs-btn-active-border-color: #b21f2d; 
+            --bs-btn-active-bg: #bd2130;
+            --bs-btn-active-border-color: #b21f2d;
             --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
             --bs-btn-disabled-color: #fff;
-            --bs-btn-disabled-bg: #dc3545; 
-            --bs-btn-disabled-border-color: #dc3545; 
+            --bs-btn-disabled-bg: #dc3545;
+            --bs-btn-disabled-border-color: #dc3545;
         }
 
         mark {
@@ -30,72 +63,89 @@
             background-color: #ff0008;
             border-radius: 10px;
         }
+
         .btn-container {
             text-align: center;
-            color: rgb(220,20,60);
+            margin-top: 20px;
         }
+
         label {
             color: rgb(202, 20, 20);
             background-color: aliceblue;
             border-radius: 5px;
+            padding: 5px;
         }
-        
+
         body {
             background-color: #b22222;
             background-image: url('/static/images/library.jpg');
-            background-size: cover; 
-            background-position: center center; 
-            background-repeat: no-repeat; 
-            background-attachment: fixed; 
-            height: 100vh; 
-            margin: 0; 
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            height: 100vh;
+            margin: 0;
         }
+
         #response {
             background-color: aliceblue;
             border-radius: 5px;
-            color: rgb(220,20,60);
+            color: rgb(220, 20, 60);
             font-size: medium;
+            padding: 10px;
+            margin-top: 20px;
         }
     </style>
 </head>
+
 <body>
     <div class="container mt-5">
-        <h1 class="text-center"><Mark>🤖 Resume Expert🤖</Mark></h1>
+        <h1 class="text-center"><mark>🤖 Resume Expert 🤖</mark></h1>
         <form id="resume-form" method="POST" action="/evaluate" enctype="multipart/form-data">
             <div class="mb-3">
+                <label for="first_name" class="form-label">First Name</label>
+                <input type="text" class="form-control" id="first_name" name="first_name"
+                    placeholder="Enter your first name" required>
+            </div>
+            <div class="mb-3">
+                <label for="last_name" class="form-label">Last Name</label>
+                <input type="text" class="form-control" id="last_name" name="last_name"
+                    placeholder="Enter your last name" required>
+            </div>
+            <div class="mb-3">
+                <label for="email" class="form-label">Email Address</label>
+                <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email"
+                    required>
+            </div>
+            <div class="mb-3">
                 <label for="job_description" class="form-label">Job Description</label>
-                <textarea class="form-control" id="job_description" name="job_description" rows="9" placeholder="Please enter Your Job description here"></textarea>
+                <textarea class="form-control" id="job_description" name="job_description" rows="9"
+                    placeholder="Please enter your job description here" required></textarea>
             </div>
             <div class="mb-3">
                 <label for="resume" class="form-label">Upload Resume (PDF)</label>
-                <input class="form-control" type="file" id="resume" name="resume" accept="application/pdf">
+                <input class="form-control" type="file" id="resume" name="resume" accept="application/pdf" required>
             </div>
             <div class="mb-3">
                 <label for="prompt_type" class="form-label">Select Prompt Type</label>
-                <select class="form-select" id="prompt_type" name="prompt_type">
-                    <option value="evaluation">Professional Evaluation (summerizes the whole resume for you and tells you what can be improved)</option>
-                    <option value="percentage_match">Percentage Match (Treies to match the your resume with the keywords present in the job description)</option>
+                <select class="form-select" id="prompt_type" name="prompt_type" required>
+                    <option value="evaluation">Professional Evaluation (summarizes the whole resume and suggests
+                        improvements)</option>
+                    <option value="percentage_match">Percentage Match (matches your resume with job description
+                        keywords)</option>
                 </select>
             </div>
-            <!-- Button container for centering -->
             <div class="btn-container">
                 <button type="submit" class="btn btn-primary">Submit</button>
             </div>
         </form>
-        <div id="response" class="mt-4"></div>
-        
     </div>
-    <script>
-        document.getElementById('resume-form').onsubmit = async function (e) {
-            e.preventDefault();
-            const formData = new FormData(this);
-            const response = await fetch('/evaluate', {
-                method: 'POST',
-                body: formData
-            });
-            const result = await response.json();
-            document.getElementById('response').innerText = result.error || result.response;
-        };
-    </script>
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2025 ATS Resume Expert. All rights reserved.</p><br>
+            <p>Now you can improve your resume and get a percentage match with job description</p>
+        </div>
+    </footer>
 </body>
+
 </html>

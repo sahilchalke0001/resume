@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Evaluation Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f13434;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 700px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            color: #dc3545;
+        }
+        h2 {
+            color: #28a745;
+        }
+        p {
+            color: #343a40;
+            line-height: 1.6;
+        }
+        .email-msg {
+            margin-top: 20px;
+            color: #007bff;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9rem;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Hello, {{ name }}! 👋</h1>
+        <h2>✅ Your ATS Evaluation Result:</h2>
+        <p>{{ response | replace('**', '<br><br>') | safe }}</p>
+        
+        <h3 class="email-msg">📧 A copy of the result has been sent to your email.</h3>
+
+        <div class="footer">
+            <p>Thank you for using <strong>ATS Resume Expert</strong>! We wish you the best in your job search. 🎯</p>
+        </div>
+    </div>
+
+</body>
+</html>
