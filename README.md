@@ -3,6 +3,12 @@
 ## Overview
 The **ATS Resume Tracker** is a web-based application built using **Python Flask** and **Gemini API** to evaluate resumes against job descriptions. It provides a **percentage match** between a resume and job description and **summarizes the resume**, highlighting the candidate's **strengths and weaknesses**. The results are displayed on the website and emailed to the user using **SMTP**.
 
+# ATS Resume Tracker  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Resume%20Tracker-blue)](https://resume-1-ds3s.onrender.com) 
+
+![image](https://github.com/user-attachments/assets/a1da9191-4fd8-4326-aaae-6972e000e70a)
+
+
 ## Features
 - **Resume Parsing**: Extracts relevant information from the uploaded resume.
 - **Job Description Matching**: Calculates a percentage match between the resume and the job description.
