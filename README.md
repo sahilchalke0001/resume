@@ -5,8 +5,10 @@ The **ATS Resume Tracker** is a web-based application built using **Python Flask
 
 # ATS Resume Tracker  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Resume%20Tracker-blue)](https://resume-1-ds3s.onrender.com) 
-
-![image](https://github.com/user-attachments/assets/a1da9191-4fd8-4326-aaae-6972e000e70a)
+![image](https://github.com/user-attachments/assets/d9d2b6cd-e140-4304-ae23-35d948a800c8)
+![image](https://github.com/user-attachments/assets/bd5a4c70-0fef-4fb4-a6f7-c2dae2df9bc3)
+## emailed result
+![image](https://github.com/user-attachments/assets/03a4dab1-f217-41f9-b21d-6b5df6527653)
 
 
 ## Features
