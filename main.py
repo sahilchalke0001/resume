@@ -80,12 +80,17 @@ def evaluate():
                 "against the job description. Please share your professional evaluation on whether the candidate's "
                 "profile aligns with the role. Highlight the strengths and weaknesses."
                 "do not list 1,2,3 this things while giving the response"
+                "Only include characters a-z, A-Z, 0-9 in the response. "
+                "Do not include emojis or any other special characters."
             )
         elif prompt_type == "percentage_match":
             input_prompt = (
-                "You are a skilled ATS scanner with expertise in resume analysis. Evaluate the resume against the "
-                "provided job description. Give a percentage match along with missing keywords and suggestions."
-                "do not list 1,2,3 this things while giving the response"
+                "You are a skilled ATS scanner with expertise in resume analysis. "
+                "Evaluate the resume against the provided job description. "
+                "Give a percentage match along with missing keywords and suggestions. "
+                "Do not list items using 1, 2, 3, etc. "
+                "Only include characters a-z, A-Z, 0-9, and % in the response. "
+                "Do not include emojis or any other special characters."
             )
         else:
             return jsonify({"error": "Invalid prompt type."}), 400
