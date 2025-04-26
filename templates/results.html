@@ -12,20 +12,21 @@
             font-family: 'Roboto', sans-serif;
             background: linear-gradient(to right, #b31217, #e52d27, #ff512f);
             margin: 0;
-            padding: 0;
+            padding: 20px; /* Add padding for smaller screens */
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start; /* Align container to top */
             min-height: 100vh;
         }
 
         .container {
-            background: rgba(255, 255, 255, 0.96);
-            max-width: 750px;
+            background: rgba(255, 255, 255, 0.97); /* Slightly less transparent */
+            max-width: 800px; /* Slightly wider */
+            width: 95%; /* Responsive width */
             margin: 40px auto;
-            padding: 30px;
+            padding: 30px 35px; /* More padding */
             border-radius: 16px;
-            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2); /* Stronger shadow */
             text-align: center;
             animation: fadeIn 1.2s ease-in-out;
         }
@@ -36,53 +37,181 @@
         }
 
         h1 {
-            font-size: 2.2rem;
+            font-size: 2.3rem; /* Slightly larger */
             color: #c0392b;
-            margin-bottom: 10px;
+            margin-bottom: 15px;
         }
 
         h2 {
-            font-size: 1.6rem;
+            font-size: 1.7rem; /* Slightly larger */
             color: #27ae60;
-            margin-bottom: 20px;
+            margin-bottom: 25px;
         }
 
-        h3.email-msg {
+         h3.email-msg {
             color: #007bff;
-            margin-top: 30px;
-        }
+            margin-top: 35px;
+            font-size: 1.1rem;
+         }
 
-        p {
+        p { /* Default paragraph style */
             font-size: 1.05rem;
             color: #343a40;
             line-height: 1.7;
-        }
+         }
 
-        .footer {
-            margin-top: 40px;
-            font-size: 0.95rem;
-            color: #6c757d;
-        }
-
-        .highlight {
+        .highlight { /* Style for the analysis text box */
             background-color: #fff3cd;
             border-left: 6px solid #ffc107;
-            padding: 10px 15px;
-            margin: 20px 0;
+            padding: 18px 22px; /* More padding */
+            margin: 25px 0;
             border-radius: 8px;
+            text-align: left;
+            font-size: 1rem;
+            line-height: 1.65; /* Slightly more line spacing */
+        }
+         .highlight p { /* Style specifically for paragraphs inside highlight */
+             margin-bottom: 1em; /* Add space between paragraphs */
+         }
+         .highlight p:last-child {
+             margin-bottom: 0; /* No margin after the last paragraph */
+         }
+
+        .footer {
+             margin-top: 35px;
+             font-size: 0.9rem;
+             color: #666; /* Slightly darker footer text */
         }
 
-        .icon {
-            font-size: 1.8rem;
-            margin-right: 5px;
-            vertical-align: middle;
+        /* --- YouTube Links Section --- */
+        .youtube-links-section {
+            margin-top: 40px;
+            text-align: left;
+            border-top: 1px solid #ddd; /* Slightly darker border */
+            padding-top: 30px;
+        }
+
+        .youtube-links-section h3 {
+            color: #e52d27;
+            margin-bottom: 25px;
+            font-size: 1.6rem; /* Larger heading */
+            text-align: center;
+        }
+
+        /* Grid layout for video thumbnails */
+        .youtube-links-section ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: grid;
+            /* Responsive grid: min 160px width, max 1fr */
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 25px; /* Space between items */
+        }
+
+        .youtube-links-section li {
+            background-color: #fff; /* White background for contrast */
+            border-radius: 8px;
+            overflow: hidden; /* Keep image corners rounded */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Softer shadow */
+            transition: transform 0.2s ease-out, box-shadow 0.2s ease-out;
+            display: flex; /* Use flexbox for better internal alignment */
+            flex-direction: column; /* Stack image and title vertically */
+        }
+         .youtube-links-section li:hover {
+             transform: translateY(-5px) scale(1.02); /* Lift and slightly scale on hover */
+             box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+         }
+
+        .youtube-links-section a {
+            display: flex; /* Make link container use flex */
+            flex-direction: column; /* Stack image and title */
+            text-decoration: none;
+            color: #333;
+            flex-grow: 1; /* Allow link to grow within the li */
+        }
+
+        .youtube-links-section img {
+            display: block;
+            width: 100%;
+            height: auto; /* Maintain aspect ratio */
+            /* height: 120px; */ /* Or uncomment for fixed height, add object-fit: cover; */
+            /* object-fit: cover; */
+            border-bottom: 1px solid #eee;
+        }
+
+        .youtube-links-section .video-title {
+            padding: 12px 10px; /* More padding */
+            font-size: 0.9rem;
+            line-height: 1.4;
+            text-align: center;
+            color: #111;
+            flex-grow: 1; /* Allow title area to fill remaining space */
+            display: flex; /* Center text vertically if needed */
+            align-items: center;
+            justify-content: center;
+            min-height: 50px; /* Ensure minimum space for title */
+        }
+
+        /* --- Fallback Query List --- */
+         .fallback-queries ul {
+             display: block; /* Override grid */
+             text-align: center;
+             margin-top: 15px;
+         }
+         .fallback-queries li {
+             background: none;
+             box-shadow: none;
+             margin-bottom: 8px;
+             font-style: italic;
+             color: #444; /* Darker italic text */
+             font-size: 1rem;
+             transition: none; /* No hover effect */
+             padding: 5px;
+             border-radius: 0;
+             flex-direction: row; /* Reset flex direction */
+         }
+          .fallback-queries li:hover {
+             transform: none;
+             box-shadow: none;
+         }
+
+        /* --- Media Queries --- */
+        @media (max-width: 768px) {
+             .container { padding: 25px 20px; }
+             h1 { font-size: 2rem; }
+             h2 { font-size: 1.5rem; }
+             .youtube-links-section h3 { font-size: 1.4rem; }
+             .youtube-links-section ul {
+                 grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); /* Adjust grid */
+                 gap: 20px;
+             }
         }
 
         @media (max-width: 576px) {
-            h1 { font-size: 1.6rem; }
-            h2 { font-size: 1.3rem; }
-            p { font-size: 1rem; }
+            body { padding: 10px; }
+            .container { padding: 20px 15px; margin: 20px auto; width: 98%; }
+            h1 { font-size: 1.7rem; }
+            h2 { font-size: 1.4rem; }
+            p, .highlight { font-size: 0.95rem; }
+            .highlight { padding: 15px; }
+            .youtube-links-section { margin-top: 30px; padding-top: 20px;}
+            .youtube-links-section h3 { font-size: 1.3rem; margin-bottom: 20px;}
+            .youtube-links-section ul {
+                 /* Switch to 2 columns on small mobile, then 1 */
+                 grid-template-columns: repeat(2, 1fr);
+                 gap: 15px;
+            }
+             .youtube-links-section .video-title { font-size: 0.85rem; min-height: 40px; padding: 8px;}
+            h3.email-msg { font-size: 1rem; margin-top: 25px;}
+            .footer { font-size: 0.8rem; margin-top: 25px;}
         }
+         @media (max-width: 400px) {
+              .youtube-links-section ul {
+                 /* Single column on very small screens */
+                 grid-template-columns: 1fr;
+             }
+         }
     </style>
 </head>
 <body>
@@ -91,8 +220,42 @@
         <h1>👋 Hello, <strong>{{ name }}</strong>!</h1>
         <h2>✅ Your ATS Evaluation Result:</h2>
         <div class="highlight">
-            <p>{{ response | replace('**', '<br><br>') | safe }}</p>
+            <p>{{ response | replace('\n\n', '</p><p>') | replace('\n', '<br>') | safe }}</p>
         </div>
+
+        {# --- Display YouTube Videos --- #}
+        {% if youtube_links %}
+        <div class="youtube-links-section">
+            <h3>Suggested Videos for Improvement:</h3>
+            <ul>
+                {# Loop through the list of video dictionaries #}
+                {% for video in youtube_links %}
+                <li>
+                    {# Link wraps the image and title #}
+                    <a href="{{ video.url }}" target="_blank" title="Watch '{{ video.title }}' on YouTube">
+                        {# Display the thumbnail image #}
+                        <img src="{{ video.thumbnail }}" alt="Thumbnail for {{ video.title }}">
+                        {# Display the video title below the image #}
+                        <div class="video-title">{{ video.title }}</div>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        {# --- Display Fallback Search Queries --- #}
+        {# Corrected variable name check if needed, assuming youtube_queries #}
+        {% if not youtube_links and youtube_queries %}
+        <div class="youtube-links-section fallback-queries">
+            <h3>Could not retrieve videos. Try searching YouTube for:</h3>
+             <ul>
+                {% for query in youtube_queries %}
+                <li>{{ query }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
 
         <h3 class="email-msg">📧 We've also emailed this report to you!</h3>
 

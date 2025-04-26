@@ -1,7 +1,29 @@
-streamlit
-pdf2image
-google-generativeai
-python-dotenv
-flask
-gunicorn
-fpdf
+# Core Flask and Web Server
+Flask>=2.0 # Using >=2.0 for modern features
+gunicorn # WSGI server for deployment
+
+# Google AI and Langchain RAG
+google-generativeai>=0.4.0 # For Gemini API
+langchain>=0.1.0 # Core Langchain framework
+langchain-google-genai>=0.1.0 # Langchain integration for Google AI
+langchain-community>=0.0.20 # For loaders, vector stores etc.
+
+# Vector Store & Embeddings
+chromadb>=0.4.0 # Vector database client used by Chroma
+sentence-transformers>=2.2.0 # Often used for embeddings
+
+# PDF Processing
+PyMuPDF>=1.23.0 # For extracting text via fitz (used in the Flask app)
+pdf2image>=1.16.0 # For converting PDF to images (requested by user)
+fpdf>=1.7.2 # For generating PDFs (requested by user)
+
+# Environment Variables
+python-dotenv>=0.19.0 # For loading .env files
+
+# Streamlit (Requested by user)
+streamlit>=1.20.0
+
+# Optional but recommended for specific versions if needed:
+# Specify versions known to work together if you encounter issues
+# e.g., Flask==2.3.2
+google-api-python-client
