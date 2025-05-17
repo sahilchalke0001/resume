@@ -6,6 +6,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resume Evaluation Result</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+        let utterance;
+        let isPaused = false;
+
+        function speakText() {
+            const textElement = document.querySelector('.highlight');
+            if (!textElement) return;
+
+            const text = textElement.innerText || textElement.textContent;
+            utterance = new SpeechSynthesisUtterance(text);
+            utterance.rate = 1;
+            utterance.pitch = 1;
+            utterance.lang = 'en-US';
+
+            speechSynthesis.cancel(); // Stop any previous speech
+            speechSynthesis.speak(utterance);
+        }
+
+        function togglePauseResume() {
+            if (speechSynthesis.speaking) {
+                if (isPaused) {
+                    speechSynthesis.resume();
+                    isPaused = false;
+                } else {
+                    speechSynthesis.pause();
+                    isPaused = true;
+                }
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const speakBtn = document.getElementById('speak-btn');
+            const pauseBtn = document.getElementById('pause-btn');
+
+            if (speakBtn) speakBtn.addEventListener('click', speakText);
+            if (pauseBtn) pauseBtn.addEventListener('click', togglePauseResume);
+        });
+    </script>
+
 
     <style>
         body {
@@ -176,6 +215,16 @@
              box-shadow: none;
          }
 
+         #speak-btn
+         {
+            margin-top: 25px;
+            padding: 10px 20px; 
+            font-size: 1rem; border: none; 
+            background-color: #0F52BA; 
+            color: white; border-radius: 8px; 
+            cursor: pointer;
+         }
+
         /* --- Media Queries --- */
         @media (max-width: 768px) {
              .container { padding: 25px 20px; }
@@ -212,6 +261,20 @@
                  grid-template-columns: 1fr;
              }
          }
+        #pause-btn{
+            padding: 10px 20px; 
+            font-size: 1rem; 
+            border: none; 
+            background-color: #0F52BA; 
+            color: white; 
+            border-radius: 8px; 
+            margin-left: 50px;
+            cursor: pointer;
+        }
+
+        .feature{
+            margin-top: 25px;
+        }
     </style>
 </head>
 <body>
@@ -222,6 +285,17 @@
         <div class="highlight">
             <p>{{ response | replace('\n\n', '</p><p>') | replace('\n', '<br>') | safe }}</p>
         </div>
+        <div class="feature">
+            <button id="speak-btn" >
+                🔊 Read My Evaluation
+            </button>
+            <button id="pause-btn" >
+                ⏸️ Pause / Resume
+            </button>
+        </div>
+
+
+
 
         {# --- Display YouTube Videos --- #}
         {% if youtube_links %}
