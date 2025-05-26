@@ -27,3 +27,7 @@ streamlit>=1.20.0
 # Specify versions known to work together if you encounter issues
 # e.g., Flask==2.3.2
 google-api-python-client
+SQLAlchemy
+pymongo[srv] 
+werkzeug 
+Flask-Login

@@ -6,19 +6,6 @@ import googleapiclient.errors # Import errors for specific handling
 # pip install google-api-python-client
 
 def get_youtube_links(query_list, api_key, max_results=3):
-    """
-    Searches YouTube for videos based on a list of queries and
-    returns a list of dictionaries containing video details (URL, title, thumbnail).
-
-    Args:
-        query_list (list): A list of search terms.
-        api_key (str): Your Google API key with access to the YouTube Data API.
-        max_results (int): Max videos per query.
-
-    Returns:
-        list: A list of dictionaries, each with 'id', 'url', 'title', 'thumbnail'.
-              Returns an empty list if the API key is missing or an error occurs.
-    """
     videos_data = []
     processed_ids = set() # Keep track of added video IDs to avoid duplicates
 
