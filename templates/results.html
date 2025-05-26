@@ -62,25 +62,62 @@
     <style>
       body {
         font-family: "Roboto", sans-serif;
-        background: linear-gradient(to right, #b31217, #e52d27, #ff512f);
+        background: linear-gradient(to right, #b31217, #fc5b55, #ff8971);
         margin: 0;
-        padding: 20px; /* Add padding for smaller screens */
+        padding: 0; /* Remove body padding here, header will handle it */
         display: flex;
-        justify-content: center;
-        align-items: flex-start; /* Align container to top */
+        flex-direction: column; /* Allow header and container to stack */
+        justify-content: flex-start; /* Align content to top */
         min-height: 100vh;
       }
+
+      .app-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px 30px;
+        background-color: rgba(0, 0, 0, 0.4);
+        color: white;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .welcome-message {
+        font-size: 1.15rem;
+        font-weight: 600;
+        color: #fff;
+      }
+
+      .logout-btn {
+        background-color: #dc3545; /* Bootstrap danger red */
+        color: white;
+        padding: 8px 18px;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none; /* Remove underline from link */
+        font-size: 0.95rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+      }
+
+      .logout-btn:hover {
+        background-color: #c82333; /* Darker red on hover */
+        transform: translateY(-2px); /* Slight lift effect */
+      }
+      /* --- End Header and Logout Button Styling --- */
 
       .container {
         background: rgba(255, 255, 255, 0.97); /* Slightly less transparent */
         max-width: 800px; /* Slightly wider */
         width: 95%; /* Responsive width */
-        margin: 40px auto;
+        margin: 40px auto; /* Centered with top/bottom margin */
         padding: 30px 35px; /* More padding */
         border-radius: 16px;
         box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2); /* Stronger shadow */
         text-align: center;
         animation: fadeIn 1.2s ease-in-out;
+        flex-grow: 1; /* Allow container to grow and push footer down */
       }
 
       @keyframes fadeIn {
@@ -139,9 +176,11 @@
       }
 
       .footer {
-        margin-top: 35px;
+        margin-top: 35px; /* Adjust margin based on container's flex-grow */
         font-size: 0.9rem;
         color: #666; /* Slightly darker footer text */
+        width: 100%; /* Ensure footer spans full width */
+        box-sizing: border-box; /* Include padding in width */
       }
 
       /* --- YouTube Links Section --- */
@@ -196,8 +235,6 @@
         display: block;
         width: 100%;
         height: auto; /* Maintain aspect ratio */
-        /* height: 120px; */ /* Or uncomment for fixed height, add object-fit: cover; */
-        /* object-fit: cover; */
         border-bottom: 1px solid #eee;
       }
 
@@ -237,7 +274,9 @@
         box-shadow: none;
       }
 
-      #speak-btn {
+      #speak-btn,
+      #pause-btn,
+      #save-pdf-btn {
         margin-top: 25px;
         padding: 10px 20px;
         font-size: 1rem;
@@ -246,10 +285,30 @@
         color: white;
         border-radius: 8px;
         cursor: pointer;
+        /* Adjusted margin for better spacing */
+        margin-left: 10px; /* Space between buttons */
+        margin-right: 10px;
+      }
+      #speak-btn:first-child {
+        margin-left: 0; /* No left margin for the first button */
+      }
+
+      .feature {
+        margin-top: 25px;
       }
 
       /* --- Media Queries --- */
       @media (max-width: 768px) {
+        .app-header {
+          padding: 10px 20px;
+        }
+        .welcome-message {
+          font-size: 1rem;
+        }
+        .logout-btn {
+          padding: 6px 12px;
+          font-size: 0.85rem;
+        }
         .container {
           padding: 25px 20px;
         }
@@ -273,7 +332,7 @@
 
       @media (max-width: 576px) {
         body {
-          padding: 10px;
+          padding: 0; /* Remove body padding here for small screens too */
         }
         .container {
           padding: 20px 15px;
@@ -319,6 +378,23 @@
           font-size: 0.8rem;
           margin-top: 25px;
         }
+        #speak-btn,
+        #pause-btn,
+        #save-pdf-btn {
+          margin-left: 5px; /* Less margin on small screens */
+          margin-right: 5px;
+          padding: 8px 15px;
+          font-size: 0.9rem;
+        }
+        .feature {
+          display: flex;
+          flex-wrap: wrap; /* Allow buttons to wrap */
+          justify-content: center;
+          gap: 10px; /* Space between wrapped buttons */
+        }
+        #speak-btn:first-child {
+          margin-left: auto; /* Center buttons if wrapped to new line */
+        }
       }
       @media (max-width: 400px) {
         .youtube-links-section ul {
@@ -326,27 +402,16 @@
           grid-template-columns: 1fr;
         }
       }
-      #pause-btn,
-      #save-pdf-btn {
-        padding: 10px 20px;
-        font-size: 1rem;
-        border: none;
-        background-color: #0f52ba;
-        color: white;
-        border-radius: 8px;
-        margin-left: 50px;
-        cursor: pointer;
-      }
-
-      .feature {
-        margin-top: 25px;
-      }
     </style>
   </head>
   <body>
+    <div class="app-header">
+      <span class="welcome-message">AST Resume Tracker</span>
+      <a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+    </div>
     <div class="container">
-      <h1>👋 Hello, <strong>{{ name }}</strong>!</h1>
-      <h2>✅ Your ATS Evaluation Result:</h2>
+      <h1>Hello, <strong>{{ name }}</strong>!</h1>
+      <h2>Your ATS Evaluation Result:</h2>
       <div class="highlight">
         <p>{{ response | replace('\n\n', '</p>
         <p>') | replace('\n', '<br />') | safe }}</p>

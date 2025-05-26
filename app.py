@@ -110,57 +110,53 @@ def initialize_rag_pipeline_lcel():
     llm = GoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GOOGLE_API_KEY, temperature=0.6)
 
     template = """
-You are an expert ATS (Applicant Tracking System) evaluator and career advisor AI.
-Analyze the provided Resume against the Job Description, using the Context for guidance.
+    You are an expert ATS (Applicant Tracking System) evaluator and career advisor AI.
+    Analyze the provided Resume against the Job Description, using the Context for guidance.
 
-Context:
-{context}
+    Context:
+    {context}
 
-Job Description:
-{job_description}
+    Job Description:
+    {job_description}
 
-Resume Text:
-{resume_text}
+    Resume Text:
+    {resume_text}
 
-Analysis Type Requested: {analysis_type}
+    Analysis Type Requested: {analysis_type}
 
-Instructions:
-- If "percentage_match":
-  1. Calculate a percentage match (0-100%).
-  2. Justify the score.
-  3. List top 3-5 missing items under "Key Missing Areas:".
-  4. List 3 keywords/phrases under "Keywords for Improvement:".
-- If "evaluation":
-  1. Provide a 2-3 paragraph evaluation (strengths, weaknesses, fit).
-  2. Highlight 2-3 key skills/experiences.
-  3. Conclude with a recommendation.
-  4. List 3 keywords/phrases under "Keywords for Improvement:".
+    Instructions:
+    - If Analysis Type is "percentage_match":
+    1. Calculate a percentage match (0–100) based on how well the resume aligns with the job description and context.
+    2. Justify the score clearly.
+    3. Under the heading **Key Missing Areas:** list the top 3–5 missing skills, qualifications, or experiences.
+    4. Under the heading **Keywords for Improvement:** list 3 keywords or phrases that the candidate should consider including in their resume.
+        - Each keyword must be on a separate line.
+        - Do not use bullets, numbers, or special characters.
+        - Only include characters a–z, A–Z, 0–9, and spaces.
+        - Do not include "**" in the RESULT.
 
-**Keywords for Improvement Formatting:**
-- Must have the heading: "Keywords for Improvement:"
-- Each keyword on a new line.
-- No numbering, bullets, or special characters (only a-z, A-Z, 0-9, space).
+    - If Analysis Type is "evaluation":
+    1. Write a professional evaluation (2–3 paragraphs) summarizing strengths, weaknesses, and overall fit, referencing the job description and context.
+    2. Highlight 2–3 key relevant or missing skills/experiences.
+    3. Conclude with a brief recommendation such as:
+        - Proceed to interview
+        - Consider for other roles
+        - Needs significant improvement
+    4. Under the heading **Keywords for Improvement:** list 3 specific, actionable keywords or phrases the candidate could add to their resume.
+        - Each keyword must be on a new line.
+        - Do not include numbers, bullets, or any special characters.
+        - Only include characters a–z, A–Z, 0–9, and spaces.
+        - Do not include "**" in the RESULT
 
-- If Analysis Type is "evaluation":
-    1. Provide a professional evaluation (2-3 paragraphs) covering strengths, weaknesses, and overall fit for the role, referencing the job description and context.
-    2. Highlight 2-3 key skills or experiences that are particularly relevant or missing.
-    3. Conclude with a brief recommendation (e.g., Proceed to interview, Consider for other roles, Needs significant improvement).
-    4. You must output a section titled exactly: "Keywords for Improvement:".
-    Under this heading, list 3 specific, actionable keywords or phrases the candidate could incorporate into their resume.
-    Each keyword or phrase should be on a separate line.
-    "do not list 1,2,3 or point icons this things while giving the response"
-    "Only include characters a-z, A-Z, 0-9 in the response. "
-    "Do not include emojis or any other special characters."
+    - Output must include the following **two exact headings** (spelled and capitalized as shown):
+    - Key Missing Areas:
+    - Keywords for Improvement:
 
+    - If the job description and resume are in a language other than English, the analysis output (percentage match or evaluation) must be in that same language.
 
-- Format this list clearly under a heading like "Key Missing Areas:".
-+ You must output this list under a clear heading exactly titled "Key Missing Areas:".
+    Begin Evaluation:
+    """
 
-- Format this list clearly under a heading like "Keywords for Improvement:".
-+ You must output this list under a clear heading exactly titled "Keywords for Improvement:".
-
-Begin Evaluation:
-"""
     RAG_PROMPT = PromptTemplate.from_template(template)
 
     def format_docs(docs):
