@@ -31,3 +31,5 @@ SQLAlchemy
 pymongo[srv] 
 werkzeug 
 Flask-Login
+langchain-mongodb[pydantic]  
+langchain-mongodb
