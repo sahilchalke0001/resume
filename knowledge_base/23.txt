@@ -1,0 +1,85 @@
+ Candidate Resume Summary (Unmatched Profile)
+Name: Raj Mehta
+Email: rajmehta.uiux@gmail.com
+LinkedIn: linkedin.com/in/rajuxdesigner
+Portfolio: rajuxdesigns.in
+Location: Mumbai, India
+
+🎓 Education:
+B.Des. in Communication Design, NID Ahmedabad – 8.2 CGPA (2022)
+
+🧠 Skills:
+Design Tools: Figma, Adobe XD, Illustrator, Photoshop
+
+Web: HTML, CSS, basic JavaScript
+
+UX Methods: Wireframing, User Research, Heuristic Evaluation
+
+Tools: Trello, Notion, Miro, Canva
+
+💼 Work Experience:
+UX Designer – Swiggy
+July 2022 – Present
+
+Redesigned the Swiggy Partner Portal increasing partner engagement by 15%.
+
+Conducted 40+ user interviews and developed UX personas.
+
+Created responsive design systems using Figma.
+
+Intern – Zomato
+Jan 2022 – Apr 2022
+
+Assisted in redesigning the Zomato Gold mobile flow.
+
+Created interactive prototypes for A/B testing.
+
+💡 Projects:
+FoodieFlow – A UX case study on food delivery app redesign
+
+EduLearn – Designed a web platform for virtual classrooms
+
+📄 Job Description – Software Engineer (Backend)
+(Same as previous)
+
+📊 Match Percentage: 29% ❌
+🔍 Match Breakdown:
+JD Requirement	Resume Match	Match Score
+Node.js/Python (Django/Flask)	❌ (Not Mentioned)	0/10
+API Development	❌	0/10
+Cloud Experience (AWS)	❌	0/10
+SQL/NoSQL	❌	0/10
+Docker & CI/CD	❌	0/10
+1–3 Years Experience (Backend)	❌ (Only UX Experience)	1/10
+Team Collaboration	✅ (Design Collaboration)	5/10
+Test Writing	❌	0/10
+Web Basics	✅ (HTML, CSS, JS basics)	3/10
+Project Delivery	✅ (UX Case Studies)	10/10
+
+🧠 Professional Evaluation
+✅ Strengths:
+Strong visual design and UX skills with solid portfolio projects.
+
+Real experience working on high-impact user interfaces.
+
+Strong documentation and research capabilities.
+
+❌ Weaknesses:
+No relevant backend development experience.
+
+No exposure to backend frameworks, APIs, cloud, or testing.
+
+Lacks programming proficiency in backend languages (Python, Node.js).
+
+Doesn't meet the core technical requirements of the JD.
+
+📈 Suggestions:
+If Raj wants to transition to backend engineering:
+
+Take online courses in Python/Node.js, databases, and APIs.
+
+Build personal backend projects (e.g., a blog API or task manager).
+
+Earn relevant certifications (e.g., AWS, backend bootcamps).
+
+Add GitHub repos with Flask/Django/Node.js work.

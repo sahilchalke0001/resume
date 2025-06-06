@@ -1,0 +1,111 @@
+
+**Position:** **Senior Java Developer**  
+**Level:** **Senior (5+ years experience)**  
+**Location:** **Bengaluru (Hybrid)**  
+**Department:** **Securities Engineering**  
+
+#### **Key Responsibilities:**  
+- Design and develop **low-latency, high-throughput trading systems**  
+- Optimize **multi-threaded, distributed systems** for electronic trading  
+- Work with **fixed income/equities trading platforms**  
+- Implement **risk management and pricing engines**  
+- Ensure **millisecond-level performance tuning**  
+- Collaborate with **quants and traders** on algorithmic trading strategies  
+
+#### **Mandatory Requirements:**  
+- **Core Java 8+ (Collections, Concurrency, JVM Internals)**  
+- **Experience with high-frequency/low-latency systems**  
+- **Distributed systems (Kafka, gRPC, Aeron, Chronicle Queue)**  
+- **Performance tuning (GC, JIT, off-heap memory, lock-free algorithms)**  
+- **Financial domain knowledge (trading, market data, FIX protocol)**  
+- **CI/CD (Jenkins, Git, Maven/Gradle)**  
+
+#### **Preferred Skills:**  
+- **C++/Python for quant libraries**  
+- **Cloud (AWS/GCP) deployment experience**  
+- **Experience with regulatory reporting systems (MiFID II, Dodd-Frank)**  
+
+---
+
+### **Resume: Java Developer (30% Match)**  
+**Name:** **Rahul Sharma**  
+**Contact:** **rahul.sharma@email.com | +91-99XXXXXX12**  
+**LinkedIn:** **linkedin.com/in/rahulsharma-java**  
+
+#### **Professional Summary**  
+Java developer with **3 years of experience** in **enterprise web applications**. Worked on **Spring Boot microservices** but **no financial systems exposure**.  
+
+#### **Technical Skills**  
+- **Java (Core + Spring Boot)**  
+- **Web Development (REST APIs, Hibernate, MySQL)**  
+- **Basic Multithreading (ExecutorService, Synchronized blocks)**  
+- **Tools: Git, Maven, IntelliJ IDEA**  
+- **Cloud: AWS EC2 (basic deployments)**  
+
+#### **Work Experience**  
+**Software Engineer | Infosys (2020-Present)**  
+- Developed **CRUD-based banking portal** (Retail banking, not trading)  
+- Built **Spring Boot microservices** for loan processing  
+- No exposure to **low-latency systems** or **market data feeds**  
+
+#### **Projects**  
+1. **E-Commerce Backend (Spring Boot + MySQL)**  
+   - REST APIs for product catalog  
+   - No performance optimization required  
+
+2. **Employee Management System**  
+   - Basic Java threading for async reports  
+   - No distributed systems experience  
+
+#### **Education**  
+- **B.Tech (CSE), VTU – 7.5 CGPA (2020)**  
+- **Certifications:** Oracle Certified Professional (Java SE 8)  
+
+---
+
+### **Percentage Match Analysis**  
+| **JD Requirement**               | **Candidate Qualification**       | **Match %** |  
+|----------------------------------|-----------------------------------|-------------|  
+| **Core Java (Low-Latency Focus)**| Basic Java, no JVM tuning        | **20%**     |  
+| **Distributed Systems**          | No Kafka/gRPC/Aeron experience   | **0%**      |  
+| **Financial Domain Knowledge**   | No trading systems exposure      | **0%**      |  
+| **Performance Tuning**           | No GC/JIT/off-heap optimization  | **10%**     |  
+| **CI/CD & Tools**                | Basic Git/Maven                  | **50%**     |  
+| **Overall Match**                |                                   | **30%**     |  
+
+---
+
+### **Professional Evaluation**  
+**Critical Gaps:**  
+1. **No low-latency Java experience** (Goldman requires **microsecond optimizations**)  
+2. **Zero financial trading systems knowledge** (Never worked with **FIX protocol, market data**)  
+3. **Basic multithreading** (No **lock-free algorithms, disruptor pattern**)  
+4. **No exposure to distributed messaging (Kafka, Aeron)**  
+
+**Potential Upsides:**  
+- Strong in **Spring Boot** (useful for internal tools, not trading systems)  
+- Could transition to **non-latency-sensitive backend roles**  
+
+**Recommendation:**  
+"Rahul is a **low match (30%)** for this **high-frequency trading (HFT) role**. He lacks **critical financial systems and low-latency Java expertise**. Better fits:  
+1. **Retail banking IT roles**  
+2. **Enterprise Java backend teams (non-trading)**  
+3. **Upskilling program in distributed systems** before reapplying."  
+
+---
+
+### **Why This is a Low Match**  
+ **Misses Core Trading Tech Stack:**  
+- No **Aeron/Chronicle Queue** (used in HFT)  
+- Never worked with **FIX protocol** (critical for trading systems)  
+
+ **Inadequate Performance Skills:**  
+- Goldman requires **nanosecond-level latency tuning**  
+- Candidate only knows **basic Java threading**  
+
+ **Would Need:**  
+- **1+ years of intensive training** in financial systems  
+- **Hands-on work** with **market data feeds**  
+- **Deep JVM/OS-level optimizations**  
+
+This profile represents a **typical enterprise Java developer** who would struggle in **Goldman’s ultra-low-latency environment**. Better suited for **retail banking IT** than **securities trading engineering**.

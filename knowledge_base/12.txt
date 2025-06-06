@@ -1,0 +1,74 @@
+### **Job Description (JD) – Backend Developer**  
+**Company:** XYZ Tech  
+**Role:** Backend Developer  
+**Experience:** 3-5 years  
+
+#### **Key Responsibilities:**  
+- Design, develop, and maintain scalable backend services using **Node.js, Python (Django/Flask), or Java (Spring Boot)**.  
+- Work with **RESTful APIs, GraphQL, and microservices architecture**.  
+- Optimize database performance (**PostgreSQL, MongoDB, Redis**).  
+- Implement **authentication, authorization, and security best practices**.  
+- Collaborate with frontend developers and DevOps teams.  
+- Experience with **AWS/GCP, Docker, Kubernetes, and CI/CD pipelines**.  
+- Knowledge of **message brokers (Kafka, RabbitMQ)** is a plus.  
+
+#### **Required Skills:**  
+- Strong in **data structures, algorithms, and system design**.  
+- Experience with **API design, caching, and performance optimization**.  
+- Familiarity with **Agile/Scrum methodologies**.  
+- Problem-solving mindset and ability to debug complex issues.  
+
+---
+
+### **Resume – Backend Developer**  
+**Name:** John Doe  
+**Experience:** 4 years  
+**Skills:** Python, Django, Flask, PostgreSQL, AWS, Docker  
+
+#### **Professional Experience:**  
+1. **Backend Developer @ ABC Corp (2021-Present)**  
+   - Developed RESTful APIs using **Django & Flask**.  
+   - Optimized SQL queries, reducing response time by **30%**.  
+   - Integrated **AWS S3 & Lambda** for file processing.  
+   - Worked with **Docker** for containerization.  
+
+2. **Junior Developer @ TechSolutions (2019-2021)**  
+   - Built CRUD APIs in **Node.js & Express**.  
+   - Assisted in database schema design (**MongoDB**).  
+
+#### **Education:**  
+- B.Tech in Computer Science  
+
+#### **Technical Skills:**  
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Django, Flask, Express  
+- **Databases:** PostgreSQL, MongoDB  
+- **DevOps:** AWS (Basic), Docker  
+- **Other:** Git, Agile  
+
+---
+
+### **Match Evaluation**  
+#### **Percentage Match: ~65-70% (Moderate Match)**  
+
+#### **Strengths (Matches JD):**  
+ **Backend Frameworks:** Experience with **Django, Flask** (matches Python requirement).  
+ **Database Knowledge:** Worked with **PostgreSQL & MongoDB**.  
+ **Cloud & DevOps:** Basic **AWS & Docker** exposure.  
+ **API Development:** Strong in **RESTful APIs**.  
+
+#### **Gaps (Where JD Expects More):**  
+ **No Java/Spring Boot experience** (JD mentions it as a plus).  
+ **Limited cloud expertise** (JD expects deeper AWS/GCP knowledge).  
+ **No Kubernetes or Kafka/RabbitMQ experience**.  
+ **No GraphQL or microservices mentioned** in resume.  
+
+---
+
+### **Professional Recommendation**  
+- **Moderate Fit:** The candidate has **core backend skills** (Python, APIs, DBs) but lacks some **advanced tech (Kubernetes, Kafka, Java)**.  
+- **Suitable for:** Mid-level backend roles focusing on **Python-based APIs & databases**, but may need upskilling in **cloud-native & distributed systems** for senior roles.  
+- **Next Steps:**  
+  - If the role is **Python-heavy**, he’s a **good fit**.  
+  - If the role requires **Java/Spring or advanced DevOps**, consider another candidate or upskill him.  
+

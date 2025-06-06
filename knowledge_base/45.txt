@@ -1,0 +1,83 @@
+
+
+## 🧑‍💻 Moderate-Match Resume: *Anita Deshmukh – CI/CD Developer*
+
+**Name:** Anita Deshmukh
+**Email:** [anita.deshmukh.devops@gmail.com](mailto:anita.deshmukh.devops@gmail.com)
+**Location:** Bengaluru, India
+**LinkedIn:** linkedin.com/in/anitadeshmukh
+
+---
+
+### 🎓 Education:
+
+* B.Tech in Computer Science, Visvesvaraya Technological University (2021)
+
+---
+
+### 💼 Experience:
+
+**DevOps Engineer – CloudWave Solutions**
+*Jul 2022 – Present*
+
+* Developed and maintained CI/CD pipelines using Jenkins and GitLab CI
+* Automated deployment processes for microservices on Kubernetes clusters
+* Integrated automated testing and monitoring tools in build pipelines
+* Collaborated with development and QA teams to improve release cycles
+* Used Docker for containerization and Helm for Kubernetes deployments
+
+**Software Engineer – ByteLeap Technologies**
+*Aug 2021 – Jun 2022*
+
+* Participated in Agile sprints for backend API development
+* Assisted in setting up Git repositories and branching strategies
+* Worked with configuration management tools like Ansible for environment setup
+
+---
+
+### 🛠️ Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI, Travis CI (basic)
+* Containerization: Docker, Kubernetes, Helm
+* Scripting: Bash, Python
+* Configuration Management: Ansible
+* Version Control: Git, GitHub, GitLab
+* Cloud Platforms: AWS (EC2, S3, EKS)
+
+---
+
+### Projects:
+
+* **Automated Microservices Deployment:** Created Jenkins pipelines to automate build, test, and deployment of microservices in a Kubernetes environment, reducing deployment time by 40%.
+* **Infrastructure as Code:** Developed Ansible playbooks to provision and configure development and staging environments consistently.
+
+---
+
+## 📊 Match Percentage: **68% ⚠️ Moderate**
+
+| JD Requirement                   | Resume Match                                   | Score |
+| -------------------------------- | ---------------------------------------------- | ----- |
+| CI/CD pipeline development       | ✅ Strong experience with Jenkins and GitLab CI | 8/10  |
+| Containerization & orchestration | ✅ Worked with Docker, Kubernetes, Helm         | 7/10  |
+| Scripting & automation           | ✅ Bash and Python scripting experience         | 7/10  |
+| Cloud experience                 | ✅ AWS knowledge present                        | 6/10  |
+| Configuration management         | ✅ Experience with Ansible                      | 7/10  |
+| Collaboration & Agile            | ⚠️ Participated but limited PM role            | 5/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Solid hands-on experience building and managing CI/CD pipelines
+* Good understanding of container orchestration and cloud services
+* Effective at automating deployments and infrastructure provisioning
+
+**Areas to Improve:**
+
+* Gain deeper knowledge of advanced CI/CD tools and pipeline optimization
+* Enhance scripting skills for complex automation workflows
+* Expand cloud platform expertise beyond AWS basics
+* Develop stronger collaboration and leadership skills in cross-team projects
+

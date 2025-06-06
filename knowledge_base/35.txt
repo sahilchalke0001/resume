@@ -1,0 +1,85 @@
+
+
+## 🧑‍💻 Low-Match Resume: *Karan Mehta – Graduate with basic data skills*
+
+**Name**: Karan Mehta
+**Email**: [karan.mehta123@gmail.com](mailto:karan.mehta123@gmail.com)
+**Location**: Indore, India
+**LinkedIn**: linkedin.com/in/karan-mehta-basic
+
+---
+
+### 🎓 Education:
+
+* **B.Com**, Devi Ahilya Vishwavidyalaya (2023) – 6.5 CGPA
+* Completed a basic Excel course (local institute)
+
+---
+
+### 💼 Experience:
+
+**Intern – Marketing Assistant, Local Startup**
+*Feb 2023 – May 2023*
+
+* Collected customer feedback via Google Forms
+* Entered data into Excel spreadsheets
+* Created simple charts (bar, pie) for presentations
+* No formal data analysis or reporting
+
+---
+
+### 🛠️ Skills:
+
+* **Tools**: Microsoft Excel (basic formulas, charts)
+* **Data Skills**: Data entry, basic charting
+* **Other**: MS Word, PowerPoint basics
+* **Languages**: None relevant for data analysis
+
+---
+
+### Projects:
+
+* **Class Project: Survey Report**
+  Analyzed survey data manually, summarized findings in Word document
+
+---
+
+## 📊 Match Percentage: **30% ⚠️ Low**
+
+| JD Requirement                               | Resume Match             | Score |
+| -------------------------------------------- | ------------------------ | ----- |
+| Data extraction & cleaning                   | ❌ Only manual entry      | 1/10  |
+| Data visualization                           | ⚠️ Basic Excel charts    | 2/10  |
+| Statistical analysis                         | ❌ None                   | 0/10  |
+| SQL querying                                 | ❌ None                   | 0/10  |
+| Reporting & presentation                     | ⚠️ Basic summary reports | 3/10  |
+| Advanced analytics (regression, forecasting) | ❌ None                   | 0/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### Strengths:
+
+* Basic familiarity with Excel and data entry
+* Some experience collecting and organizing data
+
+### Gaps:
+
+* No real analytical or technical skills related to data analysis
+* No programming, SQL, or statistical knowledge
+* Lack of experience with visualization tools or databases
+* Limited reporting or interpretation experience
+
+---
+
+### Suggestions:
+
+* Learn Excel advanced functions and pivot tables
+* Start basic SQL and Python for data analysis
+* Explore free courses on data visualization (Tableau, Power BI)
+* Practice analyzing datasets on platforms like Kaggle
+* Build simple projects with real data
+
+---
+

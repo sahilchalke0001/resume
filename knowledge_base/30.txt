@@ -1,0 +1,102 @@
+
+
+## ✅ High-Match Resume: *Neha Kulkarni – Cybersecurity Specialist*
+
+**Name**: Neha Kulkarni
+**Email**: [neha.kulkarni.cyber@gmail.com](mailto:neha.kulkarni.cyber@gmail.com)
+**Location**: Bengaluru, India
+**LinkedIn**: linkedin.com/in/neha-kulkarni-cyber
+**Certifications**: CEH (Certified Ethical Hacker), CompTIA Security+, OSCP (in progress)
+
+---
+
+### 🎓 Education:
+
+* **M.Tech in Information Security**, IIIT Hyderabad (2020) – 8.9 CGPA
+* **B.E. in Computer Engineering**, Pune University (2017) – 8.5 CGPA
+
+---
+
+### 💼 Work Experience:
+
+**Cybersecurity Analyst – Deloitte India**
+*Aug 2020 – Present*
+
+* Conducted penetration testing and VAPT for 20+ clients using **Kali Linux, Metasploit, and Burp Suite**
+* Configured and monitored **SIEM tools** (Splunk, IBM QRadar) and incident response playbooks
+* Led threat modeling and **OWASP Top 10** code reviews for fintech applications
+* Wrote Python scripts to automate log correlation, alerting, and threat intelligence integration
+* Worked with network teams to harden firewalls, WAFs, and endpoint detection systems
+
+**Security Intern – Infosys Cyber Labs**
+*Jan 2020 – Jun 2020*
+
+* Performed vulnerability assessments and built internal training content on **MITRE ATT\&CK** framework
+* Contributed to creation of ISO 27001-compliant internal policies and employee awareness programs
+
+---
+
+### 🛠️ Technical Skills:
+
+* **Security Tools**: Kali Linux, Burp Suite, Wireshark, Nessus, Metasploit, Nmap
+* **SIEM Platforms**: Splunk, QRadar
+* **Languages**: Python, Bash
+* **Cloud Security**: AWS IAM, GuardDuty, CloudTrail
+* **Frameworks**: OWASP, MITRE ATT\&CK, NIST
+* **Certifications**: CEH, CompTIA Security+, OSCP (ongoing)
+
+---
+
+### 🛡️ Projects:
+
+* **ThreatBot**: Python-based malware detection script that flags suspicious behavior in log files
+* **Network Hardening Toolkit**: Automated bash scripts to close unused ports, configure iptables, and check CIS benchmarks
+* **PhishSim**: Internal phishing simulation tool for employee training and awareness
+
+---
+
+### 📄 Job Description – Cybersecurity Expert
+
+Same JD as before with focus on:
+
+* Penetration Testing
+* SIEM, Logs, Threat Intelligence
+* Incident Response
+* Secure Architecture
+* Security Certifications
+
+---
+
+### 📊 Match Percentage: **94% ✅**
+
+| JD Requirement                       | Resume Match                      | Match Score |
+| ------------------------------------ | --------------------------------- | ----------- |
+| Penetration testing & VAPT           | ✅ Metasploit, Burp Suite, Nessus  | 10/10       |
+| Cybersecurity certifications         | ✅ CEH, CompTIA Security+, OSCP    | 10/10       |
+| SIEM, Logs, Alerting                 | ✅ Splunk, QRadar                  | 10/10       |
+| Threat intelligence, MITRE ATT\&CK   | ✅ Used in intern project          | 9/10        |
+| Scripting (Python/Bash)              | ✅ Log parsing, automation scripts | 9/10        |
+| Secure coding reviews (OWASP Top 10) | ✅ Yes, done in fintech projects   | 10/10       |
+| Cloud Security                       | ✅ AWS IAM, GuardDuty              | 8/10        |
+| Standards (ISO 27001, NIST)          | ✅ Compliance projects             | 8/10        |
+| Incident Response                    | ✅ Playbooks and response logs     | 10/10       |
+
+---
+
+## 🧠 Professional Evaluation
+
+### ✅ Strengths:
+
+* Hands-on experience across **offensive and defensive security**
+* Strong technical profile with real-world tools used in the industry
+* Certified, research-oriented, and already working in a top consulting firm
+* Exposure to both **enterprise-scale and small-team environments**
+
+### 📈 Suggestions:
+
+* Consider completing OSCP for deeper penetration testing credentials
+* Start contributing to bug bounty platforms or publish CVEs
+* Attend security conferences like nullcon, c0c0n, or DEFCON India
+
+---
+

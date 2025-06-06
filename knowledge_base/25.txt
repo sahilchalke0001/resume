@@ -1,0 +1,90 @@
+Candidate Resume Summary (Low Match)
+Name: Neha Rathi
+Email: neharathi.dev@gmail.com
+LinkedIn: linkedin.com/in/neharathi
+GitHub: github.com/nehaflutterdev
+Location: Hyderabad, India
+
+🎓 Education:
+B.Tech in Information Technology, SRM Institute of Science and Technology – 8.6 CGPA (2021)
+
+🧠 Skills:
+Mobile Development: Flutter, Dart, React Native
+
+UI Design: Figma, Material UI, Adobe XD
+
+Firebase (Authentication, Firestore, Analytics)
+
+Programming: Dart, JavaScript
+
+App Deployment: Google Play Store, App Store
+
+Tools: Android Studio, Visual Studio Code, Trello
+
+💼 Work Experience:
+Mobile Developer – HCL Technologies
+Sept 2021 – Present
+
+Built and deployed 10+ cross-platform apps using Flutter.
+
+Integrated Firebase for authentication and analytics.
+
+Collaborated with UI/UX designers for responsive design.
+
+Intern – Appify
+Jan 2021 – May 2021
+
+Created a mobile e-commerce app prototype with product filtering and cart features.
+
+Conducted unit testing and resolved 40+ bugs.
+
+💡 Projects:
+MediTrack – A medication reminder app using Flutter and Firebase
+
+FitDaily – A fitness tracking app with charts and progress reports
+
+QuizzyApp – A multiplayer quiz app using sockets and Firebase
+
+📄 Job Description – Version Control Engineer
+(Same as earlier)
+
+📊 Match Percentage: 32% ❌
+JD Requirement	Resume Match	Match Score
+Git, GitHub, GitLab, Bitbucket	⚠️ (Basic GitHub usage)	2/10
+Automation of Git workflows	❌	0/10
+CI/CD Tools	❌	0/10
+Scripting (Bash/Python)	❌	0/10
+DevOps/Cloud (AWS/Azure)	❌	0/10
+Repo Management, Access Control	❌	0/10
+Communication & Collaboration	✅ (Cross-team design)	5/10
+Versioning & Deployment	⚠️ (Mobile app releases)	5/10
+
+🧠 Professional Evaluation
+✅ Strengths:
+Strong mobile development experience and UI/UX understanding
+
+Good app release cycle knowledge (Play Store, Firebase)
+
+Demonstrates strong front-end technical creativity and ownership
+
+❌ Weaknesses (for this role):
+No hands-on experience with version control tools beyond basic GitHub usage
+
+Lacks automation, CI/CD pipeline, scripting, and server-side knowledge
+
+No evidence of handling large repositories, Git strategies, or team workflows
+
+No cloud or DevOps background
+
+📈 Suggestions:
+If Neha wants to transition to a Version Control Engineer role:
+
+Learn and practice advanced Git workflows (rebase, cherry-pick, merge conflicts)
+
+Build scripting skills using Bash or Python
+
+Set up and experiment with GitHub Actions, GitLab CI, or Jenkins
+
+Contribute to open-source projects that involve collaborative Git usage
+
+Take a course on DevOps or GitOps principles

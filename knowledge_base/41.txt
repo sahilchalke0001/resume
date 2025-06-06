@@ -1,0 +1,129 @@
+## 100 Top Technical Interview Questions for Software Engineers
+
+### Data Structures & Algorithms
+
+1. Explain the difference between an array and a linked list.
+2. How does a hash table work? What are collisions and how to handle them?
+3. Implement a function to reverse a linked list.
+4. What is a binary search tree? How do you insert and delete nodes?
+5. Explain the difference between a stack and a queue.
+6. How to detect a cycle in a linked list?
+7. Write a function to find the middle element of a linked list.
+8. Explain the time complexity of searching in a balanced binary search tree.
+9. How do you implement a queue using two stacks?
+10. Write code for depth-first search (DFS) and breadth-first search (BFS) on a graph.
+11. What is dynamic programming? Explain with an example.
+12. How do you find the longest common subsequence between two strings?
+13. Explain the difference between merge sort and quick sort.
+14. Write code to detect if two strings are anagrams.
+15. How do you find the kth largest element in an unsorted array?
+16. Implement a trie (prefix tree) and explain its uses.
+17. How to design a data structure that supports insert, delete, search, and getRandom in O(1)?
+18. Write a function to check if a binary tree is balanced.
+19. Explain the concept of memoization and tabulation.
+20. What are heaps? How do you implement a min-heap or max-heap?
+
+### Coding Problems
+
+21. Write a function to check if a string is a palindrome.
+22. Implement a function to merge two sorted arrays.
+23. Write code to remove duplicates from an unsorted linked list.
+24. How to reverse words in a sentence without using extra space?
+25. Given a matrix, write code to rotate it 90 degrees clockwise.
+26. Implement an algorithm to find the majority element in an array.
+27. How do you find all pairs in an array that sum to a specific target?
+28. Write code to flatten a nested list iterator.
+29. How to implement an LRU cache?
+30. Given two sorted linked lists, merge them into one sorted list.
+
+### System Design & Architecture
+
+31. Design a URL shortening service like bit.ly.
+32. How would you design a scalable chat application?
+33. Explain the concept of load balancing and how to implement it.
+34. Design a parking lot management system.
+35. How to design a file storage system like Dropbox or Google Drive?
+36. What is a microservices architecture? Pros and cons?
+37. How would you design a rate limiter?
+38. Explain CAP theorem and its implications.
+39. How to design a notification system for a large-scale application?
+40. What are caching strategies, and how do you decide what to cache?
+
+### Object-Oriented Programming (OOP)
+
+41. What are the four pillars of OOP?
+42. Explain the difference between abstraction and encapsulation.
+43. What is polymorphism? Give an example.
+44. How does inheritance work in Java or C++?
+45. What is the difference between an interface and an abstract class?
+46. Explain the SOLID principles.
+47. What is method overloading and overriding?
+48. How do you implement a singleton pattern?
+49. What are design patterns? Explain the factory pattern.
+50. How to avoid deadlocks in multithreaded programs?
+
+### Databases & SQL
+
+51. Explain normalization and denormalization.
+52. What are primary keys, foreign keys, and indexes?
+53. Write a SQL query to find the second highest salary from a table.
+54. Explain ACID properties in databases.
+55. What is the difference between SQL and NoSQL databases?
+56. How do transactions work in relational databases?
+57. Explain indexing and how it improves query performance.
+58. What is a join? Explain inner join, left join, right join, and full join.
+59. How to design a schema for a social media application?
+60. What is sharding and replication in databases?
+
+### Operating Systems & Networking
+
+61. What is a process and a thread? Difference between them?
+62. Explain deadlock and how to prevent it.
+63. What is virtual memory?
+64. How does a context switch work?
+65. Explain the TCP/IP model and OSI model.
+66. What is the difference between TCP and UDP?
+67. How does DNS work?
+68. What is a firewall? How does it work?
+69. Explain HTTP vs HTTPS.
+70. What is load balancing and how does it work?
+
+### Miscellaneous & Behavioral
+
+71. What is Big O notation? Explain time and space complexity.
+72. How do you handle memory leaks?
+73. What is recursion? Give examples of recursive problems.
+74. Explain garbage collection in Java.
+75. How do you debug a program?
+76. What are RESTful APIs?
+77. Explain continuous integration and continuous deployment (CI/CD).
+78. What is multithreading? How to handle synchronization?
+79. Explain the difference between synchronous and asynchronous programming.
+80. What motivates you as a software engineer?
+
+### Advanced Algorithms & Concepts
+
+81. Explain graph algorithms like Dijkstra’s and A\*.
+82. What are bloom filters?
+83. Explain the difference between NP, NP-complete, and NP-hard problems.
+84. What is the Traveling Salesman Problem?
+85. How do you optimize recursive algorithms?
+86. What is a segment tree and how is it used?
+87. Explain how garbage collection algorithms work.
+88. How to implement a distributed system that is fault tolerant?
+89. What is consensus in distributed systems? Explain Paxos or Raft.
+90. Explain concurrency vs parallelism.
+
+### Coding Practice & Problem Solving
+
+91. Write code to find duplicates in an array.
+92. Implement binary search on a sorted array.
+93. Write a function to generate all permutations of a string.
+94. Find the longest palindrome substring in a string.
+95. Implement a function to calculate factorial iteratively and recursively.
+96. Solve the classic “FizzBuzz” problem.
+97. Given a list of intervals, merge all overlapping intervals.
+98. Implement a stack that supports getMin() in O(1).
+99. Write code for finding the shortest path in a maze.
+100. Implement a function to serialize and deserialize a binary tree.
+

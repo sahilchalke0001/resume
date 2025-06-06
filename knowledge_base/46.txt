@@ -1,0 +1,73 @@
+
+
+## 🤖 Low-Match Resume: *Pushker Uikey – Software Developer*
+
+**Name:** Pushker Uikey
+**Email:** [pushker.uikey.dev@gmail.com](mailto:pushker.uikey.dev@gmail.com)
+**Location:** Nagpur, India
+**LinkedIn:** linkedin.com/in/pushkeruikey
+
+---
+
+### 🎓 Education:
+
+* B.Sc. in Information Technology, Nagpur University (2022)
+
+---
+
+### 💼 Experience:
+
+**Junior Software Developer – NexaSoft Solutions**
+*Aug 2022 – Present*
+
+* Developed and maintained web applications using JavaScript, HTML, and CSS
+* Assisted in backend development using Node.js and Express
+* Participated in Agile scrum meetings as a team member
+* Fixed bugs and contributed to feature enhancements
+
+---
+
+### 🛠️ Skills:
+
+* Programming: JavaScript, Node.js, HTML, CSS
+* Frameworks: Express.js, React (basic)
+* Version Control: Git, GitHub
+* Basic understanding of databases: MongoDB, MySQL
+
+---
+
+### Projects:
+
+* **Portfolio Website:** Built a personal portfolio site using React and CSS to showcase projects.
+* **Task Manager App:** Developed a simple task manager application with Node.js backend and MongoDB.
+
+---
+
+## 📊 Match Percentage: **30% ⚠️ Low**
+
+| JD Requirement                           | Resume Match                        | Score |
+| ---------------------------------------- | ----------------------------------- | ----- |
+| Machine learning model development       | ❌ No relevant experience            | 1/10  |
+| Data preprocessing & feature engineering | ❌ No data science skills            | 1/10  |
+| Deep learning frameworks                 | ❌ No exposure                       | 0/10  |
+| Model deployment                         | ❌ No deployment experience          | 0/10  |
+| Cloud platform knowledge                 | ❌ No cloud experience               | 0/10  |
+| Collaboration & communication            | ⚠️ Agile participation as developer | 5/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Strong foundational programming skills in web development
+* Experience working in Agile teams
+
+**Areas to Improve:**
+
+* Need to acquire core machine learning and data science knowledge
+* Build projects involving data preprocessing, model training, and evaluation
+* Learn popular ML frameworks like TensorFlow or PyTorch
+* Gain experience in cloud platforms and ML deployment
+* Consider certifications or courses in machine learning and AI
+

@@ -1,0 +1,109 @@
+### **Job Description (JD) for Financial Analyst at JP Morgan (High Match)**  
+
+**Position:** Financial Analyst  
+**Level:** Associate (2-4 years experience)  
+**Location:** Mumbai/Bangalore (Hybrid)  
+**Department:** Investment Banking/Capital Markets  
+
+#### **Key Responsibilities:**  
+- Conduct financial modeling and valuation analysis (DCF, LBO, Comps)  
+- Prepare pitch books, investment memos, and client presentations  
+- Perform industry research and market trend analysis  
+- Support M&A, IPO, and debt/equity deal execution  
+- Ensure compliance with regulatory standards (SEBI, RBI)  
+- Collaborate with senior bankers and cross-functional teams  
+
+#### **Mandatory Requirements:**  
+- **Education:** MBA (Finance) or CFA (Level 2+)  
+- **Experience:** 2+ years in investment banking, equity research, or corporate finance  
+- **Technical Skills:** Advanced Excel, Bloomberg Terminal, Capital IQ  
+- **Modeling Expertise:** Strong DCF, LBO, and M&A modeling  
+- **Soft Skills:** Attention to detail, analytical rigor, stakeholder management  
+
+#### **Preferred Qualifications:**  
+- Experience with Python/VBA for financial automation  
+- Knowledge of accounting standards (IFRS/GAAP)  
+- Prior exposure to big-ticket deals ($100M+)  
+
+---
+
+### **Resume: Financial Analyst (90% Match)**  
+**Name:** Aditya Kapoor  
+**Contact:** aditya.kapoor@email.com | +91-98XXXXXX21  
+**LinkedIn:** linkedin.com/in/adityakapoor-cfa  
+
+#### **Professional Summary**  
+CFA Level 3 candidate with 3 years of investment banking experience at Goldman Sachs. Specialized in M&A modeling and valuation.  
+
+#### **Technical Skills**  
+- **Valuation:** DCF, LBO, Trading & Transaction Comps  
+- **Tools:** Bloomberg Terminal, Capital IQ, FactSet  
+- **Financial Software:** Advanced Excel (VBA), PitchBook, Thomson Reuters  
+- **Programming:** Python (Pandas, NumPy for data analysis)  
+- **Certifications:** CFA Level 3 (Cleared L1 & L2), NISM Certified  
+
+#### **Work Experience**  
+**Investment Banking Analyst | Goldman Sachs (2021-Present)**  
+- Built 20+ complex financial models for M&A deals ($50M-$500M)  
+- Led valuation analysis for 3 tech-sector IPOs (avg. deal size: $300M)  
+- Automated quarterly reports using VBA, reducing manual work by 30%  
+
+**Equity Research Intern | Morgan Stanley (2020)**  
+- Authored 5 sector reports on Indian banking stocks  
+- Developed a DCF model for HDFC Bank, later used in a client pitch  
+
+#### **Education**  
+- **MBA (Finance), IIM Bangalore** – 8.6 CGPA (2020)  
+- **B.Com (Hons), SRCC Delhi** – 9.2 CGPA (2018)  
+
+#### **Deal Experience**  
+1. **Tech M&A Deal (2023)**  
+   - Modeled accretion/dilution for a $400M acquisition  
+   - Prepared CIM and management presentation  
+
+2. **IPO Valuation (2022)**  
+   - Conducted peer benchmarking for a fintech unicorn  
+   - Assisted in roadshow preparation  
+
+---
+
+### **Percentage Match Analysis**  
+| **JD Requirement**       | **Candidate Qualification**        | **Match %** |  
+|--------------------------|------------------------------------|-------------|  
+| **Financial Modeling**   | 3 years M&A/DCF experience        | 100%        |  
+| **Valuation Methods**    | DCF, LBO, Comps expertise         | 100%        |  
+| **Technical Tools**      | Bloomberg, Capital IQ, Excel VBA  | 100%        |  
+| **Deal Exposure**        | Worked on $50M-$500M deals        | 90%         |  
+| **Certifications**       | CFA L3 candidate                  | 95%         |  
+| **Regulatory Knowledge** | SEBI/RBI compliance awareness     | 85%         |  
+| **Overall Match**        |                                    | **93%**     |  
+
+---
+
+### **Professional Evaluation**  
+**Strengths:**  
+1. **Elite Investment Banking Pedigree** (Goldman Sachs experience)  
+2. **Strong Technical Foundation** (Complex modeling + automation skills)  
+3. **Proven Deal Execution** (M&A, IPO, and equity research background)  
+
+**Minor Development Areas:**  
+- Could expand big-ticket deal exposure ($1B+)  
+- More hands-on Python implementation in live deals  
+
+**Hiring Recommendation:**  
+"Aditya is a 93% match for JP Morgan's Financial Analyst role. His Goldman Sachs deal experience, CFA progress, and technical modeling skills make him a high-potential candidate. Can immediately contribute to live deals with minimal ramp-up time."  
+
+---
+
+### **Why This is a High Match**  
+ **Top-Tier Experience:** Goldman Sachs IB background aligns perfectly  
+ **Technical Rigor:** Masters advanced modeling and automation  
+ **Certification Alignment:** CFA progression meets JP Morgan's preference  
+ **Deal Pedigree:** Hands-on with $300M+ transactions  
+
+This profile is tailored for bulge-bracket banks like JP Morgan, Morgan Stanley, or elite boutiques. The candidate could slot into:  
+- M&A advisory  
+- Equity Capital Markets (ECM)  
+- Corporate Finance teams  
+
+Would you like adjustments for specific JP Morgan divisions (e.g., TMT vs. Healthcare IB)?

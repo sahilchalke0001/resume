@@ -1,84 +1,103 @@
----
+### **Job Description (JD) for Junior Developer at TCS**  
+**Position:** Junior Software Developer  
+**Location:** [On-site/Hybrid]  
+**Experience:** 0-2 years  
+**Key Responsibilities:**  
+1. Develop, test, and maintain software applications under supervision.  
+2. Write clean, efficient code in **Java/Python/C#** (as per project requirements).  
+3. Debug and troubleshoot issues in existing systems.  
+4. Collaborate with senior developers and participate in Agile (Scrum) teams.  
+5. Learn and adopt TCS frameworks, tools, and best practices.  
+6. Document code and contribute to technical specifications.  
 
-### **Software Engineer Resume (with Projects)**
+**Mandatory Skills:**  
+- **Programming:** Java/Python/C# (any one)  
+- **Databases:** Basic SQL (MySQL, PostgreSQL)  
+- **Tools:** Eclipse/VS Code, Git, Jira  
+- **Soft Skills:** Teamwork, adaptability, willingness to learn  
 
-**Name:** Rahul Sharma
-**Email:** [rahul.sharma@email.com](mailto:rahul.sharma@email.com)
-**Phone:** +91-9876543210
-**LinkedIn:** linkedin.com/in/rahulsharma
-**GitHub:** github.com/rahulsharma-dev
-**Portfolio:** rahulsharma.dev
-
----
-
-###  **Objective**
-Passionate Software Engineer with 2+ years of experience in full-stack development, seeking to leverage strong programming skills and project experience to contribute to a dynamic development team.
-
----
-
-### **Skills**
-
-* **Languages:** Python, JavaScript, Java, C++
-* **Web Development:** React, Node.js, Express, Flask, HTML/CSS, TailwindCSS
-* **Databases:** MongoDB, MySQL, PostgreSQL
-* **Tools:** Git, Docker, Postman, VS Code, Firebase
-* **Cloud & DevOps:** AWS (EC2, S3), Render, Vercel
-* **Others:** REST APIs, JWT Auth, Agile, CI/CD, Object-Oriented Programming
+**Preferred (Not Mandatory):**  
+- Familiarity with **Spring Boot (Java) or Django (Python)**  
+- Basic understanding of **cloud platforms (AWS/Azure fundamentals)**  
+- Exposure to **DevOps concepts (CI/CD, Docker)**  
 
 ---
 
-###  **Education**
+### **Resume for Junior Developer (Moderate Match - 65%)**  
+**Name:** Rahul Sharma  
+**Email:** rahul.sharma@example.com | **Phone:** (91) 98765-43210  
+**LinkedIn:** linkedin.com/in/rahulsharma-dev  
 
-**B.Tech in Computer Science**
-XYZ Institute of Technology, Mumbai
-2020 – 2024 | CGPA: 8.5/10
+#### **Professional Summary**  
+Recent Computer Science graduate with internship experience in Java development. Passionate about problem-solving and eager to contribute to TCS projects.  
 
----
+#### **Technical Skills**  
+- **Programming:** Java (Core), Python (Basics)  
+- **Web Technologies:** HTML, CSS, JavaScript (Basic)  
+- **Databases:** MySQL (Basic CRUD operations)  
+- **Tools:** VS Code, Git (Basic Commands), Eclipse  
+- **Concepts:** OOP, Data Structures, Agile (Theoretical Knowledge)  
 
-### **Projects**
+#### **Work Experience**  
+**Intern | TechSolutions Pvt Ltd (6 months, 2023)**  
+- Developed a **Java-based student management system** (console application).  
+- Fixed minor bugs in an existing **Python inventory management tool**.  
+- Attended Agile standups but no hands-on Jira experience.  
 
-#### **1. ATS Resume Analyzer** – [Live Site](https://resume-1-ds3s.onrender.com) | [GitHub](https://github.com/rahulsharma-dev/ats-resume-analyzer)
+#### **Projects**  
+1. **E-Commerce Website (Java Servlet/JSP)**  
+   - Built a basic online store with product listing and cart functionality.  
+   - **Tech Stack:** Java, MySQL, Tomcat Server  
 
-* Built a Flask-based web app to parse resumes and match with job descriptions using Gemini AI and LangChain.
-* Features include PDF upload, resume summarization, skill match percentage, and email delivery of results.
-* Tech Stack: Flask, LangChain, Google Generative AI, ChromaDB, HTML/CSS, JavaScript.
+2. **Weather App (Python + API)**  
+   - Fetched real-time weather data using OpenWeatherMap API.  
+   - **Limitation:** No error handling or deployment.  
 
-#### **2. Emotion-based Music Recommendation System**
-
-* Developed a web app that detects user emotion via webcam and recommends music accordingly.
-* Integrated a CNN-based emotion detector with the Spotify API.
-* Tech Stack: OpenCV, TensorFlow, Flask, Spotify API.
-
-####  **3. Wedding Venue Chatbot System**
-
-* Created a React chatbot that recommends wedding venues based on user preferences using Photon API.
-* Utilized Google Gemini API to provide smart, AI-generated responses based on CSV data.
-* Tech Stack: React, TailwindCSS, Google Gemini API, Photon API, CSV Parsing.
-
-####  **4. Smart Waste Sorter (IoT + ML)**
-
-* Built an AI-based system using sensors and image classification to identify and segregate waste into biodegradable and non-biodegradable.
-* Integrated with a mobile app dashboard.
-* Tech Stack: Arduino, TensorFlow Lite, Firebase, Android Studio.
-
-####  **5. Calorie Estimator App**
-
-* Designed a Streamlit-based app that takes food images and estimates calorie count using Gemini AI.
-* Outputs total calorie and nutritional info for fitness tracking.
-* Tech Stack: Streamlit, Google Gemini API, OpenCV.
+#### **Education**  
+- **B.Tech in Computer Science**, XYZ University (2023) – **7.8 CGPA**  
+- **Certifications:**  
+  - Oracle Certified Junior Associate (Java)  
+  - Coursera: Python for Beginners  
 
 ---
 
-### **Achievements**
+### **Percentage Match with JD**  
+| **Criteria**               | **Match %** |  
+|----------------------------|------------|  
+| **Programming (Java/Python)** | 80% (Java strong, Python basic) |  
+| **Databases (SQL)**        | 70% (CRUD operations only) |  
+| **Tools (Git/Jira)**       | 50% (Basic Git, no Jira experience) |  
+| **Agile/Teamwork**         | 60% (Theoretical knowledge only) |  
+| **Preferred Skills (Cloud/DevOps)** | 30% (No exposure) |  
+| **Overall Fit**            | **65%** |  
 
-*  Winner, Hackathon 2024 by IEEE Mumbai Section – “AI for Social Good”
-*  Finalist, Smart India Hackathon 2023 – Waste Management Track
+---
+
+### **Professional Evaluation**  
+**Strengths:**  
+1. **Core Java knowledge** aligns with TCS’s common project requirements.  
+2. **Academic projects** demonstrate initiative and foundational skills.  
+3. **Certifications** (Oracle Java) validate technical basics.  
+
+**Gaps (Why Moderate Match?):**  
+1. **Limited real-world Agile experience** (only theoretical Scrum knowledge).  
+2. **No exposure to TCS-specific tools** (e.g., TCS BaNCS, Jira).  
+3. **Basic Git skills** – no experience with branching strategies or PRs.  
+4. **No cloud/DevOps awareness** – may need training if project requires it.  
+
+**Recommendation:**  
+"Rahul is a **moderate fit (65%)** for the Junior Developer role. He has strong Java fundamentals and academic project experience but lacks exposure to TCS’s ecosystem and Agile practices. With mentorship, he can grow into the role within 6-12 months."  
 
 ---
 
-###  **Languages**
+### **Why This is a Moderate Match (Not Low/High)**  
+✅ **Meets Minimum Requirements:**  
+- Core Java/Python skills.  
+- Basic SQL and debugging ability.  
 
-* English (Fluent)
-* Hindi (Native)
+⚠️ **Needs Upskilling:**  
+- **Tools:** Jira, advanced Git.  
+- **Processes:** Agile ceremonies, CI/CD.  
+- **Domain Knowledge:** Banking/insurance domains (common in TCS).  
 
----
+--- 

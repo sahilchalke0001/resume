@@ -1,0 +1,82 @@
+
+## 🤖 High-Match Resume: *Sahil Chalke – Machine Learning Engineer*
+
+**Name:** Sahil Chalke
+**Email:** [sahil.chalke@gmail.com](mailto:sahil.chalke@gmail.com)
+**Location:** Mumbai, India
+**LinkedIn:** linkedin.com/in/sahilchalke
+**GitHub:** github.com/sahilchalke
+
+---
+
+### 🎓 Education:
+
+* B.Tech in Computer Science, Mumbai University (2023)
+* Completed online specializations in Machine Learning and Deep Learning (Coursera, Udemy)
+
+---
+
+### 💼 Experience:
+
+**Machine Learning Intern – AI Innovators Pvt Ltd**
+*Jan 2023 – Present*
+
+* Developed ML models for image classification and sentiment analysis using Python, TensorFlow, and scikit-learn
+* Preprocessed large datasets and performed feature engineering to improve model accuracy
+* Built data pipelines for training, validation, and testing using Pandas and NumPy
+* Collaborated with data scientists and software engineers to deploy ML models via REST APIs
+* Implemented hyperparameter tuning and model evaluation using cross-validation
+
+**Data Science Project – Emotion Recognition System**
+
+* Created an emotion recognition model using convolutional neural networks (CNN) on facial image datasets
+* Integrated model into a web application for real-time emotion detection using Streamlit and Flask
+
+---
+
+### 🛠️ Skills:
+
+* Programming: Python, R, SQL
+* ML Frameworks: TensorFlow, PyTorch, scikit-learn
+* Data Processing: Pandas, NumPy, OpenCV
+* Model Deployment: Flask, Docker
+* Cloud Platforms: AWS (S3, EC2)
+* Tools: Jupyter, Git, Tableau (basic)
+
+---
+
+### Projects:
+
+* **Credit Card Default Prediction:** Built a classification model using logistic regression and random forests with 85% accuracy, used for risk assessment.
+* **Commodity Price Prediction:** Developed time series forecasting models using ARIMA and LSTM to predict price trends.
+* **Resume Parser & Matcher:** Created an NLP pipeline that summarizes resumes and calculates percentage match against job descriptions.
+* **Emotion-based Movie Recommendation System:** Designed an AI-powered system recommending movies based on detected user emotions via webcam.
+
+---
+
+## 📊 Match Percentage: **90% ✅ High**
+
+| JD Requirement                           | Resume Match                           | Score |
+| ---------------------------------------- | -------------------------------------- | ----- |
+| Machine learning model development       | ✅ Multiple ML projects and internship  | 9/10  |
+| Data preprocessing & feature engineering | ✅ Strong experience with Pandas, NumPy | 9/10  |
+| Deep learning frameworks                 | ✅ TensorFlow, PyTorch experience       | 9/10  |
+| Model deployment                         | ✅ Flask and Docker for deployment      | 8/10  |
+| Cloud platform knowledge                 | ✅ AWS experience                       | 7/10  |
+| Collaboration & communication            | ✅ Worked in team settings              | 8/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Solid practical experience building and deploying ML models end-to-end
+* Good knowledge of popular ML frameworks and data science libraries
+* Exposure to cloud services and real-world project collaboration
+
+**Areas to Improve:**
+
+* Gain more experience with advanced deep learning architectures and optimization
+* Enhance skills in large-scale distributed training and MLOps
+* Explore additional cloud platforms and production-level deployment strategies

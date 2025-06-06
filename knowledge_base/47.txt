@@ -1,0 +1,74 @@
+
+
+## 👩‍💻 Moderate-Match Resume: *Pushker Uikey – Frontend Developer*
+
+**Name:** Pushker Uikey
+**Email:** [pushker.uikey.dev@gmail.com](mailto:pushker.uikey.dev@gmail.com)
+**Location:** Nagpur, India
+**LinkedIn:** linkedin.com/in/pushkeruikey
+
+---
+
+### 🎓 Education:
+
+* B.Sc. in Information Technology, Nagpur University (2022)
+
+---
+
+### 💼 Experience:
+
+**Frontend Developer – NexaSoft Solutions**
+*Aug 2022 – Present*
+
+* Developed and maintained user interfaces using React.js and JavaScript
+* Collaborated with backend developers to integrate RESTful APIs
+* Implemented responsive web designs with CSS and Bootstrap
+* Participated in Agile scrum meetings and contributed to sprint planning
+* Optimized web pages for performance and accessibility
+
+---
+
+### 🛠️ Skills:
+
+* Programming: JavaScript (ES6+), HTML5, CSS3
+* Frameworks/Libraries: React.js, Bootstrap
+* Tools: Git, GitHub, Chrome DevTools
+* Basic knowledge of REST APIs and JSON
+* Responsive and mobile-first design
+
+---
+
+### Projects:
+
+* **Portfolio Website:** Created a responsive personal portfolio showcasing projects and skills using React and CSS.
+* **E-commerce UI:** Developed a product listing page with filtering and sorting functionalities using React components.
+
+---
+
+## 📊 Match Percentage: **65% ⚠️ Moderate**
+
+| JD Requirement              | Resume Match                                | Score |
+| --------------------------- | ------------------------------------------- | ----- |
+| Frontend development skills | ✅ Good experience with React and JavaScript | 7/10  |
+| UI/UX implementation        | ✅ Responsive design using CSS, Bootstrap    | 7/10  |
+| API integration             | ✅ Worked with RESTful APIs                  | 6/10  |
+| Version control             | ✅ Git and GitHub                            | 7/10  |
+| Performance optimization    | ⚠️ Some experience                          | 5/10  |
+| Agile collaboration         | ✅ Participated in scrum meetings            | 6/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Solid knowledge of modern frontend technologies and frameworks
+* Experience building responsive and user-friendly interfaces
+* Familiarity with Agile workflows and version control
+
+**Areas to Improve:**
+
+* Enhance skills in advanced React features like hooks, context, and state management libraries (Redux)
+* Gain experience in frontend testing frameworks (Jest, React Testing Library)
+* Learn performance optimization techniques in-depth
+* Explore UI/UX design principles more deeply for better user experiences

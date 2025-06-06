@@ -1,0 +1,80 @@
+---
+
+## 🔍 JD – Resume Match Report for Developer at Infosys
+
+### 📄 Job Description Summary
+
+* **Position**: Systems Engineer / Software Developer – Infosys
+* **Location**: PAN India
+* **Key Requirements**:
+
+  * Bachelor’s degree in Computer Science or related field
+  * 1–3 years of experience in full-stack or backend development
+  * Proficiency in one or more languages: Java, Python, C#, or Node.js
+  * Knowledge of web technologies: HTML, CSS, JavaScript, React/Angular
+  * Basic understanding of databases (SQL/NoSQL)
+  * Familiarity with SDLC, Agile, version control (Git)
+  * Good communication, analytical and problem-solving skills
+  * Optional: Experience with cloud platforms (AWS/Azure/GCP)
+
+---
+
+### 📋 Resume Summary (Extracted)
+
+* **Name**: Rahul Mehta
+* **Education**: BCA – 2022, No formal CS degree
+* **Experience**: 1.5 years working as a junior developer at a startup
+* **Languages Known**: Python, basic Java
+* **Tech Stack**: Django (Python), HTML, CSS, Bootstrap, limited JavaScript
+* **Databases**: MySQL
+* **Tools**: Git (basic usage), Trello (project tracking)
+* **Cloud**: None
+* **Soft Skills**: Good written communication, team collaboration
+
+---
+
+### ⚖️ JD–Resume Match Score: **68%** (Moderate Match)
+
+---
+
+### 📊 Match Breakdown
+
+| JD Requirement                          | Resume Match                            | Status     |
+| --------------------------------------- | --------------------------------------- | ---------- |
+| Bachelor’s in CS or related field       | BCA – partially related                 | ⚠️ Partial |
+| 1–3 years dev experience                | 1.5 years at a startup                  | ✅ Match    |
+| Java/Python/C#/Node.js                  | Python – good, Java – basic only        | ⚠️ Partial |
+| Web technologies (HTML, CSS, JS, React) | HTML, CSS, Bootstrap – good, JS – basic | ⚠️ Partial |
+| DB knowledge (SQL/NoSQL)                | MySQL only                              | ✅ Match    |
+| SDLC, Agile, Git                        | Basic Git knowledge, Agile experience   | ⚠️ Partial |
+| Communication, problem-solving          | Good communication noted                | ✅ Match    |
+| Cloud experience (optional)             | No cloud exposure                       | ❌ Gap      |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Hands-on experience in Python and Django, which Infosys uses in some projects
+* Practical exposure to databases and full-stack development
+* Strong base in HTML/CSS and frontend layout frameworks
+* Good communication and collaborative skills as seen in startup role
+
+**Areas to Improve:**
+
+* **Needs deeper experience in Java or a second major language** (C#, Node.js)
+* **Limited exposure to JavaScript frameworks** like React or Angular
+* Should work on **intermediate Git/version control workflows**
+* **Cloud technology awareness** (AWS basics or Azure fundamentals) would improve versatility
+* Consider pursuing a **Postgraduate Diploma or online certifications** (e.g., Infosys Springboard, Coursera, etc.)
+
+---
+
+### 📌 Final Remarks
+
+Rahul Mehta shows potential for a **junior/mid-level developer role** at Infosys but is **not yet fully aligned** with the company’s tech stack expectations. With **targeted upskilling in JavaScript frameworks, cloud computing, and Git**, he can become a strong fit for future opportunities at Infosys or similar IT firms.
+
+---
+
+

@@ -1,0 +1,118 @@
+
+
+## 🔧 Position: Version Control Engineer
+
+**Company**: DevOps Solutions Pvt Ltd
+**Location**: Pune, India
+**Experience Required**: 2–4 years
+**Key Areas**: Git workflows, branching & merging, CI/CD pipelines, code review automation, GitOps
+
+---
+
+### 📄 Job Description Highlights:
+
+* Manage and optimize Git repositories and branching strategies
+* Implement and maintain CI/CD pipelines with automated testing and deployment
+* Collaborate with development teams to enforce best practices in version control
+* Troubleshoot merge conflicts, rebases, and repository maintenance
+* Integrate version control with container orchestration tools (Kubernetes, Docker)
+* Automate release and rollback processes using scripting and Git hooks
+
+---
+
+## 🧑‍💻 High-Match Resume: *Arjun Patil – Version Control Engineer*
+
+**Name**: Arjun Patil
+**Email**: [arjun.patil.devops@gmail.com](mailto:arjun.patil.devops@gmail.com)
+**Location**: Pune, India
+**LinkedIn**: linkedin.com/in/arjun-patil-devops
+**GitHub**: github.com/arjunpatil-devops
+
+---
+
+### 🎓 Education:
+
+* **B.E. in Computer Engineering**, Pune University (2018) – 8.6 CGPA
+* **Certifications**:
+
+  * Certified Git Professional (CGP)
+  * Jenkins Certified Engineer
+  * Docker Certified Associate
+
+---
+
+### 💼 Work Experience:
+
+**DevOps Engineer – TechStream Solutions**
+*Jul 2019 – Present*
+
+* Led version control management for 15+ repositories using **GitLab and GitHub Enterprise**
+* Designed and implemented **Git branching strategies** (Git Flow, trunk-based development) for multiple teams
+* Automated CI/CD pipelines with **Jenkins, GitLab CI, and GitHub Actions** integrating unit tests, static code analysis, and container builds
+* Resolved complex **merge conflicts, rebases, and history rewrites** across large mono-repos
+* Built **custom Git hooks and scripts** to enforce commit standards and security policies
+* Collaborated with Kubernetes teams to enable GitOps workflows using ArgoCD and Flux
+* Trained development teams on best practices for branching, tagging, and pull request reviews
+
+**Version Control Intern – Infosys**
+*Jan 2018 – Jun 2019*
+
+* Supported migration from SVN to Git for internal projects
+* Created documentation and guidelines for Git usage and branching workflows
+* Assisted in configuring Jenkins pipelines for automated builds and deployments
+
+---
+
+### 🛠️ Technical Skills:
+
+* **Version Control**: Git, GitHub, GitLab, Bitbucket, SVN (legacy)
+* **CI/CD Tools**: Jenkins, GitLab CI, GitHub Actions, CircleCI
+* **Containers & Orchestration**: Docker, Kubernetes, Helm
+* **Scripting**: Bash, Python
+* **Other Tools**: SonarQube, Nexus Repository, JIRA, Confluence
+
+---
+
+### 🔧 Projects:
+
+* **GitOps Migration Project**
+  Migrated legacy deployment workflows to GitOps using ArgoCD, enabling automated sync and rollback with declarative configs
+
+* **Commit Policy Automation**
+  Developed pre-commit hooks to check commit message formats and scan secrets, reducing policy violations by 85%
+
+* **Multi-Repo CI/CD Orchestration**
+  Set up pipelines across 10 microservice repos with dependency management, parallel builds, and automatic version tagging
+
+---
+
+### 📊 Match Percentage: **92% ✅**
+
+| JD Requirement                   | Resume Match                         | Score |
+| -------------------------------- | ------------------------------------ | ----- |
+| Git branching & merging          | ✅ Git Flow, trunk-based workflows    | 10/10 |
+| Repository management            | ✅ GitHub Enterprise, GitLab          | 10/10 |
+| CI/CD pipeline automation        | ✅ Jenkins, GitLab CI, GitHub Actions | 10/10 |
+| Merge conflict resolution        | ✅ Extensive experience               | 10/10 |
+| Git hooks & scripting            | ✅ Bash & Python scripts              | 9/10  |
+| GitOps & container orchestration | ✅ ArgoCD, Kubernetes                 | 9/10  |
+| Developer collaboration          | ✅ Training and policy enforcement    | 9/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### ✅ Strengths:
+
+* Deep expertise in Git and version control best practices
+* Proven success in automating complex CI/CD workflows
+* Strong scripting and automation skills improving developer productivity
+* Hands-on experience integrating version control with container orchestration and GitOps
+* Effective communicator and team trainer on version control processes
+
+### 📈 Suggestions:
+
+* Explore advanced Git internals and large-scale repo management (e.g., Git LFS)
+* Gain experience with cloud-native CI/CD tools like Tekton or GitHub Copilot for DevOps
+* Publish blog posts or talks on version control best practices
+

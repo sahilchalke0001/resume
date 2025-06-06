@@ -1,0 +1,84 @@
+
+
+## 🧑‍💻 Low-Match Resume: *Rohit Singh – Backend Developer Fresher*
+
+**Name**: Rohit Singh
+**Email**: [rohit.singh123@gmail.com](mailto:rohit.singh123@gmail.com)
+**Location**: Jaipur, India
+**LinkedIn**: linkedin.com/in/rohit-singh-basic
+
+---
+
+### 🎓 Education:
+
+* **B.Sc. in Computer Science**, Rajasthan University (2023) — 6.5 CGPA
+* Basic programming courses completed (C, Python fundamentals)
+
+---
+
+### 💼 Experience:
+
+**Intern – IT Support, Local Firm**
+*Jun 2023 – Aug 2023*
+
+* Provided basic software troubleshooting support
+* Assisted with simple database updates using Excel
+* No backend or API development experience
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: Python (basic), C (basic)
+* **Tools**: Basic command line usage, MS Excel
+* **Concepts**: Programming fundamentals only
+* **Frameworks/Databases**: None
+
+---
+
+### Projects:
+
+* **Simple Python Calculator**
+  Developed a console-based calculator supporting basic arithmetic operations.
+
+* **To-Do List App (CLI)**
+  Created a command-line application to add, remove, and view tasks stored in a text file.
+
+---
+
+## 📊 Match Percentage: **25% ⚠️ Low**
+
+| JD Requirement                  | Resume Match | Score |
+| ------------------------------- | ------------ | ----- |
+| Backend API development         | ❌ None       | 0/10  |
+| Database design & management    | ❌ None       | 0/10  |
+| Authentication & security       | ❌ None       | 0/10  |
+| Testing & debugging             | ❌ None       | 0/10  |
+| Deployment & containerization   | ❌ None       | 0/10  |
+| Collaboration & version control | ❌ None       | 0/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### Strengths:
+
+* Basic programming fundamentals in Python and C
+* Willingness to learn and complete beginner projects
+
+### Gaps:
+
+* No backend or database experience
+* No exposure to API development or security concepts
+* No version control or deployment knowledge
+
+---
+
+### Suggestions:
+
+* Learn Node.js or Python backend frameworks (Express, Flask)
+* Start practicing SQL and database fundamentals
+* Build simple REST API projects and explore authentication
+* Get familiar with Git and basic testing
+* Work on small, real-world projects to gain practical skills
+

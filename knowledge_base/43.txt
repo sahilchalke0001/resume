@@ -1,0 +1,83 @@
+
+
+## 🧑‍💼 Moderate-Match Resume: *Sneha Patil – Project Manager*
+
+**Name:** Sneha Patil
+**Email:** [sneha.patil.pm@gmail.com](mailto:sneha.patil.pm@gmail.com)
+**Location:** Pune, India
+**LinkedIn:** linkedin.com/in/snehapatilpm
+
+---
+
+### 🎓 Education:
+
+* MBA in Project Management, Pune University (2023)
+* B.Tech in Computer Engineering, Pune University (2018)
+
+---
+
+### 💼 Experience:
+
+**Assistant Project Manager – TechSolutions Pvt Ltd**
+*Jul 2023 – Present*
+
+* Assisted in managing software development projects following Agile and Waterfall methodologies
+* Coordinated between cross-functional teams to deliver project milestones on schedule
+* Maintained project documentation and tracked progress using Jira and MS Project
+* Facilitated daily standups and sprint planning meetings
+* Managed stakeholder communication and expectations
+
+**Project Coordinator – InnovateX**
+*Jun 2021 – Jun 2023*
+
+* Supported project managers in scheduling and resource allocation
+* Created project status reports and assisted in risk management
+* Liaised with clients for requirement gathering and updates
+* Utilized MS Excel and Trello for task tracking and reporting
+
+---
+
+### 🛠️ Skills:
+
+* Project Management: Agile, Scrum, Waterfall
+* Tools: Jira, MS Project, Trello, MS Excel, Confluence
+* Communication & Stakeholder Management
+* Risk Management and Reporting
+* Team Coordination and Leadership
+
+---
+
+### Projects:
+
+* **ERP Implementation Project:** Assisted in managing phases of ERP rollout for a mid-sized manufacturing company, helping ensure timely delivery and user training.
+* **Mobile App Development:** Coordinated cross-team efforts and tracked deliverables for a customer-facing mobile app launch.
+
+---
+
+## 📊 Match Percentage: **70% ⚠️ Moderate**
+
+| JD Requirement              | Resume Match                                    | Score |
+| --------------------------- | ----------------------------------------------- | ----- |
+| End-to-end project delivery | ✅ Experience as assistant and coordinator       | 7/10  |
+| Agile and Waterfall         | ✅ Used both methodologies                       | 7/10  |
+| Stakeholder communication   | ✅ Regular updates and coordination              | 8/10  |
+| Risk management             | ⚠️ Basic experience                             | 5/10  |
+| Team leadership             | ⚠️ Some coordination, limited direct leadership | 6/10  |
+| Tools proficiency           | ✅ Jira, MS Project, Trello                      | 7/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Solid experience coordinating multiple projects using popular PM tools
+* Good understanding of Agile and Waterfall processes
+* Effective communicator with stakeholders
+
+**Areas to Improve:**
+
+* Gain more hands-on experience leading teams and full project ownership
+* Develop stronger risk mitigation and conflict resolution skills
+* Enhance strategic planning and budgeting knowledge
+

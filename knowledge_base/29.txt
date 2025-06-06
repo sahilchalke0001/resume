@@ -1,0 +1,126 @@
+
+
+## 👨‍💻 Position: Cybersecurity Expert
+
+**Company**: SecuCore Technologies
+**Location**: Bengaluru, India
+**Experience Required**: 2–5 years
+**Key Areas**: Network Security, Threat Analysis, Penetration Testing, SIEM, Firewalls, Incident Response
+
+---
+
+## ❌ Low-Match Resume: *Aarav Mehta – Android Developer*
+
+**Name**: Aarav Mehta
+**Email**: [aarav.androiddev@gmail.com](mailto:aarav.androiddev@gmail.com)
+**Location**: Ahmedabad, India
+**LinkedIn**: linkedin.com/in/aarav-mehta-dev
+**Portfolio**: github.com/aarav-mobile
+
+---
+
+### 🎓 Education:
+
+* **B.E. in Information Technology**, Gujarat Technological University (2019) – 8.2 CGPA
+* **Certifications**: Google Associate Android Developer (AADC)
+
+---
+
+### 💼 Work Experience:
+
+**Android Developer – TCS Digital**
+*Jul 2019 – Present*
+
+* Developed 10+ mobile applications using Kotlin and Jetpack Compose
+* Integrated Firebase Authentication, Crashlytics, and Google Play Billing
+* Implemented offline sync and secure storage using EncryptedSharedPrefs
+* Worked on optimizing app performance and battery usage
+
+**Intern – Mobile App Team, TCS**
+*Jan 2019 – May 2019*
+
+* Developed a GPS-based employee attendance app using Flutter
+* Basic encryption (AES) implemented for data payloads
+
+---
+
+### 🛠️ Technical Skills:
+
+* **Languages**: Kotlin, Java, Dart
+* **Frameworks**: Android Jetpack, Flutter
+* **Tools**: Firebase, Retrofit, Room DB, Android Studio
+* **Other**: Git, GitHub Actions, CI/CD for Play Store
+
+---
+
+### 💡 Projects:
+
+* **eVault** – A secure notes app using AES-256 (local only)
+* **Foodster** – Food delivery app with Razorpay integration
+* **EduTrack** – LMS mobile app with real-time attendance and quizzes
+
+---
+
+## 📄 Job Description – Cybersecurity Expert
+
+### ✅ Key Responsibilities:
+
+* Perform vulnerability assessments and penetration tests
+* Monitor and respond to security incidents
+* Configure and manage firewalls, IDS/IPS, and SIEM tools
+* Develop and implement cybersecurity policies and awareness programs
+* Analyze threat intelligence feeds and respond to zero-day exploits
+
+### ✅ Required Skills:
+
+* Hands-on experience with Kali Linux, Metasploit, Wireshark
+* Knowledge of OWASP Top 10, MITRE ATT\&CK, ISO 27001
+* Proficiency with scripting (Python/Bash), logs analysis, risk mitigation
+* Security certifications (CEH, CISSP, CompTIA Security+) preferred
+
+---
+
+### 📊 Match Percentage: **27% ❌**
+
+| JD Requirement                            | Resume Match                    | Match Score |
+| ----------------------------------------- | ------------------------------- | ----------- |
+| Cybersecurity certifications              | ❌ (Only Android cert)           | 0/10        |
+| Security tools (Kali, SIEM, IDS/IPS)      | ❌                               | 0/10        |
+| Penetration testing/VAPT                  | ❌                               | 0/10        |
+| Secure coding (beyond app-level)          | ⚠️ Basic AES encryption         | 2/10        |
+| Threat analysis / incident response       | ❌                               | 0/10        |
+| Scripting (Python, Bash)                  | ❌ (Not listed)                  | 0/10        |
+| Awareness of standards (OWASP, ISO 27001) | ❌                               | 0/10        |
+| Version control, CI/CD                    | ✅ Git, GitHub Actions           | 5/10        |
+| Basic app security knowledge              | ✅ Secure storage, Firebase Auth | 5/10        |
+
+---
+
+## 🧠 Professional Evaluation
+
+### ✅ Strengths:
+
+* Strong app development and secure mobile practices (e.g., AES, authentication)
+* Solid understanding of CI/CD and Play Store pipeline
+* Familiar with encryption at the app level
+
+### ❌ Weaknesses (for cybersecurity):
+
+* No exposure to **network security**, **threat analysis**, or **penetration testing**
+* Missing core tools used in offensive/defensive security (e.g., Metasploit, Wireshark)
+* No certifications in security domains (e.g., CEH, Security+)
+* Doesn't work with logs, SIEM systems, or secure network infrastructure
+
+---
+
+## 📈 Suggestions to Improve Match:
+
+If Aarav wants to transition into cybersecurity:
+
+1. **Learn Python and Linux fundamentals**
+2. Enroll in **CEH or CompTIA Security+** certification
+3. Try hands-on labs (TryHackMe, HackTheBox)
+4. Build small security projects (e.g., keylogger detector, basic firewall rules)
+5. Understand and document OWASP Top 10 vulnerabilities
+6. Join bug bounty platforms (HackerOne, Bugcrowd)
+

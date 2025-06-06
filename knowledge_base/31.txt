@@ -1,0 +1,125 @@
+
+
+## 🧪 Position: Generative AI Intern
+
+**Company**: GenAI Labs
+**Location**: Remote / Bengaluru
+**Internship Duration**: 6 months
+**Team Focus**: Large Language Models, Prompt Engineering, Fine-tuning, Evaluation
+
+---
+
+### 📄 Job Description (GenAI Intern)
+
+**Requirements:**
+
+* Good understanding of deep learning (transformers, attention mechanisms)
+* Hands-on with generative tools (LLMs, Stable Diffusion, GPT, etc.)
+* Familiarity with Hugging Face, LangChain, or OpenAI API
+* Python + PyTorch/TensorFlow proficiency
+* Experience with prompt design, text generation, or RAG pipelines a plus
+* Strong Git, Jupyter, and collaborative coding skills
+
+---
+
+## 🧑‍💻 Moderate-Match Resume: *Riya Suresh – AI/ML Enthusiast*
+
+**Name**: Riya Suresh
+**Email**: [riya.suresh.ml@gmail.com](mailto:riya.suresh.ml@gmail.com)
+**Location**: Pune, India
+**GitHub**: github.com/riya-ml
+**LinkedIn**: linkedin.com/in/riya-suresh-ml
+
+---
+
+### 🎓 Education:
+
+* **B.Tech in Computer Engineering**, MIT-WPU, Pune (Expected 2025) – 8.4 CGPA
+* Electives: Deep Learning, NLP, Advanced Python
+
+---
+
+### 💼 Experience:
+
+**Research Trainee – AI Centre, College Project**
+*Jan 2024 – Apr 2024*
+
+* Built a **text summarizer using BERT and T5 models** from Hugging Face
+* Studied **transformer architecture** (Vaswani et al.) as part of literature review
+* Compared ROUGE and BLEU scores across pre-trained models
+* Deployed summarizer using Streamlit for internal demo
+
+**AI/ML Intern – CodeCrafters.ai (Remote)**
+*May 2023 – Aug 2023*
+
+* Trained sentiment classifier on tweets using **LSTM and BERT**
+* Cleaned and preprocessed large datasets (NLTK, spaCy)
+* Used MLflow for tracking model metrics
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: Python, SQL
+* **Libraries**: PyTorch, Transformers, Scikit-learn, Hugging Face, Streamlit
+* **Tools**: Google Colab, Git, VSCode
+* **Concepts**: NLP, Embeddings, Transformers, Transfer Learning
+* **Beginner** with: LangChain, OpenAI API (used for chatbot experiments)
+
+---
+
+### 💡 Projects:
+
+1. **Resume Analyzer using BERT + Streamlit**
+
+   * Highlights matching skills and JD alignment using embedding similarity
+   * Used Sentence Transformers for vectorization
+   * Deployed on Heroku
+
+2. **AI Comic Generator (Prototype)**
+
+   * Used prompts + OpenAI’s `text-davinci-003` to generate dialogues
+   * Manual image pairing via Canva, basic automation planned
+
+---
+
+## 📊 Match Percentage: **66% ⚠️ Moderate**
+
+| JD Requirement                          | Resume Match                            | Score |
+| --------------------------------------- | --------------------------------------- | ----- |
+| Deep Learning / Transformer concepts    | ✅ Studied and implemented               | 8/10  |
+| Generative tools (GPT, LLMs, Diffusion) | ⚠️ Used GPT via API, not fine-tuned     | 6/10  |
+| Hugging Face / LangChain                | ✅ Hugging Face used, LangChain beginner | 7/10  |
+| Text generation / Prompting             | ⚠️ Basic prompting only                 | 5/10  |
+| PyTorch / TensorFlow                    | ✅ PyTorch used                          | 8/10  |
+| RAG / Evaluation pipelines              | ❌ Not explored                          | 2/10  |
+| Git, Streamlit, collaboration           | ✅ Yes                                   | 9/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### ✅ Strengths:
+
+* Strong academic and practical knowledge in **core NLP and transformer-based models**
+* Good experience with **Hugging Face, BERT, and text summarization**
+* Built deployable apps and understands end-to-end project lifecycle
+
+### ❌ Gaps:
+
+* No **fine-tuning of LLMs** or **RAG pipeline** experience
+* **Prompt engineering exposure is light** and limited to experimentation
+* No experience with **diffusion models, multi-modal generation, or LLM evaluation**
+
+---
+
+## 🧠 Suggestions to Improve Match:
+
+1. **Build a RAG pipeline** using LangChain + ChromaDB + OpenAI
+2. Complete Hugging Face’s [course on Transformers & Diffusion Models](https://huggingface.co/learn)
+3. Start with a **prompt engineering project** (e.g., story generator, chatbot)
+4. Explore **parameter-efficient fine-tuning** (LoRA, PEFT) on small LLMs
+5. Join a **Kaggle competition** in NLP or a GenAI Hackathon (like Hugging Face Spaces contests)
+
+---
+

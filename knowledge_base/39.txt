@@ -1,0 +1,85 @@
+
+
+## 🧑‍💻 High-Match Resume: *Sneha Patil – App Developer Fresher*
+
+**Name**: Sneha Patil
+**Email**: [sneha.patil.dev@gmail.com](mailto:sneha.patil.dev@gmail.com)
+**Location**: Mumbai, India
+**LinkedIn**: linkedin.com/in/sneha-patil-appdev
+**GitHub**: github.com/snehapatil
+
+---
+
+### 🎓 Education:
+
+* **B.Tech in Computer Science**, Mumbai University (2024) — CGPA: 8.4/10
+* Relevant coursework: Mobile Application Development, Object-Oriented Programming, UI/UX Design, Software Engineering
+
+---
+
+### 💼 Internships & Training:
+
+**Mobile App Developer Intern – Tech Innovations Pvt Ltd**
+*Jan 2024 – Apr 2024*
+
+* Developed and tested **Android apps** using **Java** and **Kotlin**
+* Integrated RESTful APIs and managed app data with **SQLite** and **Firebase**
+* Collaborated with UI/UX team to implement user-friendly interfaces
+* Used **Git** for version control and Jira for agile project management
+* Published a prototype app on Google Play Store for beta testing
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: Java, Kotlin, Dart (Flutter basics)
+* **Platforms**: Android Studio, Flutter (basic)
+* **Tools**: Firebase (auth, database), SQLite, REST API integration
+* **Concepts**: MVVM architecture, Material Design, responsive UI, app lifecycle
+* **Others**: Git, Agile methodologies
+
+---
+
+### Projects:
+
+* **Expense Tracker App (Android, Kotlin)**
+  Created an app to track daily expenses with category-wise reports, local storage using SQLite, and cloud sync via Firebase. Implemented user authentication and notifications.
+
+* **Weather Forecast App (Flutter)**
+  Developed a cross-platform weather app fetching data from a public API, showing current and weekly forecasts with beautiful UI and animations.
+
+* **Campus Event Organizer (Java, Android)**
+  Built an app to list and register for college events with real-time updates and push notifications.
+
+---
+
+## 📊 Match Percentage: **92% ✅ High**
+
+| JD Requirement                       | Resume Match                       | Score |
+| ------------------------------------ | ---------------------------------- | ----- |
+| Mobile app development (Android/iOS) | ✅ Kotlin, Java, Flutter basics     | 9/10  |
+| API integration                      | ✅ RESTful API with Firebase        | 9/10  |
+| Database management                  | ✅ SQLite and Firebase              | 9/10  |
+| UI/UX implementation                 | ✅ Material Design, responsive UI   | 9/10  |
+| Version control & collaboration      | ✅ Git, Agile workflows             | 9/10  |
+| Testing & deployment                 | ✅ Beta testing, Play Store publish | 9/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### Strengths:
+
+* Strong technical skills in Android app development with Kotlin and Java
+* Hands-on experience with database management and cloud services
+* Good understanding of UI/UX and app lifecycle
+* Experience working in Agile teams with Git and project management tools
+* Real-world app deployment experience
+
+### Suggestions:
+
+* Explore advanced Flutter development for cross-platform apps
+* Learn automated testing frameworks (Espresso, UI Automator)
+* Gain experience with iOS development (Swift) if interested in cross-platform
+* Build portfolio with published apps and open-source contributions
+

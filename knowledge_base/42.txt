@@ -1,0 +1,129 @@
+
+
+### Technical Questions
+
+1. Explain your favorite programming language and why you like it.
+2. What are the differences between procedural and object-oriented programming?
+3. Describe your experience with data structures like arrays, linked lists, trees, and hash maps.
+4. How do you handle memory management in your code?
+5. What is the difference between stack and heap memory?
+6. Explain how a hash table works.
+7. What are the common sorting algorithms and their time complexities?
+8. How do you find a bug in your code?
+9. Write a function to reverse a string.
+10. Explain the concept of recursion with an example.
+11. What is Big O notation? Why is it important?
+12. How do you optimize the performance of your code?
+13. What is multithreading? Have you worked with threads?
+14. What are REST APIs and how do you use them?
+15. Explain the difference between SQL and NoSQL databases.
+16. What is normalization in databases?
+17. Describe a time you used version control systems like Git.
+18. What is continuous integration and why is it important?
+19. How do you ensure your code is secure?
+20. What testing strategies do you use?
+
+### Behavioral Questions
+
+21. Tell me about yourself.
+22. Why do you want to work at this company?
+23. What are your strengths and weaknesses?
+24. Describe a challenging project you worked on.
+25. How do you handle tight deadlines?
+26. Tell me about a time you worked in a team.
+27. How do you prioritize your work?
+28. Describe a conflict with a team member and how you resolved it.
+29. What motivates you as a software engineer?
+30. How do you keep your technical skills up to date?
+
+### Situational / Problem-solving Questions
+
+31. How would you design a system to handle millions of users?
+32. What would you do if you found a security vulnerability in your product?
+33. How do you handle receiving critical feedback?
+34. Describe a situation where you had to learn a new technology quickly.
+35. How would you improve an existing codebase with technical debt?
+36. What would you do if you disagreed with a manager’s decision?
+37. How do you deal with incomplete requirements?
+38. Describe a time when you went above and beyond at work.
+39. What would you do if your project is running behind schedule?
+40. How do you handle stress during a project crunch?
+
+### System Design Questions
+
+41. Design a URL shortening service.
+42. How would you build a chat application?
+43. Explain how you would design a caching system.
+44. What considerations would you make when designing a scalable web app?
+45. How would you design a recommendation system?
+46. What is load balancing and why is it important?
+47. Explain database sharding.
+48. How do you handle data consistency in distributed systems?
+49. What are microservices and what are their benefits?
+50. How would you design a logging system?
+
+### Programming / Coding Questions
+
+51. Write code to check if a string is a palindrome.
+52. Implement a function to merge two sorted arrays.
+53. Find the maximum subarray sum in an integer array.
+54. Write a function to find duplicates in an array.
+55. How would you implement a stack using queues?
+56. Write code to perform inorder traversal of a binary tree.
+57. Implement binary search on a sorted list.
+58. Write a program to generate Fibonacci numbers.
+59. Find the first non-repeating character in a string.
+60. Implement a function to reverse a linked list.
+
+### Deep Computer Science Concepts
+
+61. Explain how garbage collection works.
+62. What is the difference between processes and threads?
+63. How do operating systems manage memory?
+64. What are deadlocks and how can they be prevented?
+65. Explain TCP vs UDP.
+66. What is the difference between synchronous and asynchronous programming?
+67. What are semaphores and mutexes?
+68. Describe how DNS works.
+69. What is the difference between a monolith and microservices?
+70. Explain the CAP theorem.
+
+### Soft Skills & Culture Fit
+
+71. How do you handle working with difficult teammates?
+72. Describe a time when you failed and how you handled it.
+73. How do you give and receive constructive feedback?
+74. What’s your approach to learning new skills?
+75. How do you balance quality and speed in your work?
+76. Describe your ideal work environment.
+77. How do you stay motivated during repetitive tasks?
+78. What do you like to do outside of work?
+79. How do you manage work-life balance?
+80. What are your career goals?
+
+### Leadership & Collaboration
+
+81. Have you ever led a team or project? Describe your experience.
+82. How do you handle disagreements within your team?
+83. What’s your approach to mentoring junior developers?
+84. How do you handle delegation?
+85. How do you manage cross-team collaboration?
+86. Describe a time when you had to persuade someone to adopt your idea.
+87. How do you handle tight deadlines when managing a team?
+88. How do you set goals and measure success?
+89. Describe a time you had to make a difficult decision.
+90. What leadership qualities do you admire?
+
+### Wrap-Up / Miscellaneous
+
+91. Why should we hire you?
+92. What are your salary expectations?
+93. Do you prefer working independently or in a team?
+94. How do you handle ambiguity in a project?
+95. What is your greatest professional achievement?
+96. How do you approach problem-solving?
+97. What’s your favorite project you have worked on and why?
+98. How do you handle multiple priorities?
+99. What’s your experience with agile methodologies?
+100. Do you have any questions for us?
+

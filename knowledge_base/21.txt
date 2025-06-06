@@ -1,0 +1,84 @@
+---
+
+### **Software Engineer Resume (with Projects)**
+
+**Name:** Rahul Sharma
+**Email:** [rahul.sharma@email.com](mailto:rahul.sharma@email.com)
+**Phone:** +91-9876543210
+**LinkedIn:** linkedin.com/in/rahulsharma
+**GitHub:** github.com/rahulsharma-dev
+**Portfolio:** rahulsharma.dev
+
+---
+
+###  **Objective**
+Passionate Software Engineer with 2+ years of experience in full-stack development, seeking to leverage strong programming skills and project experience to contribute to a dynamic development team.
+
+---
+
+### **Skills**
+
+* **Languages:** Python, JavaScript, Java, C++
+* **Web Development:** React, Node.js, Express, Flask, HTML/CSS, TailwindCSS
+* **Databases:** MongoDB, MySQL, PostgreSQL
+* **Tools:** Git, Docker, Postman, VS Code, Firebase
+* **Cloud & DevOps:** AWS (EC2, S3), Render, Vercel
+* **Others:** REST APIs, JWT Auth, Agile, CI/CD, Object-Oriented Programming
+
+---
+
+###  **Education**
+
+**B.Tech in Computer Science**
+XYZ Institute of Technology, Mumbai
+2020 – 2024 | CGPA: 8.5/10
+
+---
+
+### **Projects**
+
+#### **1. ATS Resume Analyzer** – [Live Site](https://resume-1-ds3s.onrender.com) | [GitHub](https://github.com/rahulsharma-dev/ats-resume-analyzer)
+
+* Built a Flask-based web app to parse resumes and match with job descriptions using Gemini AI and LangChain.
+* Features include PDF upload, resume summarization, skill match percentage, and email delivery of results.
+* Tech Stack: Flask, LangChain, Google Generative AI, ChromaDB, HTML/CSS, JavaScript.
+
+#### **2. Emotion-based Music Recommendation System**
+
+* Developed a web app that detects user emotion via webcam and recommends music accordingly.
+* Integrated a CNN-based emotion detector with the Spotify API.
+* Tech Stack: OpenCV, TensorFlow, Flask, Spotify API.
+
+####  **3. Wedding Venue Chatbot System**
+
+* Created a React chatbot that recommends wedding venues based on user preferences using Photon API.
+* Utilized Google Gemini API to provide smart, AI-generated responses based on CSV data.
+* Tech Stack: React, TailwindCSS, Google Gemini API, Photon API, CSV Parsing.
+
+####  **4. Smart Waste Sorter (IoT + ML)**
+
+* Built an AI-based system using sensors and image classification to identify and segregate waste into biodegradable and non-biodegradable.
+* Integrated with a mobile app dashboard.
+* Tech Stack: Arduino, TensorFlow Lite, Firebase, Android Studio.
+
+####  **5. Calorie Estimator App**
+
+* Designed a Streamlit-based app that takes food images and estimates calorie count using Gemini AI.
+* Outputs total calorie and nutritional info for fitness tracking.
+* Tech Stack: Streamlit, Google Gemini API, OpenCV.
+
+---
+
+### **Achievements**
+
+*  Winner, Hackathon 2024 by IEEE Mumbai Section – “AI for Social Good”
+*  Finalist, Smart India Hackathon 2023 – Waste Management Track
+
+---
+
+###  **Languages**
+
+* English (Fluent)
+* Hindi (Native)
+
+---

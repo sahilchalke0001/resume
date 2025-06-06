@@ -1,0 +1,72 @@
+
+
+## 🧑‍💼 Low-Match Resume: *Rajesh Kumar – Software Developer*
+
+**Name:** Rajesh Kumar
+**Email:** [rajesh.kumar.dev@gmail.com](mailto:rajesh.kumar.dev@gmail.com)
+**Location:** Mumbai, India
+**LinkedIn:** linkedin.com/in/rajeshkumar-dev
+
+---
+
+### 🎓 Education:
+
+* B.E. in Computer Science, Mumbai University (2022)
+
+---
+
+### 💼 Experience:
+
+**Software Developer – CodeCraft Technologies**
+*Aug 2022 – Present*
+
+* Developed backend APIs using Java and Spring Boot
+* Collaborated with frontend developers and QA teams
+* Participated in Agile sprint planning as a team member
+* Fixed bugs and optimized code performance
+
+---
+
+### 🛠️ Skills:
+
+* Programming Languages: Java, Python, SQL
+* Frameworks: Spring Boot, Hibernate
+* Version Control: Git
+* Agile development practices
+
+---
+
+### Projects:
+
+* **Inventory Management System:** Developed RESTful APIs to manage product data and stock levels.
+* **Customer Feedback Portal:** Built backend services and integrated third-party analytics.
+
+---
+
+## 📊 Match Percentage: **35% ⚠️ Low**
+
+| JD Requirement              | Resume Match                                  | Score |
+| --------------------------- | --------------------------------------------- | ----- |
+| End-to-end project delivery | ❌ No PM experience                            | 2/10  |
+| Agile and Waterfall         | ⚠️ Exposure as developer only                 | 3/10  |
+| Stakeholder communication   | ❌ No direct communication experience          | 1/10  |
+| Risk management             | ❌ No relevant experience                      | 1/10  |
+| Team leadership             | ❌ No leadership roles                         | 1/10  |
+| Tools proficiency           | ⚠️ Familiar with Agile tools but not PM tools | 4/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Strong technical skills as a software developer
+* Familiarity with Agile development environment
+
+**Areas to Improve:**
+
+* Lack of any project management experience or responsibilities
+* No exposure to stakeholder management or risk mitigation
+* Needs to develop leadership and communication skills for PM roles
+* Should acquire project management certifications or training
+

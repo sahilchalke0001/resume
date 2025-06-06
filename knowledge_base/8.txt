@@ -1,0 +1,108 @@
+**Position:** Senior Flutter Developer  
+**Level:** Senior (4+ years experience)  
+**Location:** Remote  
+
+**Key Responsibilities:**  
+- Develop cross-platform apps using Flutter framework  
+- Architect scalable app state solutions (Bloc, Riverpod)  
+- Optimize app performance (rendering, memory, battery)  
+- Implement CI/CD for Flutter apps (Codemagic, Fastlane)  
+- Integrate Firebase services (Auth, Firestore, Cloud Functions)  
+- Mentor junior developers  
+
+**Mandatory Requirements:**  
+- 3+ years production Flutter experience  
+- Dart 2.0+ expertise (Null Safety, Isolates)  
+- Published apps on Play Store/App Store  
+- State management: Bloc or Riverpod  
+- Testing: Unit/Widget/Integration tests  
+
+**Preferred Skills:**  
+- Native Android/iOS interoperability  
+- GraphQL/Apollo Client  
+- AWS Amplify  
+
+---
+
+### **Resume: Junior Mobile Developer (35% Match)**  
+**Name:** Rohan Mehta  
+**Contact:** rohan.m.dev@gmail.com | +91-80XXXXXX45  
+**GitHub:** github.com/rohan-flutter  
+
+#### **Professional Summary**  
+Frontend developer transitioning to mobile with 1 year of Flutter experience. Basic Dart knowledge from personal projects.  
+
+#### **Technical Skills**  
+- **Languages:** Dart (Basic), JavaScript  
+- **Frameworks:** Flutter (Beginner), React  
+- **State Management:** Provider (Basic)  
+- **Tools:** Android Studio, VS Code  
+- **Database:** Firebase Realtime DB (CRUD operations)  
+
+#### **Projects**  
+1. **Weather App (Personal Project)**  
+   - Used OpenWeather API  
+   - Basic Provider state management  
+   - Not published on app stores  
+
+2. **Todo List App**  
+   - Local SQLite storage  
+   - No testing implemented  
+
+#### **Work Experience**  
+**Web Developer | Digital Solutions Co. (2022-Present)**  
+- Built React web applications  
+- No professional Flutter experience  
+
+#### **Education**  
+- BCA, Mumbai University (2021)  
+
+---
+
+### **Percentage Match Analysis**  
+| **JD Requirement**       | **Candidate Qualification** | **Match %** |  
+|--------------------------|-----------------------------|-------------|  
+| Flutter Experience       | 1 year (Personal projects)  | 20%         |  
+| Dart Expertise           | Basic syntax knowledge      | 15%         |  
+| Published Apps           | None                        | 0%          |  
+| State Management         | Provider only               | 30%         |  
+| Testing                  | No experience               | 0%          |  
+| CI/CD                    | No exposure                 | 0%          |  
+| **Overall Match**        |                             | **35%**     |  
+
+---
+
+### **Professional Evaluation**  
+**Critical Gaps:**  
+1. **Lacks production Flutter experience** (Only personal projects)  
+2. **No app store deployments**  
+3. **Missing advanced Dart concepts** (Null Safety, Isolates)  
+4. **Inadequate state management knowledge** (Only Provider)  
+
+**Potential Upsides:**  
+- Demonstrates initiative with self-taught Flutter  
+- Web development foundation could help with UI work  
+
+**Recommendation:**  
+"Rohan is currently a low match (35%) for this senior role. Recommended for:  
+1. Junior Flutter positions with mentorship  
+2. Intensive upskilling program (3-6 months)  
+3. Web-to-mobile transition roles"  
+
+---
+
+### **Why This is a Low Match**  
+ **Misses Senior Requirements:**  
+- No professional Flutter experience  
+- Lacks architecture/optimization skills  
+
+ **Technical Deficiencies:**  
+- No testing or CI/CD knowledge  
+- Basic Dart understanding  
+
+ **Would Require:**  
+- 6+ months intensive training  
+- Mentorship on state management  
+- App store publication guidance  
+
+This profile represents a candidate needing significant upskilling before handling senior Flutter responsibilities. Better suited for internship or associate-level mobile positions.

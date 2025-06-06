@@ -1,0 +1,83 @@
+
+
+## 🧑‍💻 Moderate-Match Resume: *Rohit Kumar – Backend Developer Fresher*
+
+**Name**: Rohit Kumar
+**Email**: [rohit.kumar.dev@gmail.com](mailto:rohit.kumar.dev@gmail.com)
+**Location**: Bangalore, India
+**LinkedIn**: linkedin.com/in/rohit-kumar-dev
+
+---
+
+### 🎓 Education:
+
+* **B.Tech in Computer Science**, Bangalore Institute of Technology (2024) — CGPA: 7.9/10
+* Relevant courses: Data Structures, Algorithms, Database Systems, Web Technologies, Operating Systems
+
+---
+
+### 💼 Internships & Training:
+
+**Backend Development Intern – Tech Solutions Pvt Ltd**
+*Jan 2024 – Apr 2024*
+
+* Developed RESTful APIs using **Node.js** and **Express.js**
+* Implemented CRUD operations and authentication with JWT
+* Used **MongoDB** for database management and **Mongoose** ORM
+* Collaborated with frontend team for API integration
+* Wrote unit tests using **Jest**
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: JavaScript (ES6+), Python (basic)
+* **Backend Frameworks**: Node.js, Express.js
+* **Databases**: MongoDB, MySQL (basic)
+* **Tools**: Postman, Git, Docker (basic)
+* **Concepts**: REST APIs, Authentication, MVC architecture, Unit Testing
+
+---
+
+### Projects:
+
+* **Online Bookstore API (Node.js, MongoDB)**
+  Built a RESTful API for managing books, users, and orders with authentication and role-based access control. Implemented pagination, filtering, and error handling.
+
+* **Chat Application Backend**
+  Created a backend server using Express.js and Socket.io for real-time messaging between users. Managed user sessions and message history storage.
+
+* **Task Manager App (Python Flask)**
+  Developed a simple task manager backend with REST endpoints for task CRUD operations and user authentication.
+
+---
+
+## 📊 Match Percentage: **60% ⚠️ Moderate**
+
+| JD Requirement                  | Resume Match                       | Score |
+| ------------------------------- | ---------------------------------- | ----- |
+| Backend API development         | ✅ Node.js/Express REST API         | 7/10  |
+| Database design & management    | ⚠️ MongoDB proficient, MySQL basic | 6/10  |
+| Authentication & security       | ✅ JWT implemented                  | 7/10  |
+| Testing & debugging             | ⚠️ Unit tests with Jest basic      | 5/10  |
+| Deployment & containerization   | ❌ Docker basic only                | 3/10  |
+| Collaboration & version control | ✅ Git experience                   | 6/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### Strengths:
+
+* Solid foundation in Node.js backend development and REST APIs
+* Practical experience with MongoDB and JWT-based authentication
+* Exposure to real-time communication via Socket.io
+* Familiarity with testing and version control
+
+### Areas for Improvement:
+
+* Gain stronger skills in relational databases like MySQL or PostgreSQL
+* Deepen understanding of containerization and deployment with Docker, Kubernetes
+* Explore backend performance optimization and security best practices
+* Practice more comprehensive testing (integration, end-to-end)
+

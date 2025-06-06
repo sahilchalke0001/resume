@@ -1,0 +1,81 @@
+
+## 🧑‍💻 Moderate-Match Resume: *Aarav Mehta – AI Tools Developer Fresher*
+
+**Name**: Aarav Mehta
+**Email**: [aarav.mehta.ai@gmail.com](mailto:aarav.mehta.ai@gmail.com)
+**Location**: Hyderabad, India
+**LinkedIn**: linkedin.com/in/aarav-mehta-ai
+**GitHub**: github.com/aaravmehta
+
+---
+
+### 🎓 Education:
+
+* **B.Tech in Computer Science**, Osmania University (2024) — CGPA: 7.8/10
+* Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Software Development
+
+---
+
+### 💼 Internships & Training:
+
+**AI Developer Intern – Innovate AI Labs**
+*Jan 2024 – Apr 2024*
+
+* Assisted in building AI-powered chatbot modules using Python and NLP libraries (NLTK, spaCy)
+* Developed simple tool prototypes for text summarization and sentiment analysis
+* Integrated APIs for voice recognition and language translation
+* Collaborated in Agile teams, using Git and JIRA for project management
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: Python, JavaScript (basic)
+* **Libraries/Frameworks**: TensorFlow (basic), scikit-learn, NLTK, spaCy
+* **Tools**: Jupyter Notebook, Git, REST APIs
+* **Concepts**: NLP, text processing, basic ML algorithms, chatbot development
+* **Others**: Agile development, API integration
+
+---
+
+### Projects:
+
+* **Text Summarization Tool (Python)**
+  Built an extractive text summarizer using NLTK to help reduce lengthy documents to key points.
+
+* **Sentiment Analysis on Twitter Data**
+  Developed a model to classify tweets as positive, negative, or neutral using scikit-learn and visualized results.
+
+* **Voice-Controlled Note-Taking App (Prototype)**
+  Created a simple app that converts voice to text and organizes notes; integrated Google Speech API.
+
+---
+
+## 📊 Match Percentage: **65% ⚠️ Moderate**
+
+| JD Requirement                    | Resume Match                          | Score |
+| --------------------------------- | ------------------------------------- | ----- |
+| AI tool development & prototyping | ✅ Basic NLP tools and chatbot modules | 6/10  |
+| ML model implementation           | ⚠️ Basic ML algorithms                | 5/10  |
+| API integration                   | ✅ Voice and translation APIs          | 7/10  |
+| Collaboration & version control   | ✅ Git, Agile                          | 7/10  |
+| Advanced AI techniques            | ❌ Limited experience                  | 3/10  |
+| Software engineering principles   | ⚠️ Basic knowledge                    | 5/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### Strengths:
+
+* Hands-on experience with basic NLP and AI tool development
+* Exposure to API integration and prototyping
+* Familiarity with Agile processes and collaboration tools
+
+### Areas to Improve:
+
+* Deepen understanding of advanced ML and deep learning frameworks (TensorFlow, PyTorch)
+* Gain experience in production-level AI tool deployment and scalability
+* Enhance software engineering skills (testing, code optimization)
+* Work on end-to-end AI tool projects involving data pipelines and UI integration
+

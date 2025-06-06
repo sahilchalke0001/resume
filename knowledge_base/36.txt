@@ -1,0 +1,86 @@
+
+## 🧑‍💻 High-Match Resume: *Ananya Deshmukh – Data Analyst Fresher*
+
+**Name**: Ananya Deshmukh
+**Email**: [ananya.deshmukh2024@gmail.com](mailto:ananya.deshmukh2024@gmail.com)
+**Location**: Pune, India
+**LinkedIn**: linkedin.com/in/ananya-deshmukh-data
+
+---
+
+### 🎓 Education:
+
+* **B.Tech in Computer Science**, Pune Institute of Computer Technology (PICT)
+  *Graduation: 2024* — CGPA: 8.3/10
+* Relevant coursework: Data Structures, Database Management Systems, Statistics, Machine Learning, Data Mining
+
+---
+
+### 💼 Internships & Training:
+
+**Data Analytics Intern – Smart Insights Pvt Ltd**
+*Jan 2024 – Apr 2024*
+
+* Cleaned, preprocessed, and transformed large datasets using **Python (pandas, numpy)**
+* Developed interactive, dynamic dashboards using **Tableau** and **Power BI** to support sales and customer insights
+* Wrote **complex SQL queries** involving joins, aggregations, and subqueries for data extraction
+* Performed exploratory data analysis (EDA), hypothesis testing, and built predictive models (logistic regression, decision trees)
+* Presented weekly reports and data-driven recommendations to management
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: Python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL (advanced)
+* **Tools**: Tableau, Power BI, Excel (advanced), Jupyter Notebook, Git
+* **Concepts**: Data cleaning, EDA, statistical analysis, hypothesis testing, regression, classification, machine learning basics
+* **Other**: Data storytelling and visualization, version control
+
+---
+
+### Projects:
+
+* **Sales Forecasting Model (Python & Power BI)**
+  Built a time series forecasting model using ARIMA on historical sales data to predict future trends. Created Power BI dashboards to visualize forecast and actual sales.
+
+* **Customer Segmentation (K-means Clustering)**
+  Applied unsupervised learning techniques on customer purchase data to identify distinct segments for targeted marketing. Visualized results with Tableau.
+
+* **Credit Risk Prediction (Logistic Regression & Decision Trees)**
+  Developed and evaluated classification models to predict loan default risk. Performed feature engineering and model tuning.
+
+* **Interactive COVID-19 Dashboard**
+  Created a public-facing Tableau dashboard tracking COVID-19 cases and vaccination data with filters by region and timeline.
+
+---
+
+## 📊 Match Percentage: **90% ✅ High**
+
+| JD Requirement                       | Resume Match                       | Score |
+| ------------------------------------ | ---------------------------------- | ----- |
+| Data extraction & cleaning           | ✅ Advanced pandas & SQL            | 9/10  |
+| Data visualization                   | ✅ Tableau & Power BI dashboards    | 9/10  |
+| Statistical analysis                 | ✅ Hypothesis testing & regression  | 9/10  |
+| SQL querying                         | ✅ Complex queries and optimization | 9/10  |
+| Reporting & presentation             | ✅ Regular reports & presentations  | 9/10  |
+| Advanced analytics (ML, forecasting) | ✅ Predictive modeling & clustering | 9/10  |
+
+---
+
+## 🧠 Suggestions: Projects to Strengthen Your Profile Further
+
+1. **E-commerce Customer Behavior Analysis**
+   Analyze transaction logs to identify purchase patterns, seasonality, and customer lifetime value.
+
+2. **Sentiment Analysis on Social Media Data**
+   Use NLP techniques on Twitter or Reddit data to classify public sentiment on a trending topic.
+
+3. **Churn Prediction for Subscription Services**
+   Build and tune machine learning models predicting customer churn, then visualize actionable insights.
+
+4. **Dashboard for Real-time Stock Market Data**
+   Use APIs to pull live stock data, create interactive dashboards with trend indicators and alerts.
+
+5. **A/B Testing Simulation and Analysis**
+   Design and analyze experiments on user engagement or conversion rates using statistical significance tests.
+

@@ -1,0 +1,96 @@
+**Position:** Application Developer  
+**Level:** Mid-Level (2-4 years experience)  
+**Location:** Hybrid (Chennai/Pune)  
+
+**Key Responsibilities:**
+- Develop and maintain web/mobile applications using JavaScript frameworks  
+- Build RESTful APIs and integrate with databases  
+- Implement CI/CD pipelines for application deployment  
+- Collaborate with UX designers and product managers  
+- Troubleshoot and debug application issues  
+- Participate in Agile development processes  
+
+**Technical Requirements:**
+- Core: JavaScript/TypeScript, React or Angular  
+- Backend: Node.js/Express or Spring Boot  
+- Databases: MongoDB or PostgreSQL  
+- Cloud: AWS/Azure basics  
+- Tools: Git, Docker, Jenkins  
+
+**Preferred Qualifications:**
+- Mobile development experience (React Native/Flutter)  
+- Microservices architecture knowledge  
+- Testing frameworks (Jest, Mocha)  
+
+---
+
+### **Resume: Application Developer (65% Match)**
+**Name:** Arjun Patel  
+**Contact:** arjun.patel@email.com | +91-99XXXXXX01  
+**LinkedIn:** linkedin.com/in/arjun-dev  
+
+**Professional Summary:**
+Full-stack developer with 3 years of experience building web applications. Proficient in MERN stack with exposure to cloud deployment.  
+
+**Technical Skills:**
+- **Frontend:** React, HTML5, CSS3  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB (basic CRUD operations)  
+- **Tools:** Git, Postman  
+- **Cloud:** AWS EC2 (basic deployment)  
+
+**Work Experience:**
+**Software Developer | TechSolutions India (2021-Present)**
+- Developed 5+ React applications for internal tools  
+- Built REST APIs using Node.js/Express  
+- Participated in Agile sprints (Jira)  
+
+**Projects:**
+1. **E-commerce Dashboard (MERN Stack)**
+   - Built product management interface with React  
+   - Created Node.js API for inventory management  
+
+2. **Task Management App**
+   - Developed using React hooks  
+   - MongoDB for data storage  
+
+**Education:**
+- B.Tech in Computer Science, Mumbai University (2020)  
+
+---
+
+### **Percentage Match Analysis**
+| **JD Requirement**       | **Candidate Qualification**        | **Match %** |
+|--------------------------|------------------------------------|-------------|
+| JavaScript Frameworks    | React experience                   | 80%         |
+| Backend Development      | Node.js/Express                    | 70%         |
+| Database Knowledge       | MongoDB basics                     | 60%         |
+| CI/CD Pipelines          | Limited exposure                   | 40%         |
+| Cloud Fundamentals       | AWS EC2 only                       | 50%         |
+| Agile Methodology        | Jira experience                    | 70%         |
+| **Overall Match**        |                                    | **65%**     |
+
+---
+
+### **Professional Evaluation**
+**Strengths:**
+1. Solid foundation in MERN stack development  
+2. Demonstrated ability to build functional applications  
+3. Experience working in Agile environment  
+
+**Development Areas:**
+1. Needs deeper database optimization knowledge  
+2. Limited CI/CD and cloud architecture experience  
+3. No testing framework implementation  
+
+**Recommendation:**
+"Arjun shows promise with 65% alignment to the role requirements. With targeted training in CI/CD and cloud services, he could grow into a stronger full-stack developer within 6-12 months. Suitable for teams that can provide mentorship."  
+
+---
+
+### **Moderate Match Rationale**
+1. **Meets Core Requirements:** Proficient in primary tech stack (React/Node)  
+2. **Gaps in Secondary Skills:** Lacking in CI/CD and advanced cloud  
+3. **Potential to Upskill:** Strong foundation to build upon  
+
+This profile represents a typical moderate-fit candidate who can contribute immediately to core development tasks while requiring guidance on more advanced aspects of the role.

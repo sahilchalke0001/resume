@@ -1,0 +1,91 @@
+Candidate Resume Summary (Low Match for AI/ML Engineer Role)
+Name: Riya Desai
+Email: riyadesai.dev@gmail.com
+LinkedIn: linkedin.com/in/riyadesai-dev
+Portfolio: riyafrontend.webflow.io
+Location: Pune, India
+
+🎓 Education:
+B.E. in Information Technology, Pune University – 8.5 CGPA (2020)
+
+🧠 Technical Skills:
+Frontend: React.js, Next.js, Angular, HTML, CSS, JavaScript
+
+UI/UX Tools: Figma, Adobe XD
+
+Testing: Jest, Cypress
+
+Build Tools: Webpack, Babel
+
+Version Control: Git, GitHub
+
+Design Systems: Material UI, Tailwind CSS
+
+Other: REST APIs, Firebase Auth, Netlify, Vercel
+
+💼 Work Experience:
+Frontend Engineer – Infosys Digital
+Aug 2020 – Present
+
+Built responsive web apps using React.js and integrated APIs with Axios.
+
+Improved Lighthouse performance score from 62 to 92 by optimizing bundle size.
+
+Collaborated with UX team to implement pixel-perfect designs in Material UI.
+
+Intern – WebDot Solutions
+Jan 2020 – Apr 2020
+
+Developed a product landing page for a startup using Next.js and Tailwind CSS.
+
+💡 Projects:
+Ecomly – E-commerce site with cart, authentication, and payment flow
+
+HealthCheck UI – React dashboard for health report visualization
+
+BlogPlatform – CMS frontend with rich text editor and markdown support
+
+📄 Job Description – AI/ML Engineer
+(Same as before)
+
+📊 Match Percentage: 28% ❌
+JD Requirement	Resume Match	Match Score
+Python, ML/DL frameworks	❌ (Not listed at all)	0/10
+NLP (BERT, Transformers)	❌	0/10
+Model Deployment (Flask, Docker)	❌	0/10
+Data Pipelines (Airflow, MLflow)	❌	0/10
+Cloud Platforms (AWS, GCP)	❌	0/10
+Git, Collaboration	✅ (Frontend team work, Git)	5/10
+API Integration, REST	✅ (Used in frontend apps)	5/10
+Streamlit, ML-specific libraries	❌	0/10
+Testing (ML context)	❌ (Only frontend unit testing)	0/10
+
+🧠 Professional Evaluation
+✅ Strengths:
+Strong front-end skills and performance optimization knowledge
+
+Solid UI/UX collaboration experience
+
+Good Git practices and deployment pipeline awareness (Netlify/Vercel)
+
+❌ Weaknesses (for this role):
+No background in machine learning, data science, or NLP
+
+No use of Python, scikit-learn, TensorFlow, or ML tools
+
+No exposure to data pipelines, MLOps, model training, or deployment
+
+Doesn’t meet the technical stack required for ML engineering roles
+
+📈 Suggestions to Improve Match:
+If Riya wants to transition into an AI/ML Engineer role:
+
+Learn Python and core ML libraries: scikit-learn, Pandas, NumPy
+
+Take online courses (e.g., Andrew Ng’s ML/Deep Learning Specialization)
+
+Build ML projects (classification, regression, NLP) and deploy using Flask or Streamlit
+
+Publish on GitHub and write case studies on projects (Kaggle, blog, or portfolio)
+
+Gain familiarity with model lifecycle, MLOps, and cloud deployment

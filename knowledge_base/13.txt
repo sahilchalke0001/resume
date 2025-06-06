@@ -1,0 +1,51 @@
+
+
+---
+
+### **Pilot Resume Match Evaluation Report**  
+**Position Applied For:** [Pilot Role, e.g., "Airline Captain – Boeing 737"]  
+**JD Match Percentage:** **90-95% (High Match)**  
+
+#### **Key Strengths (Aligned with JD Requirements):**  
+1. **Flight Experience & Certifications (100% Match)**  
+   - **JD Requirement:** 5,000+ flight hours, ATPL (Airline Transport Pilot License), Type Rating (e.g., B737/A320).  
+   - **Resume Match:** 6,200 hours (including 3,500 PIC), ATPL, B737-800 Type Rating.  
+
+2. **Technical & Regulatory Compliance (95% Match)**  
+   - **JD Requirement:** FAA/EASA Part 121/135 experience, CRM/APS training.  
+   - **Resume Match:** 8 years under FAA Part 121, recurrent CRM/LOFT training.  
+
+3. **Leadership & Safety Record (90% Match)**  
+   - **JD Requirement:** Crew management, incident-free safety record.  
+   - **Resume Match:** Captain for 4 years, zero regulatory violations.  
+
+4. **Soft Skills & Adaptability (85% Match)**  
+   - **JD Requirement:** Crisis management, teamwork, multilingual (if applicable).  
+   - **Resume Match:** Trained in emergency scenarios, fluent in English/Spanish.  
+
+#### **Areas for Minor Improvement (5-10% Gap):**  
+- **JD Preference:** Experience with [specific system, e.g., "EFB (Electronic Flight Bag)"] or [specific aircraft variant].  
+- **Resume Gap:** Limited detail on EFB proficiency (add a bullet point if applicable).  
+
+#### **Recommendations to Boost Match to 100%:**  
+1. **Tailor Keywords:** Add JD-specific terms (e.g., "SMS," "FOQA," or "CAT III ILS").  
+2. **Highlight Achievements:** Quantify fuel savings/safety milestones (e.g., "Reduced fuel burn by 3% through optimized flight planning").  
+3. **Certifications:** Mention recent recurrent training dates (e.g., "2024 Simulator Check").  
+
+#### **Conclusion:**  
+This resume demonstrates **exceptional alignment** with the JD, making the candidate a **top-tier applicant**. Minor refinements (keyword optimization, achievement metrics) can further strengthen competitiveness.  
+
+---
+
+### **Scoring Breakdown (Example):**  
+| Category               | JD Weight | Resume Match | Score |  
+|------------------------|-----------|--------------|-------|  
+| Flight Hours           | 25%       | 100%         | 25    |  
+| Certifications         | 25%       | 100%         | 25    |  
+| Safety/Compliance      | 20%       | 95%          | 19    |  
+| Leadership             | 15%       | 90%          | 13.5  |  
+| Soft Skills            | 15%       | 85%          | 12.75 |  
+| **Total**             | **100%**  |              | **95.25** |  
+
+**Final Match:** **95% (Excellent Fit)**  
+

@@ -1,0 +1,104 @@
+
+
+## 📊 Position: Data Analyst
+
+**Company**: Insight Analytics Pvt Ltd
+**Location**: Mumbai, India
+**Experience**: 1–3 years
+**Focus**: Data cleaning, visualization, SQL querying, reporting, statistical analysis
+
+---
+
+## 🧑‍💻 Moderate-Match Resume: *Sneha Kapoor – Aspiring Data Analyst*
+
+**Name**: Sneha Kapoor
+**Email**: [sneha.kapoor.data@gmail.com](mailto:sneha.kapoor.data@gmail.com)
+**Location**: Mumbai, India
+**LinkedIn**: linkedin.com/in/sneha-kapoor-data
+
+---
+
+### 🎓 Education:
+
+* **B.Sc. in Statistics**, University of Mumbai (2023) – 7.8 CGPA
+* Completed online courses in SQL and Data Visualization (Coursera)
+
+---
+
+### 💼 Experience:
+
+**Business Intelligence Intern – RetailMart Pvt Ltd**
+*Jun 2023 – Dec 2023*
+
+* Extracted and cleaned sales data using **Excel and basic SQL queries**
+* Created dashboards using **Tableau** to track key performance indicators (KPIs)
+* Assisted senior analysts in preparing weekly sales reports and presentations
+* Performed descriptive statistics and simple trend analyses
+
+**Freelance Data Analyst**
+*Jan 2023 – Present*
+
+* Analyzed customer survey data for a local NGO using Excel and Google Sheets
+* Provided actionable insights through charts and pivot tables
+* Visualized data with Power BI basics
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: SQL (basic-intermediate), Python (pandas, matplotlib - beginner)
+* **Tools**: Excel (advanced formulas, pivot tables), Tableau, Power BI (basic)
+* **Concepts**: Data cleaning, exploratory data analysis (EDA), descriptive statistics
+* **Others**: Google Sheets, presentation skills
+
+---
+
+### Projects:
+
+* **Sales Trend Dashboard (Tableau)**
+  Designed interactive dashboards showing monthly sales trends and regional performance
+* **Customer Feedback Analysis**
+  Cleaned and analyzed survey data, identifying satisfaction drivers and improvement areas
+
+---
+
+## 📊 Match Percentage: **65% ⚠️ Moderate**
+
+| JD Requirement                               | Resume Match                    | Score |
+| -------------------------------------------- | ------------------------------- | ----- |
+| Data extraction & cleaning                   | ✅ Excel & SQL used              | 7/10  |
+| Data visualization                           | ✅ Tableau, Power BI basics      | 7/10  |
+| Statistical analysis                         | ⚠️ Basic descriptive stats only | 5/10  |
+| SQL querying                                 | ⚠️ Basic-intermediate level     | 6/10  |
+| Reporting & presentation                     | ✅ Weekly reports experience     | 7/10  |
+| Advanced analytics (regression, forecasting) | ❌ No experience                 | 2/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### ✅ Strengths:
+
+* Solid foundation in data cleaning and basic SQL querying
+* Hands-on experience creating dashboards in Tableau
+* Good communication and report preparation skills
+
+### ❌ Gaps:
+
+* Needs to deepen statistical analysis knowledge beyond descriptive stats
+* Limited experience with advanced analytics (predictive modeling, regression)
+* Beginner level Python and scripting for data manipulation
+* Power BI skills need strengthening
+
+---
+
+## 🧠 Suggestions to Improve Match:
+
+1. Take intermediate courses in **SQL joins, subqueries, and database design**
+2. Learn **Python for data analysis** focusing on pandas, NumPy, and visualization libraries
+3. Explore **statistical methods** like hypothesis testing, regression, and time series forecasting
+4. Practice building **interactive dashboards** in Power BI and advanced Tableau
+5. Work on real-world datasets (Kaggle, UCI) for portfolio projects
+
+---
+

@@ -1,0 +1,92 @@
+---
+
+### **Job Description (JD) for Project Manager**  
+**Position:** IT Project Manager (Agile/Waterfall)  
+**Location:** [Remote/Hybrid]  
+**Experience:** 5-7 years  
+**Key Responsibilities:**  
+1. Lead end-to-end project lifecycle (initiation to closure) for software/IT projects.  
+2. Manage cross-functional teams (devs, QA, DevOps, stakeholders).  
+3. Define project scope, timelines, budgets, and risk mitigation strategies.  
+4. Use Agile (Scrum/Kanban) and Waterfall methodologies.  
+5. Track KPIs (velocity, burn-down charts, ROI) and report to executives.  
+6. Ensure compliance with security/regulatory standards (GDPR, SOC2).  
+
+**Mandatory Skills:**  
+- **Certifications:** PMP, CSM, or SAFe.  
+- **Tools:** Jira, Confluence, MS Project, Smartsheet.  
+- **Domain:** Software development/cloud migration projects.  
+- **Soft Skills:** Stakeholder management, conflict resolution.  
+
+---
+
+### **Resume for Project Manager (Strong Match)**  
+**Name:** Sarah Johnson  
+**Email:** sarah.johnson@example.com | **Phone:** (555) 987-6543  
+**LinkedIn:** linkedin.com/in/sarahjohnson-pm  
+
+#### **Professional Summary**  
+**PMP® & CSM® Certified Project Manager** with 6+ years in IT/software projects. Proven track record in Agile/Waterfall, cloud migrations, and stakeholder alignment.  
+
+#### **Core Competencies**  
+- **Methodologies:** Scrum, Kanban, Hybrid Agile-Waterfall  
+- **Tools:** Jira, Confluence, MS Project, Trello, Smartsheet  
+- **Domains:** SaaS, Cloud (AWS/Azure), DevOps, Cybersecurity  
+- **Budget Management:** Up to $2M project budgets  
+
+#### **Work Experience**  
+**Senior Project Manager | TechSolutions Inc. (2020–Present)**  
+- Led a **$1.8M AWS cloud migration** (completed 3 months ahead of schedule).  
+- Reduced sprint delays by 30% by implementing Jira automation.  
+- Managed 12 cross-functional teams (devs, QA, security).  
+
+**Project Manager | SoftDev Corp (2017–2020)**  
+- Delivered a **SaaS product** (Scrum) with 95% stakeholder satisfaction.  
+- Mitigated risks for a GDPR compliance project, avoiding $500K fines.  
+
+#### **Certifications**  
+- PMP® (Project Management Professional)  
+- Certified ScrumMaster® (CSM)  
+- AWS Certified Cloud Practitioner  
+
+#### **Education**  
+- MBA in IT Management, University of Business (2017)  
+
+---
+
+### **Percentage Match with JD**  
+| **Criteria**               | **Match %** |  
+|----------------------------|------------|  
+| Certifications (PMP/CSM)   | 100%       |  
+| Methodology (Agile/Waterfall) | 100%    |  
+| Tools (Jira, MS Project)   | 100%       |  
+| Domain (Cloud/Software)    | 95%        |  
+| Budget/Stakeholder Mgmt     | 90%        |  
+| **Overall Fit**            | **97%**    |  
+
+---
+
+### **Professional Evaluation**  
+**Strengths:**  
+1. **Perfect certification alignment:** PMP + CSM.  
+2. **Proven cloud/software expertise:** AWS migration and SaaS delivery.  
+3. **Tool mastery:** Jira, Confluence, and Smartsheet as required.  
+4. **Executive rapport:** Strong stakeholder management (95% satisfaction).  
+
+**Areas for Minor Improvement:**  
+- Could expand experience with **SAFe** for enterprise-scale projects.  
+- Limited exposure to **SOC2 compliance** (only GDPR covered).  
+
+**Recommendation:**  
+"Sarah is a **97% match** for this role. Her certifications, cloud project experience, and Agile/Waterfall fluency make her an ideal candidate. She requires minimal ramp-up time and can immediately drive high-impact projects."  
+
+---
+
+### **Key Differentiators (Why This Resume Matches So Well)**  
+1. **Certifications:** PMP + CSM directly address JD requirements.  
+2. **Relevant Projects:** Cloud migration and SaaS align with IT focus.  
+3. **Tool Proficiency:** No gaps in Jira/MS Project/Smartsheet.  
+4. **Metrics-Driven:** Quantifiable results (e.g., "$1.8M project," "30% delay reduction").  
+
+--- 
+

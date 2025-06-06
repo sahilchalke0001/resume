@@ -1,0 +1,96 @@
+### **Job Description (JD) for Cybersecurity Analyst (High Match)**
+**Position:** Cybersecurity Analyst  
+**Level:** Mid-Senior (3-5 years experience)  
+**Location:** Hybrid (Bangalore/Mumbai)  
+
+**Key Responsibilities:**
+- Conduct vulnerability assessments and penetration testing (web applications, network infrastructure)  
+- Implement and monitor SIEM solutions (Splunk, QRadar) and EDR platforms  
+- Lead incident response activities for security incidents  
+- Ensure compliance with security frameworks (ISO 27001, NIST, PCI-DSS)  
+- Configure and maintain firewall and IDS/IPS systems (Palo Alto, FortiGate)  
+- Develop security automation scripts using Python or PowerShell  
+
+**Mandatory Requirements:**
+- Security certifications: CEH, CISSP, or CISA  
+- Hands-on experience with: Metasploit, Burp Suite, Nessus  
+- Cloud security knowledge (AWS, Azure security controls)  
+- Operating system security (Windows/Linux hardening)  
+
+---
+
+### **Resume: Cybersecurity Specialist (95% Match)**
+**Name:** Priya K.  
+**Contact:** priya.cyber@protonmail.com | +91-98XXXXXX90  
+**LinkedIn:** linkedin.com/in/priya-cybersec  
+
+**Professional Summary:**
+Offensive Security Certified Professional (OSCP) with 4 years of experience in penetration testing and SOC operations. Specialized in cloud security architecture and threat intelligence.  
+
+**Technical Skills:**
+- **Offensive Security:** Metasploit, Burp Suite Professional, Cobalt Strike  
+- **Defensive Security:** Splunk, Wireshark, Snort, CrowdStrike  
+- **Cloud Security:** AWS GuardDuty, Azure Sentinel, GCP Security Command Center  
+- **Compliance Standards:** PCI-DSS Implementation, NIST 800-53  
+- **Scripting Languages:** Python (Security Automation), Bash  
+
+**Work Experience:**
+**Senior Security Analyst | SecureNet India (2021-Present)**
+- Reduced mean-time-to-detect (MTTD) by 40% through Splunk alert optimization  
+- Conducted 50+ penetration tests for financial sector clients with average CVSS score of 9.1  
+- Led PCI-DSS compliance project for payment gateway system, preventing $200K in potential fines  
+
+**SOC Analyst | CyberShield Ltd. (2019-2021)**
+- Detected and contained ransomware attack within 23 minutes, preventing $1.2M in damages  
+- Developed Python automation scripts for Indicator of Compromise (IoC) analysis, saving 15 hours weekly  
+
+**Certifications:**
+- OSCP (Offensive Security Certified Professional)  
+- CISSP (Certified Information Systems Security Professional)  
+- AWS Certified Security Specialty  
+
+**Projects:**
+1. **Cloud Security Posture Management Implementation**
+   - Deployed Azure Sentinel across 200+ virtual machines in hybrid environment  
+   - Reduced security misconfigurations by 75% using Terraform security modules  
+
+2. **Enterprise Phishing Simulation Program**
+   - Developed custom assessment framework using Python and GoLang  
+   - Improved employee security awareness by 60% through targeted training  
+
+---
+
+### **Percentage Match Analysis**
+| **JD Requirement**       | **Candidate Qualification**        | **Match %** |
+|--------------------------|------------------------------------|-------------|
+| Penetration Testing      | OSCP certified, 50+ tests conducted | 100%        |
+| SIEM Implementation      | Splunk and Azure Sentinel expert   | 100%        |
+| Cloud Security           | AWS and Azure certified            | 95%         |
+| Compliance Frameworks    | PCI-DSS and NIST experience        | 90%         |
+| Security Automation      | Python scripting demonstrated      | 100%        |
+| **Overall Match**        |                                    | **97%**     |
+
+---
+
+### **Professional Evaluation**
+**Key Strengths:**
+1. Comprehensive offensive and defensive security skills with OSCP and CISSP certifications  
+2. Documented business impact including 40% improvement in detection times and $1.2M in risk mitigation  
+3. Current cloud security expertise aligned with modern infrastructure requirements  
+
+**Areas for Development:**
+- Additional experience with MITRE ATT&CK framework implementation would be beneficial  
+- Container security knowledge (Docker, Kubernetes) would complete the technical profile  
+
+**Hiring Recommendation:**
+"Priya demonstrates a 97% alignment with the position requirements. Her combination of offensive security certification and cloud security expertise makes her exceptionally qualified for both penetration testing and defensive security roles. Capable of immediately assuming responsibility for SOC operations and compliance initiatives."
+
+---
+
+### **Rationale for High Match Percentage**
+1. **Certification Alignment:** Possesses both technical (OSCP) and governance (CISSP) credentials specified in requirements  
+2. **Tool Proficiency:** Extensive experience with all listed tools including Splunk and Burp Suite  
+3. **Business Impact:** Clear metrics demonstrating risk reduction and cost savings  
+4. **Future-Ready Skills:** Cloud security specialization addresses current industry demands  
+
+This profile is particularly suited for organizations with mature security programs in financial services, technology, or consulting sectors. The candidate could immediately contribute to security operations, compliance projects, and cloud security initiatives.

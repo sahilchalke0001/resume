@@ -1,0 +1,91 @@
+
+## 🧑‍💻 Low-Match Resume: *Rahul Sharma – Junior Software Developer*
+
+**Name**: Rahul Sharma
+**Email**: [rahul.sharma.dev@gmail.com](mailto:rahul.sharma.dev@gmail.com)
+**Location**: Jaipur, India
+**LinkedIn**: linkedin.com/in/rahul-sharma-dev
+
+---
+
+### 🎓 Education:
+
+* **B.Tech in Information Technology**, Rajasthan Technical University (2023) – 7.2 CGPA
+
+---
+
+### 💼 Work Experience:
+
+**Junior Software Developer – Startup XYZ**
+*Aug 2023 – Present*
+
+* Contributed to backend APIs using Python and Flask
+* Used Git for basic version control in team projects with simple branching and commits
+* Collaborated via GitHub pull requests, resolved minor merge conflicts
+* Assisted in writing documentation for deployment process
+
+**Intern – Web Solutions Pvt Ltd**
+*Jan 2023 – May 2023*
+
+* Supported development team by testing and debugging front-end code
+* Used Git for version control, primarily committing and pushing code
+* Basic understanding of CI/CD concepts but no hands-on experience
+
+---
+
+### 🛠️ Technical Skills:
+
+* **Languages**: Python, JavaScript
+* **Version Control**: Git (basic commit, push, pull, branch)
+* **Frameworks**: Flask, React (basic)
+* **Tools**: GitHub, VSCode
+* **CI/CD**: Familiarity with concepts, no practical implementation
+
+---
+
+### Projects:
+
+* **Personal Portfolio Website**
+  Developed a React-based personal site hosted on GitHub Pages
+* **Task Manager App**
+  Built a Flask app with CRUD operations, deployed on Heroku
+
+---
+
+## 📊 Match Percentage: **45% ⚠️ Low**
+
+| JD Requirement                   | Resume Match                             | Score |
+| -------------------------------- | ---------------------------------------- | ----- |
+| Git branching & merging          | ⚠️ Basic branching, no strategy          | 4/10  |
+| Repository management            | ❌ No large repo or multi-team experience | 2/10  |
+| CI/CD pipeline automation        | ❌ No hands-on experience                 | 1/10  |
+| Merge conflict resolution        | ⚠️ Minor conflict resolution             | 3/10  |
+| Git hooks & scripting            | ❌ None                                   | 0/10  |
+| GitOps & container orchestration | ❌ No experience                          | 0/10  |
+| Developer collaboration          | ✅ Basic GitHub PRs                       | 5/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### Strengths:
+
+* Basic knowledge of Git commands and collaboration via GitHub
+* Experience contributing code in team settings
+
+### Gaps:
+
+* No experience with advanced version control workflows or branching strategies
+* No exposure to CI/CD pipeline creation or automation
+* Lack of scripting for Git hooks or repository maintenance
+* No knowledge of GitOps, container orchestration, or deployment automation
+
+---
+
+### Suggestions:
+
+* Learn Git branching models like Git Flow and practice rebases/merges
+* Gain hands-on with CI/CD tools like Jenkins, GitHub Actions, or GitLab CI
+* Practice writing Git hooks and automation scripts in bash or Python
+* Contribute to open source projects to gain experience with multi-repo collaboration
+

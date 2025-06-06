@@ -1,0 +1,112 @@
+Candidate Resume Summary
+Name: Aditi Sharma
+Email: aditi.sharma.vcs@gmail.com
+LinkedIn: linkedin.com/in/aditisharma
+GitHub: github.com/aditidevops
+Location: Bangalore, India
+
+🎓 Education:
+B.E. in Computer Science, BMS College of Engineering – 8.7 CGPA (2021)
+
+🧠 Skills:
+Version Control: Git, GitHub, GitLab, Bitbucket
+
+CI/CD: Jenkins, GitHub Actions, CircleCI
+
+Tools: Docker, Kubernetes, JIRA, Confluence
+
+Scripting: Bash, Python
+
+Cloud Platforms: AWS (EC2, S3, CodePipeline), Azure DevOps
+
+Monitoring: Prometheus, Grafana
+
+💼 Work Experience:
+Version Control Engineer – Tata Elxsi
+Aug 2021 – Present
+
+Managed and maintained enterprise GitLab and Bitbucket servers for 30+ developer teams.
+
+Implemented pre-commit and pre-push hooks enforcing code quality and security scans.
+
+Automated version tagging and branching strategies using Python and Git CLI.
+
+Integrated Git workflows into Jenkins pipelines reducing manual deployment errors by 50%.
+
+DevOps Intern – Siemens
+Jan 2021 – June 2021
+
+Assisted in automating release management with GitHub Actions.
+
+Wrote custom Bash scripts to track Git repository metrics across teams.
+
+💡 Projects:
+GitOps Tracker – Internal dashboard to monitor Git merge conflicts and PR durations.
+
+HookManager – Python CLI tool to configure and test Git hooks for projects.
+
+InfraRepo Audit – Audited and refactored old Git repositories and migration to GitLab CI.
+
+📄 Job Description – Version Control Engineer
+Company: Synapse Systems
+Location: Remote (India preferred)
+Experience: 1–3 years
+
+📌 Responsibilities:
+Manage Git-based version control systems (GitHub, GitLab, Bitbucket)
+
+Automate branching, tagging, and code merging workflows
+
+Support DevOps and CI/CD integrations (Jenkins, GitHub Actions)
+
+Develop pre-commit/push hooks for code quality enforcement
+
+Collaborate with development teams to resolve VCS issues
+
+Maintain repository security, access control, and audit logs
+
+✅ Requirements:
+Strong Git fundamentals and enterprise-level VCS experience
+
+Scripting (Bash/Python) for automation
+
+Hands-on with Jenkins or similar CI tools
+
+Familiarity with GitHub Actions, GitLab CI
+
+Understanding of cloud DevOps workflows (AWS/Azure)
+
+📊 Match Percentage: 94% ✅
+JD Requirement	Resume Match	Match Score
+Git, GitHub, GitLab, Bitbucket	✅ (Strong hands-on experience)	10/10
+Automation of Git workflows	✅ (Hooks, Tags, CLI tools)	10/10
+CI/CD Tools	✅ (Jenkins, GitHub Actions)	9/10
+Scripting (Bash/Python)	✅ (Both used extensively)	10/10
+DevOps/Cloud (AWS/Azure)	✅ (AWS EC2, S3, Azure DevOps)	9/10
+Repo Management, Access Control	✅ (Detailed in projects)	9/10
+Communication & Collaboration	✅ (Cross-team experience)	9/10
+
+🧠 Professional Evaluation
+✅ Strengths:
+Excellent alignment with JD—real-world Git, automation, and CI/CD exposure
+
+Experience developing internal tooling (GitOps Tracker, HookManager)
+
+Strong scripting and DevOps cloud knowledge
+
+Good formatting, clear structure, quantified impact in roles
+
+⚠️ Weaknesses:
+No formal certifications listed (e.g., GitHub Certified Admin, AWS DevOps)
+
+Could briefly mention team size or scale of repositories managed (e.g., "300+ repos")
+
+Soft skills like communication and documentation practices could be highlighted more
+
+📈 Suggestions:
+Add a brief Professional Summary on top:
+“2+ years of experience as a Version Control Engineer with deep expertise in Git systems, CI/CD pipelines, and DevOps automation.”
+
+Consider listing security practices (e.g., repo audits, SSH key management)
+
+Add certifications (e.g., AWS Certified DevOps Engineer) to strengthen profile

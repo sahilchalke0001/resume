@@ -1,0 +1,72 @@
+Here's a **low-match** Flight Attendant application package with **Job Description (JD)**, **Resume**, **Percentage Match**, and **Evaluation**:
+
+---
+
+### **Job Description (JD) for Flight Attendant (Emirates Airlines)**
+**Position:** Senior Cabin Crew (Long-Haul Flights)  
+**Location:** Dubai, UAE (Base)  
+**Requirements:**  
+- Minimum 3 years experience with international airlines  
+- Fluent in English + 1 additional language (Arabic/French/Mandarin preferred)  
+- Height: 160-212 cm (reach overhead bins)  
+- Swimming proficiency (100m unaided)  
+- Exceptional customer service skills  
+- Willing to relocate to Dubai  
+
+**Key Responsibilities:**  
+- Ensure passenger safety (emergency procedures, first aid)  
+- Deliver 5-star inflight service (Business/First Class)  
+- Handle medical/security incidents  
+- Maintain grooming standards (strict uniform/presentation rules)  
+
+---
+
+### **Resume: Candidate (30% Match)**
+**Name:** Rajesh Kumar  
+**Contact:** rajesh.k@email.com | +91-98XXXXXX45  
+
+**Work Experience:**  
+**Customer Service Agent** | Delhi Metro (2021-Present)  
+- Issued tickets and answered passenger queries  
+- No aviation/emergency training  
+
+**Education:**  
+BA History | Delhi University (2020)  
+
+**Skills:**  
+- Basic English (IELTS 5.5)  
+- Hindi (native)  
+- Can swim 50m  
+
+**Limitations:**  
+❌ No airline experience  
+❌ Only 165cm tall (min. reach requirement)  
+❌ No first aid certification  
+❌ Unwilling to relocate  
+
+---
+
+### **Percentage Match**  
+| **Requirement**         | **Candidate**          | **Match** |  
+|-------------------------|-----------------------|----------|  
+| Airline Experience      | None                  | 0%       |  
+| Language Skills         | English (Basic) + Hindi | 40%     |  
+| Height/Physical Ability | 165cm (Barely meets)  | 60%      |  
+| Swimming               | 50m (Insufficient)    | 30%      |  
+| Flexibility            | Unwilling to relocate | 0%       |  
+| **Overall**            |                       | **30%**  |  
+
+---
+
+### **Evaluation**  
+**Why This Fails:**  
+1. **Zero aviation experience** (Metro job irrelevant)  
+2. **Language barrier** (Airlines require fluent English + bonus language)  
+3. **Commitment issues** (Relocation is mandatory)  
+
+**Alternative Suggestions:**  
+1. Apply for **ground staff** roles first  
+2. Complete **aviation courses** (safety/first aid)  
+3. Improve **English proficiency** (IELTS 6.5+)  
+
+--- 

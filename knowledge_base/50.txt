@@ -1,0 +1,82 @@
+
+
+## 🧑‍💻 Moderate-Match Resume: *Ananya Deshmukh – Data Analyst Fresher*
+
+**Name**: Ananya Deshmukh
+**Email**: [ananya.deshmukh2024@gmail.com](mailto:ananya.deshmukh2024@gmail.com)
+**Location**: Pune, India
+**LinkedIn**: linkedin.com/in/ananya-deshmukh-data
+
+---
+
+### 🎓 Education:
+
+* **B.Tech in Computer Science**, Pune Institute of Computer Technology (PICT)
+  *Graduation: 2024* — CGPA: 8.1/10
+* Relevant coursework: Data Structures, Database Management Systems, Statistics, Data Mining
+
+---
+
+### 💼 Internships & Training:
+
+**Data Analytics Intern – Smart Insights Pvt Ltd**
+*Jan 2024 – Apr 2024*
+
+* Assisted in cleaning and preprocessing datasets using Python (pandas, numpy)
+* Created interactive dashboards in Tableau to visualize sales and customer data
+* Supported team in generating weekly reports with key insights
+* Learned SQL basics and wrote simple queries to extract data
+
+---
+
+### 🛠️ Skills:
+
+* **Languages**: Python (pandas, matplotlib, seaborn), SQL (basic)
+* **Tools**: Excel (pivot tables, formulas), Tableau, Power BI (basic)
+* **Concepts**: Data cleaning, EDA, data visualization, basic statistics
+* **Others**: Git (version control), Jupyter Notebook
+
+---
+
+### Projects:
+
+* **Sales Data Analysis (Python & Tableau)**
+  Analyzed 1-year sales data from an e-commerce dataset to identify trends, top-selling products, and seasonal variations. Created a Tableau dashboard with filters and interactive charts.
+
+* **Customer Churn Prediction (Academic Project)**
+  Used logistic regression in Python to build a model predicting customer churn for a telecom company dataset. Performed data cleaning, feature selection, and evaluation.
+
+* **Movie Recommendation System (Python)**
+  Built a simple collaborative filtering recommender using movie ratings data. Visualized recommendations and analyzed user preferences.
+
+---
+
+## 📊 Match Percentage: **68% ⚠️ Moderate**
+
+| JD Requirement                       | Resume Match                       | Score |
+| ------------------------------------ | ---------------------------------- | ----- |
+| Data extraction & cleaning           | ✅ Pandas for preprocessing         | 7/10  |
+| Data visualization                   | ✅ Tableau dashboards, matplotlib   | 7/10  |
+| Statistical analysis                 | ⚠️ Basic logistic regression model | 6/10  |
+| SQL querying                         | ⚠️ Basic queries                   | 5/10  |
+| Reporting & presentation             | ✅ Weekly reports during internship | 7/10  |
+| Advanced analytics (forecasting, ML) | ⚠️ Introductory machine learning   | 5/10  |
+
+---
+
+## 🧠 Professional Evaluation
+
+### ✅ Strengths:
+
+* Hands-on experience with Python for data manipulation and analysis
+* Practical exposure to Tableau dashboards and data visualization
+* Academic projects showcasing understanding of predictive modeling
+* Internship experience applying data analytics concepts in a business setting
+
+### ❌ Areas to Improve:
+
+* Advance SQL skills with complex queries and joins
+* Deeper knowledge of statistical methods and machine learning algorithms
+* More experience with Power BI and other BI tools
+* Broaden portfolio with diverse real-world datasets and projects
+

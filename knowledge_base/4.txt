@@ -1,0 +1,91 @@
+### **Job Description (JD) for DevOps Engineer**  
+**Position:** DevOps Engineer  
+**Location:** [On-site/Hybrid]  
+**Experience:** 4-6 years  
+**Key Responsibilities:**  
+1. Design and maintain CI/CD pipelines for zero-downtime deployments.  
+2. Manage Kubernetes clusters at scale (EKS/GKE/AKS).  
+3. Implement IaC using Terraform/Pulumi (multi-cloud focus).  
+4. Enforce security compliance (RBAC, secrets management, CIS benchmarks).  
+5. Optimize cloud costs with FinOps strategies.  
+6. Lead SRE practices (SLI/SLO, incident response).  
+
+**Hard Requirements:**  
+- **Must have:** 3+ years with **ArgoCD**, **Crossplane**, and **OpenTofu**.  
+- **Must have:** Deep expertise in **Istio service mesh** and **eBPF-based monitoring**.  
+- **Must have:** Production experience with **WebAssembly runtimes** (e.g., Fermyon).  
+- **Must have:** Certified in **CKS (Kubernetes Security)** and **Hashicorp Vault**.  
+
+---
+
+### **Resume for DevOps Engineer (Misaligned Candidate)**  
+**Name:** Alex Brown  
+**Email:** alex.brown@example.com | **Phone:** (555) 123-4567  
+**LinkedIn:** linkedin.com/in/alexbrown | **GitHub:** github.com/alexbrown  
+
+#### **Professional Summary**  
+DevOps Engineer with 3 years of experience focused on AWS and basic CI/CD. Limited exposure to advanced Kubernetes and security tooling.  
+
+#### **Technical Skills**  
+- **Cloud:** AWS (EC2, S3), Basic GCP  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Containers:** Docker, Basic Kubernetes (minikube)  
+- **IaC:** Terraform (only AWS modules)  
+- **Scripting:** Bash, Python  
+- **Monitoring:** Prometheus, Grafana  
+
+#### **Work Experience**  
+**DevOps Engineer | MidTech Solutions (2021–Present)**  
+- Maintained Jenkins pipelines for Java applications.  
+- Deployed Docker containers on EC2 (no orchestration).  
+- Used Terraform only for AWS VPC provisioning.  
+
+**SysAdmin | Legacy IT Corp (2019–2021)**  
+- Managed on-prem servers (no cloud exposure).  
+- Basic scripting for backups.  
+
+#### **Projects**  
+1. **Static Website Deployment (AWS S3 + GitHub Actions)**  
+   - Set up CI/CD for a static site (no IaC or advanced security).  
+
+2. **Dockerized MySQL Setup**  
+   - Ran MySQL in Docker without persistent storage solutions.  
+
+#### **Education**  
+- BS in Computer Science, Local University (2019)  
+- **Certifications:** AWS Solutions Architect Associate  
+
+---
+
+### **Percentage Match with JD**  
+| **Criteria**               | **Match %** |  
+|----------------------------|------------|  
+| Kubernetes Expertise       | 20% (minikube only) |  
+| Advanced IaC (Crossplane/OpenTofu) | 0% (no experience) |  
+| Service Mesh & Security    | 5% (no Istio/Vault) |  
+| CI/CD Tools                | 40% (Jenkins/GHA, no ArgoCD) |  
+| **Overall Fit**            | **22%** |  
+
+---
+
+### **Professional Evaluation**  
+**Critical Gaps:**  
+1. **Lacks mandatory skills:** No ArgoCD, Crossplane, Istio, or WebAssembly experience.  
+2. **Limited Kubernetes:** Only minikube exposure (no production clusters).  
+3. **No security focus:** Missing CKS/Vault certifications.  
+4. **Basic IaC:** Terraform usage restricted to AWS (no multi-cloud).  
+
+**Potential Upsides:**  
+- Could train on Kubernetes if given 6–12 months.  
+- Basic AWS knowledge might be useful for junior tasks.  
+
+**Recommendation:**  
+"Alex does not meet the core requirements (22% match). Significant upskilling in Kubernetes, service meshes, and advanced IaC would be needed. Better suited for junior DevOps roles or internal training programs."  
+
+---
+
+This version deliberately highlights:  
+- **Missing hard requirements** (ArgoCD, Crossplane, Istio).  
+- **Surface-level knowledge** where depth is required.  
+- **No multi-cloud/security experience** despite JD demands.  
+

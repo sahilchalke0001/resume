@@ -1,0 +1,73 @@
+
+
+---
+
+## 🔍 JD – Resume Match Report for Chef Position
+
+### 📄 Job Description Summary
+
+* **Position**: Executive Chef – Continental Cuisine
+* **Key Requirements**:
+
+  * Minimum 5 years experience as a professional chef in a 4-star or higher restaurant
+  * Expertise in continental and fusion cuisines
+  * Culinary degree or certification from a recognized institute
+  * Experience in team leadership and kitchen management
+  * Food safety and hygiene certification (FSSAI or equivalent)
+  * Menu development and costing knowledge
+  * Strong communication and inventory management skills
+
+---
+
+### 📋 Resume Summary (Extracted)
+
+* **Name**: Manoj Verma
+* **Experience**: 2 years as a cook in a small roadside dhaba
+* **Skills**: Indian home-style cooking, chopping, cleaning, assisting in kitchen
+* **Education**: 12th pass (no formal culinary education)
+* **Certifications**: None
+* **Additional**: No experience in managing teams or planning menus
+
+---
+
+### ❌ JD–Resume Match Score: **32%**
+
+---
+
+### 📊 Match Breakdown
+
+| JD Requirement                        | Resume Match                | Status     |
+| ------------------------------------- | --------------------------- | ---------- |
+| 5+ years professional chef experience | 2 years in a local eatery   | ❌ Gap      |
+| Expertise in continental/fusion       | Only Indian home-style food | ❌ Gap      |
+| Culinary degree/certification         | None                        | ❌ Gap      |
+| Team/kitchen management experience    | None                        | ❌ Gap      |
+| Food safety certification             | None                        | ❌ Gap      |
+| Menu development & costing            | Not mentioned               | ❌ Gap      |
+| Communication & inventory skills      | Basic communication         | ⚠️ Partial |
+
+---
+
+### 🧠 Professional Evaluation
+
+**Strengths:**
+
+* Basic kitchen exposure and familiarity with food preparation
+* Willingness to work in fast-paced environments
+* Experience with Indian cuisine, which may be leveraged in junior roles
+
+**Areas to Improve:**
+
+* **Lacks professional culinary training** – pursuing a short culinary certification course would be beneficial
+* **No experience in high-end kitchens** – could consider applying for **commis chef or kitchen assistant** roles instead
+* **Needs food safety training** – essential for progression
+* **Missing leadership and management experience** – should work under experienced chefs to build this
+* **Limited cuisine knowledge** – exposure to continental/fusion dishes required for the target role
+
+---
+
+### 📌 Final Remarks
+
+Manoj Verma **does not currently qualify** for the Executive Chef role. However, with **targeted upskilling** (culinary courses, food safety certification, and experience in a professional kitchen), he could gradually transition into more senior culinary positions.
+
+---

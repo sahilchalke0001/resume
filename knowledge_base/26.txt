@@ -1,0 +1,113 @@
+Candidate Resume Summary (High Match for AI/ML Engineer Role)
+Name: Arjun Kulkarni
+Email: arjunkulkarni.ai@gmail.com
+LinkedIn: linkedin.com/in/arjun-kulkarni-ai
+GitHub: github.com/arjunkulkarni-ai
+Location: Bengaluru, India
+
+🎓 Education:
+B.Tech in Computer Science, VIT Vellore – 9.1 CGPA (2021)
+
+🧠 Technical Skills:
+Languages: Python (advanced), R, SQL, Java
+
+ML Libraries: scikit-learn, TensorFlow, Keras, XGBoost, LightGBM
+
+Deep Learning: CNN, RNN, LSTM, Transformers, YOLOv5
+
+NLP: spaCy, NLTK, Hugging Face Transformers, BERT
+
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+
+Deployment: Flask, FastAPI, Docker, Streamlit
+
+Cloud/Tools: AWS Sagemaker, GCP AI Platform, MLflow, Git, Airflow
+
+💼 Work Experience:
+Machine Learning Engineer – Turing.com (Remote)
+Jul 2021 – Present
+
+Developed a real-time fraud detection model using XGBoost and deployed it on AWS Sagemaker.
+
+Built and fine-tuned a BERT-based NLP model for contract summarization with 92% ROUGE-L score.
+
+Used MLflow for experiment tracking and model versioning.
+
+Created scalable data pipelines using Airflow and integrated with S3.
+
+AI Intern – Samsung R&D
+Jan 2021 – May 2021
+
+Worked on image classification using CNNs for defect detection in smartphone manufacturing.
+
+Reduced false positive rate by 27% by improving pre-processing pipeline.
+
+💡 Projects:
+AI Resume Parser – NLP-based resume matcher using BERT and cosine similarity
+
+Waste Classification App – CNN-based app for waste type detection using Streamlit
+
+Stock Price Predictor – LSTM-based time-series model deployed using Flask on Heroku
+
+📄 Job Description – AI/ML Engineer
+Company: MindWave AI
+Location: Bengaluru (Hybrid)
+Experience: 1–3 years
+
+📌 Responsibilities:
+Develop and deploy ML models in production environments
+
+Work with deep learning frameworks (TensorFlow, PyTorch, Keras)
+
+Use NLP models for document and language understanding
+
+Build and manage data pipelines for large-scale datasets
+
+Implement model versioning, tracking, and continuous deployment
+
+Collaborate with product and data engineering teams
+
+✅ Requirements:
+Strong Python & ML/DL experience
+
+Proficiency in TensorFlow/PyTorch, scikit-learn
+
+Experience with NLP (Transformer models, BERT, etc.)
+
+Knowledge of model deployment tools (Flask, FastAPI, Docker)
+
+Familiarity with cloud services (AWS, GCP)
+
+📊 Match Percentage: 95% ✅
+JD Requirement	Resume Match	Match Score
+Python, ML/DL frameworks	✅ (TensorFlow, Keras, scikit-learn)	10/10
+NLP models (Transformers, BERT)	✅ (Hugging Face, BERT work)	10/10
+Model Deployment	✅ (Flask, FastAPI, Docker, Streamlit)	9/10
+Data Pipelines	✅ (Airflow, S3)	9/10
+Cloud Platforms	✅ (AWS Sagemaker, GCP AI Platform)	10/10
+Collaboration + Versioning	✅ (MLflow, Git, team experience)	9/10
+
+🧠 Professional Evaluation
+✅ Strengths:
+Extensive hands-on experience with deep learning, NLP, and deployment
+
+Strong exposure to real-world AI projects, both in vision and language domains
+
+Familiarity with end-to-end ML lifecycle: from data prep to deployment and monitoring
+
+Excellent use of quantifiable achievements (accuracy, latency, score improvement)
+
+⚠️ Weaknesses:
+Could include performance benchmarks of deployed models (e.g., inference time, model size)
+
+PyTorch not listed (though TensorFlow/Keras is mentioned) – may affect flexibility in some teams
+
+No formal ML certifications (e.g., TensorFlow Developer, AWS Machine Learning Specialty)
+
+📈 Suggestions:
+Add a Professional Summary at the top:
+"AI/ML Engineer with 2+ years of industry experience in NLP, deep learning, and scalable model deployment using Python, AWS, and open-source frameworks."
+
+Add PyTorch to skillset for broader framework coverage
+
+Consider mentioning MLOps knowledge (monitoring, retraining strategies)

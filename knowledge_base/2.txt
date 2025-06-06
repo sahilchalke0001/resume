@@ -1,0 +1,91 @@
+### **Job Description (JD) for Cloud Computing Engineer**  
+**Position:** Cloud Computing Engineer  
+**Location:** [Remote/On-site]  
+**Experience:** 3-5 years  
+**Key Responsibilities:**  
+1. Design, deploy, and manage scalable cloud infrastructure (AWS/Azure/GCP).  
+2. Automate cloud operations using IaC (Terraform, CloudFormation).  
+3. Implement CI/CD pipelines (Jenkins, GitHub Actions).  
+4. Ensure security compliance (IAM, encryption, firewall rules).  
+5. Optimize cloud costs and performance monitoring (CloudWatch, Prometheus).  
+6. Troubleshoot and resolve cloud-related issues.  
+
+**Skills Required:**  
+- AWS/Azure/GCP certifications preferred.  
+- Proficiency in Docker, Kubernetes, and serverless computing.  
+- Scripting (Python/Bash) and automation.  
+- Experience with DevOps tools (Ansible, Jenkins).  
+- Knowledge of networking (VPC, Load Balancers, DNS).  
+
+---
+
+### **Resume for Cloud Computing Engineer**  
+**Name:** John Doe  
+**Email:** john.doe@example.com | **Phone:** (123) 456-7890  
+**LinkedIn:** linkedin.com/in/johndoe | **GitHub:** github.com/johndoe  
+
+#### **Professional Summary**  
+Cloud Engineer with 4+ years of experience in designing, deploying, and optimizing cloud solutions. Skilled in AWS, Kubernetes, Terraform, and CI/CD pipelines. Strong background in automation and cost optimization.  
+
+#### **Technical Skills**  
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Azure, GCP  
+- **DevOps Tools:** Terraform, Docker, Kubernetes, Jenkins, Ansible  
+- **Scripting:** Python, Bash, PowerShell  
+- **Monitoring:** CloudWatch, Prometheus, Grafana  
+- **Databases:** MySQL, MongoDB, DynamoDB  
+
+#### **Work Experience**  
+**Cloud Engineer | XYZ Tech (2021–Present)**  
+- Reduced AWS costs by 30% via reserved instances and auto-scaling.  
+- Automated deployments using Terraform, reducing manual effort by 40%.  
+- Migrated on-premise applications to AWS, improving scalability.  
+
+**DevOps Engineer | ABC Solutions (2019–2021)**  
+- Built CI/CD pipelines using Jenkins, cutting release time by 50%.  
+- Managed Kubernetes clusters for microservices deployment.  
+
+#### **Projects**  
+1. **Automated Cloud Deployment (AWS + Terraform)**  
+   - Designed a scalable infrastructure using Terraform (EC2, VPC, S3).  
+   - Achieved 99.9% uptime with auto-scaling and load balancing.  
+
+2. **Serverless Data Processing (AWS Lambda + Python)**  
+   - Built a serverless pipeline for real-time data processing.  
+   - Reduced operational costs by 60% compared to EC2.  
+
+3. **Kubernetes Cluster for Microservices**  
+   - Deployed a multi-node K8s cluster for a fintech application.  
+   - Improved deployment speed by 70%.  
+
+#### **Education**  
+- B.Tech in Computer Science, University of Tech (2019)  
+- **Certifications:** AWS Certified Solutions Architect, Kubernetes Administrator (CKA)  
+
+---
+
+### **Percentage Match with JD**  
+| **Criteria**       | **Match %** |  
+|---------------------|------------|  
+| Cloud Platforms     | 95% (AWS, Azure, GCP) |  
+| IaC & Automation    | 90% (Terraform, Ansible) |  
+| CI/CD Pipelines     | 85% (Jenkins, GitHub Actions) |  
+| Security & Networking | 80% (IAM, VPC) |  
+| **Overall Fit**     | **88%** |  
+
+---
+
+### **Professional Evaluation**  
+**Strengths:**  
+ Strong hands-on experience with AWS and Terraform.  
+ Proven track record in cost optimization and automation.  
+ Excellent project experience in Kubernetes and serverless computing.  
+
+**Areas for Improvement:**  
+ Could gain deeper expertise in multi-cloud (Azure/GCP).  
+ Advanced security certifications (e.g., AWS Security Specialty) would be a plus.  
+
+**Recommendation:**  
+*"John is a highly skilled Cloud Engineer with a strong alignment (88%) to the JD. His project experience in automation and Kubernetes makes him a great fit. Further exposure to Azure/GCP would make him an ideal candidate."*  
+
+---
+

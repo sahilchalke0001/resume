@@ -12,6 +12,6 @@ client = MongoClient(mongo_uri)
 db = client["db"]
 collection = db["knowledge_chunks"]
 
-with open("knowledge_base/1.txt", "r", encoding="utf-8") as file:
+with open("knowledge_base/50.txt", "r", encoding="utf-8") as file:
     full_content = file.read()
     collection.insert_one({"content": full_content})

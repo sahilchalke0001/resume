@@ -61,9 +61,9 @@ try:
     users_collection = db.users
     evaluations_collection = db.evaluations # Collection for storing results
     knowledge_chunks_collection = db[MONGO_KB_COLLECTION] # NEW: Collection for KB chunks
-    print("✅ MongoDB Connected Successfully.")
+    print(" MongoDB Connected Successfully.")
 except Exception as e:
-    print(f"❌ MongoDB Connection Error: {e}")
+    print(f" MongoDB Connection Error: {e}")
     client = None
     users_collection = None
     evaluations_collection = None
@@ -234,9 +234,9 @@ def load_knowledge_base_to_mongodb():
     if documents_to_insert:
         try:
             knowledge_chunks_collection.insert_many(documents_to_insert)
-            print(f"✅ Successfully inserted {len(documents_to_insert)} chunks into MongoDB collection '{MONGO_KB_COLLECTION}'.")
+            print(f" Successfully inserted {len(documents_to_insert)} chunks into MongoDB collection '{MONGO_KB_COLLECTION}'.")
         except Exception as e:
-            print(f"❌ Error inserting chunks into MongoDB: {e}")
+            print(f" Error inserting chunks into MongoDB: {e}")
     else:
         print("No documents prepared for insertion after embedding.")
 
@@ -258,7 +258,7 @@ def extract_text_from_pdf(uploaded_file):
 # --- Send Email ---
 def send_email(name, recipient_email, subject, body):
     if not SENDER_EMAIL or not SENDER_PASSWORD:
-        print("❌ Email config missing. Skipping.")
+        print(" Email config missing. Skipping.")
         return False
     message = f"Subject: {subject}\n\nHello {name},\n\n{body}\n\nThank you,\nATS Resume Expert"
     try:
@@ -267,10 +267,10 @@ def send_email(name, recipient_email, subject, body):
         server.login(SENDER_EMAIL, SENDER_PASSWORD)
         server.sendmail(SENDER_EMAIL, recipient_email, message.encode('utf-8'))
         server.quit()
-        print(f"✅ Email sent to {recipient_email}!")
+        print(f" Email sent to {recipient_email}!")
         return True
     except Exception as e:
-        print(f"❌ Error sending email: {e}")
+        print(f" Error sending email: {e}")
         return False
 
 # --- Login Required Decorator ---
@@ -501,9 +501,9 @@ def evaluate():
                 "created_at": datetime.datetime.utcnow()
             }
             evaluations_collection.insert_one(evaluation_record)
-            print("✅ Evaluation record saved.")
+            print(" Evaluation record saved.")
         except Exception as db_err:
-            print(f"❌ DB Save Error: {db_err}")
+            print(f" DB Save Error: {db_err}")
             flash("Could not save your results, but analysis is complete.", "warning")
 
         # Send Email
@@ -528,7 +528,7 @@ def evaluate():
         flash(str(e), "danger")
         return redirect(url_for('app_home'))
     except Exception as e:
-        print(f"❌ Evaluation Error: {e}")
+        print(f" Evaluation Error: {e}")
         traceback.print_exc()
         return render_template('error.html', error_message="An internal server error occurred."), 500
 

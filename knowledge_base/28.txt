@@ -1,0 +1,153 @@
+
+
+## 🧑‍🏫 Position: Assistant/Associate Professor – Computer Science
+
+**Institute**: Veermata Jijabai Technological Institute (VJTI), Mumbai
+**Department**: Computer Engineering
+**Type**: Full-Time Academic Faculty
+
+### 📄 Job Description (VJTI – Typical Expectations)
+
+#### ✅ Requirements:
+
+* PhD in Computer Science or relevant discipline (essential for permanent post)
+* Strong publication record in reputed journals (SCI, Scopus, IEEE, ACM)
+* Teaching experience in UG/PG programs (Operating Systems, AI, ML, etc.)
+* Research project experience (funded preferred – DST, AICTE, etc.)
+* Technical expertise in core CS domains: Algorithms, ML, DBMS, OS, etc.
+* Participation in curriculum development, outreach, and academic mentoring
+
+---
+
+## ✅ High Match Resume (Dr. Sneha Iyer)
+
+**Name**: Dr. Sneha Iyer
+**Email**: [sneha.iyer.cs@gmail.com](mailto:sneha.iyer.cs@gmail.com)
+**Location**: Mumbai, India
+**Current Role**: Assistant Professor, SPIT Mumbai
+**Total Teaching Experience**: 7 years
+**Education**:
+
+* **Ph.D. (Computer Science)** – IIT Bombay (2020)
+* **M.Tech (Computer Engineering)** – VJTI, Mumbai (2014)
+
+### 🧠 Areas of Expertise:
+
+* Artificial Intelligence, Data Mining, Operating Systems, Algorithms
+* Research Methodology, Machine Learning, Distributed Systems
+
+### 📚 Academic Experience:
+
+**Assistant Professor – SPIT, Mumbai** (2020 – Present)
+
+* Courses: AI, Machine Learning, OS, Software Engineering
+* Mentored 25+ final-year projects, some published at national conferences
+* Coordinated NAAC and NBA documentation for the CS department
+* Actively involved in course syllabus design and revision
+
+**Research Associate – IIT Bombay** (2016 – 2020)
+
+* Worked on DST-funded project for predictive analytics in education
+* Published 6 papers in Scopus-indexed journals and IEEE conferences
+
+### 📑 Publications (Selected):
+
+* "Optimizing Ensemble Models for Student Dropout Prediction" – *IEEE Access*
+* "Hybrid Clustering for Educational Data Mining" – *Springer Journal of Big Data*
+
+### 🎯 Professional Highlights:
+
+* Reviewer for IEEE TETC and Springer journals
+* Received AICTE-ATAL grant for FDP on "AI in Education"
+* Guest speaker at VJTI TechNext’23 on “Responsible AI”
+
+---
+
+### 📊 Match Percentage: **92% ✅**
+
+| JD Criteria                       | Resume Match                    | Score |
+| --------------------------------- | ------------------------------- | ----- |
+| PhD in CS                         | ✅ IIT Bombay                    | 10/10 |
+| Teaching Experience               | ✅ 7 years UG/PG                 | 10/10 |
+| Research Publications             | ✅ 6+ in reputed journals        | 9/10  |
+| Funded Project Involvement        | ✅ DST-funded project            | 9/10  |
+| Curriculum Development, Mentoring | ✅ Yes                           | 9/10  |
+| Subject Relevance                 | ✅ Core CS areas taught          | 10/10 |
+| Outreach/Collaboration            | ✅ FDP, guest lectures, reviewer | 8/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+✅ **Strengths**:
+
+* Strong academic and research profile aligned with VJTI
+* Mix of teaching, research, mentorship, and academic service
+* Good fit for senior teaching roles and curriculum shaping
+
+⚠️ **Suggestions**:
+
+* Mention Google Scholar/Citations link
+* Add more student project outcomes (placements, patents, etc.)
+
+---
+
+## ❌ Low Match Resume (Ravi Bansal – Web Developer)
+
+**Name**: Ravi Bansal
+**Email**: [ravi.codes.web@gmail.com](mailto:ravi.codes.web@gmail.com)
+**Current Role**: Full Stack Developer at Infosys
+**Education**:
+
+* B.Tech in Computer Engineering, Mumbai University (2018)
+* No postgraduate education
+
+### 🧠 Skills:
+
+* React.js, Node.js, MongoDB, Express, Firebase, Next.js
+* Git, Jenkins, Docker, REST APIs, Agile development
+
+### 💼 Experience:
+
+**Full Stack Developer – Infosys** (2019–Present)
+
+* Built frontend dashboards and admin panels for internal projects
+* Automated deployment using CI/CD pipelines
+* Trained new interns in HTML/CSS and Git
+
+### 🛠️ Projects:
+
+* Learning Management System for internal training (React + Node)
+* Online Portfolio Builder Web App
+
+---
+
+### 📊 Match Percentage: **21% ❌**
+
+| JD Criteria                       | Resume Match              | Score |
+| --------------------------------- | ------------------------- | ----- |
+| PhD in CS                         | ❌                         | 0/10  |
+| Teaching Experience               | ❌ None                    | 0/10  |
+| Research Publications             | ❌ None                    | 0/10  |
+| Funded Project Involvement        | ❌                         | 0/10  |
+| Curriculum Development, Mentoring | ❌ Intern mentorship only  | 2/10  |
+| Subject Relevance                 | ⚠️ Some overlap (Web Dev) | 4/10  |
+| Outreach/Collaboration            | ❌                         | 0/10  |
+
+---
+
+### 🧠 Professional Evaluation
+
+✅ **Strengths**:
+
+* Good hands-on engineering skills (React, Node, CI/CD)
+* Strong for industry software roles
+
+❌ **Weaknesses (for VJTI Professor)**:
+
+* No academic background (PhD/MTech/Research/Teaching)
+* No publication or mentorship experience
+* No exposure to academic evaluation, curriculum design, or outreach
+
+---
+

@@ -1,0 +1,108 @@
+###  Candidate Resume Summary
+
+**Name**: Raj Mehta
+**Email**: [rajmehta.dev@gmail.com](mailto:rajmehta.dev@gmail.com)
+**LinkedIn**: linkedin.com/in/rajmehta
+**GitHub**: github.com/rajmehta
+**Location**: Pune, India
+
+#### 🎓 Education:
+
+* B.Tech in Computer Engineering, MIT Pune – 8.5 CGPA (2022)
+
+#### 🧠 Skills:
+
+* Languages: Python, Java, JavaScript, C++
+* Web: React.js, Node.js, Express.js, HTML, CSS
+* Databases: MongoDB, MySQL, PostgreSQL
+* Tools: Git, Docker, AWS EC2/S3, Jenkins, Postman
+
+#### 💼 Work Experience:
+
+**Software Engineer – Infosys**
+*June 2022 – Present*
+
+* Developed microservices using Spring Boot and deployed on AWS.
+* Improved API response time by 40% by optimizing SQL queries.
+* Wrote unit and integration tests (JUnit, Mockito).
+
+**Intern – TCS**
+*Jan 2022 – Apr 2022*
+
+* Created a full-stack dashboard to visualize customer feedback.
+* Used React for frontend and Flask for backend.
+
+#### 💡 Projects:
+
+* **CodeVault** – An online judge for competitive coding (React, Django)
+* **AI Chatbot** – Built using Dialogflow and Node.js, integrated into websites
+
+---
+
+### 📄 Job Description – Software Engineer (Backend)
+
+**Company**: TechNova Solutions
+**Location**: Remote
+**Experience**: 1–3 years
+
+#### 📌 Responsibilities:
+
+* Build scalable backend systems using Node.js or Python (Django/Flask).
+* Design RESTful APIs and integrate third-party services.
+* Work with cloud platforms like AWS or GCP.
+* Collaborate with frontend, QA, and DevOps teams.
+* Write clean, testable, and maintainable code.
+
+#### ✅ Requirements:
+
+* 1–2 years of experience in backend development.
+* Strong knowledge of databases (SQL and NoSQL).
+* Familiarity with containerization (Docker).
+* Experience with CI/CD pipelines.
+* Knowledge of cloud deployment (AWS/GCP).
+
+---
+
+### 📊 Match Percentage: **87% ✅**
+
+#### 🔍 Match Breakdown:
+
+| JD Requirement                | Resume Match               | Match Score |
+| ----------------------------- | -------------------------- | ----------- |
+| Node.js/Python (Django/Flask) | ✅ (Flask, Django)          | 10/10       |
+| API Development               | ✅ (REST APIs, Spring Boot) | 10/10       |
+| Cloud Experience (AWS)        | ✅ (AWS EC2, S3)            | 9/10        |
+| SQL/NoSQL                     | ✅ (PostgreSQL, MongoDB)    | 9/10        |
+| Docker & CI/CD                | ✅ (Docker, Jenkins)        | 8/10        |
+| 1–3 Years Experience          | ✅ (1.5 Years)              | 10/10       |
+| Team Collaboration            | ✅ (Described in projects)  | 8/10        |
+| Test Writing                  | ✅ (JUnit, Mockito)         | 8/10        |
+
+---
+
+### 🧠 Professional Evaluation
+
+#### ✅ Strengths:
+
+* Solid backend development experience with real-world deployments.
+* Hands-on cloud and DevOps skills (AWS, Docker, Jenkins).
+* Full-stack exposure with React and REST APIs.
+* Good communication of achievements in bullet format.
+* Clean formatting, project relevance, and metrics included.
+
+#### ⚠️ Weaknesses:
+
+* No mention of **GCP** or **GraphQL** which is desirable in some teams.
+* Could add more impact numbers in projects.
+* Soft skills and certifications (if any) not listed.
+
+#### 📈 Suggestions:
+
+* Add a short **Professional Summary** at the top.
+* Highlight major achievements with metrics: *“Reduced deployment time by 30%...”*
+* Include certifications: e.g., *AWS Certified Developer – Associate*.
+* Consider expanding on collaboration tools used (Slack, Jira, etc.)
+
+---
+
+If you’d like, upload a real resume and JD (PDF or text), and I’ll run a detailed live analysis for you.
