@@ -8,11 +8,14 @@ The system offers a professional evaluation of uploaded PDF resumes, computes a 
 
 ---
 
-### Application Interface
+### Project Demonstration:
 
-**Upload and Analyze Resume:**
+https://github.com/user-attachments/assets/ece1e23b-7785-49ea-9d80-0421828c10e6
 
-![Login Page]()
+### Application Interface:
+
+**Lgin and Registeration**
+![login](https://github.com/user-attachments/assets/016528ab-07ab-49a6-af0e-a8623aa49efb)
 
 **Upload and Analyze Resume:**
 
@@ -26,9 +29,8 @@ The system offers a professional evaluation of uploaded PDF resumes, computes a 
 
 ![Email Result](https://github.com/user-attachments/assets/03a4dab1-f217-41f9-b21d-6b5df6527653)
 
-**Upload and Analyze Resume:**
-
-## ![Youtube video suggestion]()
+**Youtube vedio recommendation:**
+![yt](https://github.com/user-attachments/assets/5148987d-971a-484f-a3be-56d8844da8bd)
 
 ## Project Features
 
