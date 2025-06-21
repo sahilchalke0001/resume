@@ -150,15 +150,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## Future Enhancements
-
-- User authentication with session history
-- Resume rewriting suggestions powered by AI
-- Support for multiple JD comparisons
-- Role-specific dashboards for recruiters and candidates
-- LinkedIn profile parsing for additional evaluation
-
----
 
 ## License
 
