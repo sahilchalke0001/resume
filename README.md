@@ -48,16 +48,18 @@ https://github.com/user-attachments/assets/ece1e23b-7785-49ea-9d80-0421828c10e6
 
 ## Tech Stack
 
-| Layer                | Technology                                                                       |
-| -------------------- | -------------------------------------------------------------------------------- |
-| **Backend**          | Python, Flask                                                                    |
-| **Frontend**         | HTML, CSS, JavaScript                                                            |
-| **AI/NLP**           | Gemini API (Google Generative AI), LangChain                                     |
-| **Database**         | MongoDB Atlas with vector search                                                 |
-| **Audio**            | Client-side audio playback using the Web Speech API (`SpeechSynthesisUtterance`) |
-| **Video Suggestion** | YouTube Data API                                                                 |
-| **Email Delivery**   | SMTP (Gmail)                                                                     |
-| **PDF Generation**   | Built-in browser print dialog via JavaScript’s `window.print()`                  |
+| Layer                | Technology                                                                                      |
+| -------------------- | ----------------------------------------------------------------------------------------------- |
+| **Backend**          | Python, Flask                                                                                   |
+| **Frontend**         | HTML, CSS, JavaScript                                                                           |
+| **Gen AI model**           | Gemini 2.5 Flash (Google Generative AI) for reasoning & generation; LangChain for orchestration |
+| **Embeddings**       | text-embedding-004 (Google Generative AI) for vector representation                             |
+| **Database**         | MongoDB Atlas with vector search                                                                |
+| **Audio**            | Client-side audio playback using the Web Speech API (`SpeechSynthesisUtterance`)                |
+| **Video Suggestion** | YouTube Data API                                                                                |
+| **Email Delivery**   | SMTP (Gmail)                                                                                    |
+| **PDF Generation**   | Built-in browser print dialog via JavaScript’s `window.print()`                                 |
+
 
 ## Prerequisites
 
